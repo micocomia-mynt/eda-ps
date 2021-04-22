@@ -1,0 +1,540 @@
+,id,name,lat,lng,city,cat
+0,4e4bf6d2fa7671a85cf09608,justice jose abad santos general hospital,14.597364347018953,120.97198185986456,city of manila,hospital
+1,4e2900931f6e88a1546879d0,maritime clinic for international seafarers inc.,14.588947079405001,120.97819619925549,city of manila,medical center
+2,4d63058c49758cfafefb60f0,fil-chinese animal clinic,14.608356100254442,120.97898248692788,city of manila,doctor's office
+3,4cf63a07e308236a88d6e4ac,dr. jesus c. delgado memorial hospital,14.627869972184978,121.03483068442736,quezon city,hospital
+4,4c01baf9b58376b006ae443c,national children's hospital,14.620788508921432,121.02142555151038,quezon city,hospital
+5,4f497dfae4b045878190ec44,"er complex, quezon city general hospital medical center",14.649970837469287,121.03322167895524,quezon city,emergency room
+6,529329ea498eb23b3ec84c7d,health lab,14.62186,121.024566,quezon city,medical lab
+7,4dc3c90545dd264552455f15,qc eye center,14.637404798357409,121.02667103977802,quezon city,eye doctor
+8,4bdd6499d33f2d7f72d98a3c,philippine heart center,14.644122321307513,121.04783340031355,quezon city,medical center
+9,4cd56e3cfb718eec6b4e4b88,heart institute,14.622520688300527,121.0232825421211,quezon city,hospital ward
+10,4dfaf1da18a8fc7fb43e64ac,sicam veterenary clinic,14.627844379870584,121.03744346454455,quezon city,veterinarian
+12,57c01d28498e379ca1290a58,vet street animal medical center,14.65025,120.983635,caloocan city,veterinarian
+13,57c01d8a498e44750a86be21,vet street animal medical center,14.642930187173933,120.98264950995583,caloocan city,veterinarian
+14,4d5249f63626a093900e2dbd,st. vincent general hospital,10.302282796856037,123.89494702447044,cebu,hospital
+15,501f47c0e4b03fc9236b1f8a,chong hua hospital eye institute,10.309877513719451,123.89103473916673,cebu,doctor's office
+16,4e9d080bdab4aec571c3d4ba,vsmmc eye referral center laser and eye bank,10.308781784252762,123.88836662855273,cebu,optical shop
+17,4f6292b7e4b0272f2a5715c6,sacred heart hospital - hemodialysis unit,10.303954,123.892609,cebu,medical center
+18,4f2bda58e4b0de3552f1ff38,sacred heart hospital - emergency room / er,10.303851531547092,123.8922325802454,cebu,emergency room
+19,4f8e44b9e4b09b4d91d6aac5,aycardo veterinary center inc. - main branch,10.30000461732789,123.89039508676592,cebu,veterinarian
+21,51eca08e498ed2874df33453,levs medical clinic,14.509561562843304,121.05101488760309,rizal,doctor's office
+22,4fb5cc01e4b0a090cfdf9faa,medsurg eye center,14.506301327422086,121.03710751884896,rizal,medical center
+23,4d6de3effbb8a1cd844a6c0f,antipolo doctors hospital,14.57446190846755,121.17684894243718,rizal,hospital
+24,52919526498e8e4970cc503b,doc jitz family clinic & laboratory,14.58259,121.175793,rizal,doctor's office
+25,52ca960c498ec08268d9b48a,a. n. veterinary clinic,14.587934730476174,121.1749342346104,rizal,veterinarian
+26,51a58e0a498ec48c900657f9,rizal doctors eye center,14.58232144834167,121.16936940805742,rizal,eye doctor
+27,519c9d50498e43340cefed8f,mother regina hospital,14.582469259882368,121.08524457731782,pasig,hospital
+28,5dce1ebeaeb64a000831bd17,madelyn medical aesthetics and skin clinic,14.5730715,121.0832,pasig,medical center
+29,50886b3fe4b00b147cffe66c,physical therapy clinic,14.570324498467178,121.07602619110392,pasig,medical center
+30,4eaa937599116a4249e3eedd,somatiza pediatrics clinic,14.565850175319813,121.08340319549914,pasig,doctor's office
+31,4d7b562f049edcb34823c5c0,animal clinic,14.56854462365575,121.0662331130189,pasig,veterinarian
+32,4c15e53c7f7f2d7fd823e368,martires - martires eye & skin clinic,14.586945674195857,121.07843244287123,pasig,medical center
+33,4fa8dc6ae4b0653e49195353,dr. gonzalez dental clinic,14.56400465205964,121.07581349381395,pasig,dentist's office
+34,4e0a87641f6e56a6810405b0,mother of divine grace clinic,14.56203652617651,121.07783970006484,pasig,maternity clinic
+35,51441170e4b071f0df2e2343,immanuel dental clinic,14.575006924017854,121.08372781805402,pasig,dentist's office
+36,5c09d79c46e1b6002cf20875,dc dental clinic,14.573371,121.079717,pasig,dentist's office
+37,4c569cac12f0d13ade2c05ad,san antonio abad medical clinic,14.57578,121.084828,pasig,doctor's office
+38,4ff29532e4b01870b3b1699b,saa medical clinic,14.575879414375198,121.08486958695943,pasig,medical center
+39,560ce8e4498e71ea25325145,primehealth multi specialty clinic co.,14.577625479661823,121.0826755900308,pasig,doctor's office
+40,4d3a333bcc48224babeb3a4f,pet society veterinary clinic,14.572235948960754,121.08283808893066,pasig,pet store
+41,5fdc20ddd0388d216e7594c6,animales de compania veterinary clinic,14.572224,121.082724,pasig,veterinarian
+42,51a6b594498e6fb358cc567c,dra. lizardo clinic,14.57775,121.08241,pasig,doctor's office
+43,51b6c5db498ec4c6f1b2d559,vlf pasig lab & x-ray,14.560387893790864,121.07665308618799,pasig,medical lab
+45,4d115dfec5556dcbbdd5c890,polymedic general hospital,8.482394524038906,124.64582299897849,misamis oriental,hospital
+46,4fa057f0e4b0f5a96d751d4f,maria reyna-xavier university hospital,8.475791646626092,124.6540524295217,misamis oriental,hospital
+47,4c46633ef9652d7fcb07152b,madonna and child hospital,8.476860310259829,124.63531318761282,misamis oriental,hospital
+48,50aaa4c8e4b00f8f0847413f,madonna & child hospital - emergency room,8.476977755917495,124.6355152130127,misamis oriental,emergency room
+49,4c86e894e0febfb76bf265ef,sabal hospital incorporated,8.48613711596189,124.64810236266175,misamis oriental,hospital
+50,516d6de9e4b08724a0b401ce,dr. maria theresa sares dental clinic,8.48535554285842,124.65220928192137,misamis oriental,dentist's office
+51,4fbefc86e4b036f81c80414f,antolin dental clinic,8.48343606228812,124.64557631079532,misamis oriental,dentist's office
+52,4da2a3d6b521224b63940dee,st. ignatius medical clinic inc.,8.481805759524654,124.64565382170963,misamis oriental,hospital
+53,564d7225498e62c604146016,jabagat dental clinic,8.488,124.650773,misamis oriental,dentist's office
+54,4d4b878bfbeb2c0f4922203a,paredes dental clinic,8.479248637046908,124.63766098022461,misamis oriental,dentist's office
+55,511ee7d1e4b0bc18882976b2,dr. dennis james absin's clinic,8.476753151752948,124.63527852144912,misamis oriental,doctor's office
+56,599931e5cf72a014e4459a5b,yellow lab,8.487132,124.63922,misamis oriental,veterinarian
+57,60687f7d58ba1d182d860d18,nmmc laboratory,8.484307,124.648094,misamis oriental,medical lab
+58,5cc142e4005ac1002c81acc7,sacred heart neuropsychiatric screening center,8.484359,124.646675,misamis oriental,mental health office
+59,55dc2f45498e08d9966ffd0e,sacred heart diagnostic center,8.476759,124.647028,misamis oriental,medical lab
+60,52dc9ea0498ec2360fc8c4e8,unihealth-parañaque hospital and medical center,14.464753412134117,121.01965321879958,rizal,hospital
+61,4eaa6dbc6d86a323a48f5c9d,jeane carla chan dental clinic,14.4676353391992,121.01114273071289,rizal,medical center
+62,4fc9ddc0e4b0e16321a18423,ust hospital junior interns' room,14.326372300777653,120.9399745029093,city of manila,hospital
+63,541c0c20498e0b63fb6ba235,st. paul hospital,14.341866693296422,120.93347976752787,cavite,hospital
+64,5f1d37b42d7c5e79a126f496,serbisyo beterinaryo animal hospital,14.316125,120.944068,cavite,veterinarian
+65,4e090fccfa767637fd3450fc,de la salle health sciences institute anatomy lab,14.328632,120.94443,cavite,medical lab
+66,5e97ce18a987580008f9f01c,wellcare clinics and lab. inc.,14.32721,120.950608,cavite,medical lab
+67,4df74dc1b61c40d585ec2196,valenzuela general hospital,14.68977758521622,120.97781896591187,rizal,hospital
+68,5360d380498ea34171c31e5e,qa central lab - cdo foodsphere inc.,14.701766014099121,120.9961166381836,rizal,medical lab
+69,4ee1e2b8f9ab478e58e3b629,dr. marjorie hermoso's clinic,14.458632338505314,120.97077914943677,cavite,dentist's office
+70,51262bcde4b00df717044e3f,pascual medical clinic zapote bacoor,14.463153391738373,120.96497516007885,cavite,doctor's office
+71,4de9811c45dd3993a8738f61,st. dominic medical center,14.459315309111737,120.95978718978228,cavite,hospital
+72,551274fa498e21440e8a8bf2,jvv veterinary clinic,14.468971,120.980084,cavite,veterinarian
+73,4daaa7991e72c1ab9bf9828b,pavino veterinary clinic,14.455969189593672,120.97780967235478,city of manila,veterinarian
+74,4f519894e4b0061513b1771d,cardiovascular catheterization laboratory,14.462278838076184,120.96940100718525,city of manila,hospital
+75,5549c0d5498e5b5c7d578c1f,general santos doctor's hospital medical suites,6.11944381908583,125.17866253852844,general santos city,medical center
+76,4da0849abcc4a093400012c9,general santos doctors' hospital,6.119449288171438,125.17819468478483,general santos city,hospital
+77,4d2aa32cc406721e3da685b6,st. elizabeth hospital,6.1186237798956515,125.18001179479457,general santos city,hospital
+78,50076939e4b0a59281ca29d0,diagan cooperative hospital,6.11440836033127,125.16788073072482,general santos city,hospital
+79,4f769e2be4b08d570cb68810,herceda-lazara diagnostic and medical clinic,6.118758813126354,125.1700714119579,general santos city,medical lab
+80,5008bbde29a66420016002b2,vasquez dental clinic,6.109256067314721,125.17839431762695,south cotabato,dentist's office
+81,4f68393be4b0786040c46153,l.y.f. eye clinic,6.118180736570019,125.17939888035896,general santos city,doctor's office
+82,50f7a295e4b0d16b44c883bd,ishmael children's clinic,6.116605528249681,125.16894923196018,general santos city,doctor's office
+83,4da1908eb3e7236abe1a0c79,evangelio clinic,6.117954650589107,125.16877204426174,general santos city,doctor's office
+84,4f643e85e4b0c65cc41abe86,yap clinic,6.118832507308593,125.16530875442957,general santos city,doctor's office
+86,4dd4b2d752b18e28aa1b6760,"jose c. catolico, sr. puericulture center",6.112909142717692,125.1713331752248,general santos city,medical center
+87,50f72b69e4b0775f2972d004,perpetual help hospital las piñas emergency room,14.448316873322632,120.98588168621063,rizal,emergency room
+88,4e45f5cb483b03d090da8c90,perpetual help hospital las piñas,14.448277912633358,120.98593533039092,rizal,hospital
+89,50cc00c6e4b0bc9a51d574bf,alcala clinic,14.450612064590823,120.97965826813433,cavite,doctor's office
+90,4f2cd9bde4b0d337d35066c2,barcelona dental clinic,14.451176106217309,120.97909809056912,cavite,dentist's office
+92,4f1c812fe4b035290f6368a5,hvi cath lab (uphdmc),14.448541988784019,120.98517587892637,cavite,medical center
+93,52d8ea98498e4c28a3943c37,physics lab,14.455190658569336,120.9945068359375,cavite,medical lab
+95,4d85ce0440a7a35d8c5c28be,makati dog and cat hospital,14.562997173656536,121.03380316307418,makati city,veterinarian
+96,4bb8854d7421a5937dd7c140,belo medical clinic,14.549713,121.026436,makati city,medical center
+97,4ef0602377c8053fbcd231d0,aivee aguilar-teo clinic,14.552484510769512,121.04428082250583,rizal,doctor's office
+98,4dd32da12271b8c5954b6866,pldt mgo clinic,14.554167419213918,121.02306971178336,makati city,doctor's office
+99,4f72c2dbe4b05ea280bae9be,st. luke's medical center - global city animal lab,14.554239639832392,121.04810925361268,rizal,medical center
+100,56b93b39498edb7e2b2f124e,advanced lab solutions by hi-precision,14.566062,121.028127,makati city,medical lab
+101,5739eeec498eac23dbcd17f6,"charing cross lab / diagnostic center, inc.",14.562641,121.02248,makati city,medical lab
+102,4fbb0a39e4b009d97ddf3517,american eye center,14.553305155630637,121.02147385527176,makati city,medical center
+103,51e0ee3f498eb7f2b841ea4a,dr. lee chinese acupuncture,14.562446,121.030403,makati city,doctor's office
+104,526b8954498e6fb35beaa8a6,acupuncture place,14.563355572388975,121.03565734252315,makati city,medical center
+106,57bd2d07498e10ab621455a3,tutanes' dog and cat clinic,14.558173,121.040194,makati city,veterinarian
+107,4d8ae77c1508a1431a5d2f1e,dog n cat hospital,14.561588,121.03484,makati city,veterinarian
+108,4b9510ebf964a520b58d34e3,makati dog and cat hospital,14.563068771422923,121.0337434291877,makati city,hospital
+109,4d8d7334d00a6ea81806a34f,dog and cat hospital,14.563091397285461,121.03381276130676,makati city,hospital
+115,53c39c71498ecd4a5c82ac8e,jp diagnostic laboratory,14.814528,121.045844,bulacan,medical lab
+116,505c3798e4b0e4ac146a4e26,the doctor's hospital,10.678004539191774,122.96014522945545,negros occidental,doctor's office
+117,4e41ff676365c15e6fa7fbfb,dr. pablo o. torre memorial hospital,10.683083154241412,122.95789550130392,negros occidental,hospital
+118,4df354066284fefe8fc1d2cd,riverside hospital,10.679307097544033,122.9576674245382,negros occidental,hospital
+119,4c578629a7d976b0ddcddcee,corazon locsin montelibano memorial regional hospital,10.672152470601887,122.95135504307784,negros occidental,hospital
+120,4f73d581e4b0dd96b6613f03,negros provincial hospital,10.680166819697403,122.95399779235849,negros occidental,hospital
+121,51b6b3b2498efeebb16f0d69,oliveros dental clinic,10.670760920086439,122.95250129199292,negros occidental,dentist's office
+122,5010e86de4b0e259d1b96729,provincial veterinary office,10.677929626205712,122.95195660431479,negros occidental,veterinarian
+123,517a1e35e4b00f3e189a9021,epn heart station,10.682419992347809,122.95783247229478,negros occidental,medical lab
+124,4f514937e4b050039c547085,muntinlupa doctor's hospital,14.39110910658742,121.04419577451112,rizal,hospital
+125,4d5885a97a7eba7a55a7ddce,beato cauilan hospital,14.371098102441563,121.04942651499488,rizal,hospital
+126,546dd054498eb3e21226f9b1,l.a. acupuncture and chiropractic clinic,14.396285,121.048196,rizal,acupuncturist
+127,512c3f62e4b0674c45d5183d,gamez hospital,14.213092545385953,121.16430211330648,laguna,hospital
+128,4f1a07eae4b0bf7627c8c8e3,calamba medical doctors clinic inc.,14.204720154622727,121.15644346444128,laguna,doctor's office
+129,4feab121e4b0aeab2fd310b4,dra. lintag clinic,14.21345271873908,121.16634359908039,laguna,doctor's office
+130,53052dcc498e0bc9419042d3,cmc - laboratory department,14.21233705156479,121.15567155493295,laguna,medical lab
+131,53eeeaa0498e0c3c2fc21261,cmc tower - laboratory department,14.206079964331176,121.15233774335525,laguna,medical lab
+132,51b1afb6498e876c9f64ad87,pentu veterinary clinic and pet grooming,14.212894436026392,121.16707628817007,laguna,veterinarian
+133,4eacb110722eefae84262a7a,calamba eye center,14.20663904533703,121.15464792808476,laguna,hospital
+134,541d111c498e989575779be5,cmc tower - calamba eye center,14.206087817986267,121.15224824377164,laguna,eye doctor
+135,4ce485684303f04d651c94b8,st. vincent general hospital,14.651305191491456,121.10723090040058,marikina,hospital
+136,528c7d0d498e3f397fd1bd71,gem dental clinic,14.648293785412328,121.10292935773295,marikina,dentist's office
+137,4e3f59ea8877b00cfc610763,marikina orthopedic specialty clinic,14.638169347608404,121.0996052659153,marikina,medical center
+138,5c7681c125ecca002ce781ca,vetlink animal recovery clinic,14.65518,121.09876,marikina,veterinarian
+139,5034e603e4b026a09b88753a,rebadulla animal hospital,10.725108893774282,122.55832801849384,iloilo,veterinarian
+140,4bcbb701511f9521ca13b2c7,st. paul's hospital,10.70152565212573,122.56674328461082,iloilo,hospital
+141,5178ca13498ee4f33785c8df,iloilo mission hospital,10.714906045304721,122.56831148777258,iloilo,hospital
+142,4c87323b110176b04611b640,iloilo mission hospital,10.714779552987343,122.56086314905289,iloilo,hospital
+143,5702346b498e72373d11c65e,sunbrite smile dental clinic,10.717351923483657,122.56176893229814,iloilo,dentist's office
+144,539fd378498e08a9de1824c6,dr. lister p. leonida's clinic (general and cancer surgery),10.702541053338303,122.56889893729263,iloilo,doctor's office
+145,4ebb91c00aafea648271c975,idc clinic,10.71338039809608,122.5511696681359,iloilo,doctor's office
+146,51ea004f498e83b60938bd62,bais-garcia dental clinic,10.700052,122.567655,iloilo,dentist's office
+147,501793d7e4b08410b7bd2707,teletech clinic,10.716873183072689,122.56739676171297,iloilo,doctor's office
+148,4f97800fe4b076e4c21e6c98,saquian eye clinic,10.718147631319264,122.56563499126825,iloilo,doctor's office
+150,4f82dd09e4b06d09fb6819b9,imh heart station,10.717082379572599,122.56227705113984,iloilo,hospital
+151,501fed0be4b0d43ab6d0754e,sacred heart annex (sha),10.702258459111752,122.56825830625438,iloilo,hospital
+152,50445bd9e4b0d3bceebc8a88,sacred heart annex,10.701730694978908,122.57206889806484,iloilo,medical center
+153,5274891211d25577213961cb,mark angelo l. suñaz acupuncture and integrative medicine clinic,10.703153735253482,122.56113378024216,iloilo,doctor's office
+154,4cd4cae2aeb1224bdce31eff,pasay city general hospital,14.549246988763326,121.00044219242903,pasay city,hospital
+155,4bd3bab69854d13a8992fe4d,san juan de dios hospital,14.538700646260892,120.99314277512894,pasay city,hospital
+156,4f861860e4b0eb2053e3c73f,opd (pasay city general hospital),14.549597346407637,121.00063505469525,pasay city,hospital
+157,510c83aae4b045d336c8d53f,"pedia ward, pasay city general hospital",14.54983550705415,121.0010103072589,pasay city,hospital
+158,513873a5e4b09227700f1b30,metrohealth family clinic and animal bite center,14.548210339570753,121.0014975737772,pasay city,doctor's office
+159,50efae95e4b0e7ad415d888d,treat 'n fix dental clinic,14.553470247003872,120.99701688821693,pasay city,dentist's office
+160,4fcac269e4b0236889ced3f7,carveldon veterinary clinic - cartimar,14.547679086165365,121.01013362719785,pasay city,veterinarian
+161,5086278be4b0d8614a659aa2,dr. carlos l. sevilla eye clinic,14.559633377781905,121.01498901844023,makati city,eye doctor
+162,4d841d4e02eb5481afa328f5,heart station,14.559504072864264,121.01461767710248,makati city,hospital
+163,4d2504a93b62f04d7a471d78,physical medicine & rehabilitation division philippine heart center,14.539042,121.004078,quezon city,hospital
+164,539271fc498e932c3f050f60,acupuncture manila,14.564813441985194,120.99324178195356,city of manila,acupuncturist
+165,507e9d12e4b0efb147783b30,cabanlig's dog and cat clinic,14.542357478411617,121.01534184381953,makati city,veterinarian
+167,4d8d52c3d00a6ea81d23a04f,catipon dental clinic,14.552835,121.013642,makati city,dentist's office
+168,4bd68214cfa7b71394be27da,catipon optical clinic,14.554412,121.013629,makati city,doctor's office
+169,4e8fcb9b02d5ee38b6885dde,st catherine hospital,15.135267638866537,120.58491946820962,pampanga,hospital
+170,4ed5c9134690ad261c2fe457,"st. luke's hospital, qc",15.141864662550766,120.5833684408316,quezon city,hospital
+171,4fc05a14e4b021b6df6f6094,dr. jennifer punzalan dental care clinic,15.147859313267865,120.59295528421548,pampanga,dentist's office
+172,4df2fb63d4c01ff6b2eaebf2,the lasik surgery clinic,15.145234101633294,120.59523106949977,pampanga,optical shop
+173,534b4e09498ecec51d2be3c9,salunga narciso dental clinic,15.137139320373535,120.58827209472656,pampanga,dentist's office
+174,4f9b516ee4b0e5be3ef17a5f,ararilla-de guzman dental clinic,15.146138282559026,120.5888868648745,pampanga,dentist's office
+175,4df96930922ec3e462cc0f8e,lab access diagnostic laboratory,15.141791839684293,120.58943510055542,pampanga,medical center
+176,51b1891f498ec1af7a65e53d,chua eye center,15.156621622233905,120.59205293655394,pampanga,optical shop
+177,4d2ca1e3ebacb1f77f541650,mactan benito ebuen air base hospital,10.314168691948042,123.95966172445561,cebu,hospital
+178,565ef42c498e31f0c06763b2,lapu-lapu city hospital,10.320778020389923,123.97291965620633,lapu-lapu city,hospital
+179,5603e43c498e65e4465f5f11,gentri medical center and hospital,14.422973008673935,120.94259695542146,cavite,hospital
+180,4cf22b916195721ea52746c1,sacred heart medical clinic,14.427409,120.937663,cavite,doctor's office
+181,50dbcae5e4b0e9449f9642f6,virata medical clinic,14.42822378266996,120.93298662421947,cavite,doctor's office
+182,54792df9498e21a5ede7743e,la salette medical clinic and diagnostic center,14.430295121900622,120.93641056671923,cavite,medical lab
+183,4c5a3b50f54376b02da5848b,mary immaculate laboratory,14.418260201607668,120.94502323406806,cavite,doctor's office
+184,5d577c452b148600084938d3,eye and ent,14.422755,120.941489,cavite,eye doctor
+186,4b88e232f964a520d21132e3,our lady of lourdes hospital,14.59499,121.02244,city of manila,hospital
+187,4dd0ed4552b1f8915bd19e1d,our lady of lourdes hospital mab bldg,14.595212295624524,121.02200031280516,city of manila,hospital
+188,4d256e47002f548125f8a0f3,sta. ana hospital,14.583443726045928,121.01604330015768,city of manila,hospital
+189,4b9ca62df964a5207f7436e3,vets in practice animal hospital,14.57801170555831,121.0329092247171,lungsod ng mandaluyong,hospital
+190,4d58bb671d6cf04d5ae22ffe,advincula-fontabla dental clinic,14.579062279997627,121.03201782707708,lungsod ng mandaluyong,dentist's office
+191,4f113459e4b019e990e9386f,dentopt dental-optical clinic,14.584703978850033,121.03824973039525,lungsod ng mandaluyong,dentist's office
+192,4f7aac49e4b0c69aa3c9cf31,dra joy lara esguerra dental clinic,14.579131548076333,121.02944210364667,lungsod ng mandaluyong,dentist's office
+195,4f5f1ecee4b04ddc3932fc04,vetzone animal clinic,14.580271746958632,121.03282972849983,city of manila,veterinarian
+196,4c592afab05c1b8dd21fd5b1,st. gabriel veterinary clinic,14.579234198176426,121.03067397823388,lungsod ng mandaluyong,veterinarian
+197,5250e6db11d2b0585f0ff98a,vetpride animal clinic,14.584207,121.027492,lungsod ng mandaluyong,veterinarian
+198,5b24e20f811045002c8d9d8a,vets plus philippines,14.588854,121.041584,lungsod ng mandaluyong,veterinarian
+199,574007e4498e85c56580e280,eyeconcept optical,14.576399,121.041447,lungsod ng mandaluyong,eye doctor
+200,5c7b899566f3cd002cf6d06b,ojo eyewear,14.573641,121.048937,lungsod ng mandaluyong,eye doctor
+201,5556abe7498e3f02f74089c0,navotas city hospital,14.66020228729693,120.94599341176038,rizal,hospital
+202,4fd33d55e4b00a1642cc22d2,calalang general hospital,14.661615169827543,120.95646475559063,rizal,hospital
+203,54eab15f498ea0afda178cb7,dra. kaye hernandez-barrera dental clinic conception malabon,14.668498160601333,120.95090101586031,rizal,dentist's office
+204,57fdac7e498e4d9a074c62d2,heart hub,10.32797,123.94111,cebu,urgent care center
+205,4bcfe995b221c9b60aefd2d0,notre dame de chartres hospital,16.415622212224516,120.59876874962042,benguet,hospital
+206,4c6ccc68d68a9c74bb856b6b,slu hospital of the sacred heart,16.416931841527216,120.5977596718168,baguio city,hospital
+207,5358d01e498e6ccf2fca149d,ganaben dental clinic,16.415901,120.596566,baguio city,dentist's office
+208,53eaf30b498e9af7ab341f34,dental clinic,16.414499282836914,120.5970230102539,baguio city,dentist's office
+209,4f24eab0e4b012e02fadcf28,dr. jose dental clinic,16.40890946765227,120.59954652576286,baguio city,dentist's office
+210,52d0b18c498e677447caba68,dra. gomez pediatric clinic,16.415065359366046,120.59611889562507,baguio city,doctor's office
+211,4fc972d7e4b0ad18c6b49e94,mt sinai medical clinic,16.415198678237367,120.59656842546497,baguio city,doctor's office
+212,505d50d4e4b03366ba50c7e4,gn soriano dental clinic,16.4148145944845,120.59665833124129,baguio city,dentist's office
+214,4e12bfcf1838f8ad8167a78d,gregorio t. lluch memorial hospital,8.226090959553126,124.25445914268492,lanao del norte,hospital
+215,4e37a29322713b80b9fe5506,st. mary's maternity and children's hospital school inc.,8.228439875076443,124.24211626379345,lanao del norte,hospital
+216,4ee9801e99111dae86f90a2b,iligan medical center hospital (imch),8.23057396939126,124.24944485912435,lanao del norte,hospital
+217,5cbd53ae234724002b03af9c,dr. sharon uy’s clinic,8.227244,124.251921,lanao del norte,doctor's office
+218,4eb757898231316270129526,dr. sarmiento's clinic,8.2272182,124.2522144,lanao del norte,doctor's office
+219,4ea77035d3e33e1d4ef5e9df,dra. cempron's clinic,8.2271278,124.2521038,lanao del norte,dentist's office
+220,4ef0719d2c5b9617da60b0ad,iligan dog and cat animal center,8.228746691780476,124.23752193339993,lanao del norte,veterinarian
+222,4cbb0c8df50e224b0149f7fb,central luzon doctors hospital,15.478000495304375,120.58731655488647,tarlac,hospital
+223,4eafaf1530f8614931782321,tarlac provincial hospital (tph),15.475024717599428,120.5865594948654,tarlac,hospital
+224,4dba31024b22153e34adf0c7,ramos general hospital,15.484927813567937,120.59306610635424,tarlac,hospital
+225,528a716f498e3986452d84c2,holy trinity hospital,15.484111651900681,120.59565812588184,tarlac,hospital
+226,54253a87498e59b463aaefc6,salvador general hospital,15.483319562643759,120.5943095218704,tarlac,hospital
+227,573d13ec498ebc9917f8e06e,heart lab,15.482427,120.595487,tarlac,medical lab
+228,51775d41e4b025cbe83a0b07,dr. domingo veterinary clinic,15.46992301940918,120.60303497314453,tarlac,veterinarian
+229,534f3a3a498e1a2c8ec9716f,alpo tarlac veterinarian,15.487242828635969,120.58817881169017,tarlac,veterinarian
+231,4d54ba2696ed5481da1b0170,m.j. santos hospital,8.947038216891453,125.54137966693077,agusan del norte,hospital
+232,601216168fe46e5069f825af,roño-señeres dental clinic,8.946079,125.530817,agusan del norte,dentist's office
+233,502538dee4b06253f48e0b64,agusan valley veterinary clinic,8.945340422043115,125.53431011860968,agusan del norte,veterinarian
+234,51f07a47498e26c8e8cad12c,intensive care unit - university of perpetual help hospital medical center,14.330447141160823,121.08512704315248,laguna,hospital ward
+235,4c9a0beb78fc236acaf23197,biñan doctors' hospital,14.325960716636152,121.0922371915302,laguna,hospital
+236,5215637111d281c3ca9ced90,biñan doctors hospital physical rehab department,14.31711335887155,121.07850576592283,laguna,physical therapist
+237,5913c35d5c6838779b79f83f,"tamayo towers, university of perpetual help hospital",14.329976,121.085106,laguna,hospital
+238,59d5ccdf3fcee8606d506cc9,"room 400 tamayo towers, university of perpetual help binan hospital",14.330021,121.08532,laguna,hospital
+239,4dfdc61a18a8eee4fe41651f,our lady of piat hospital,14.320848848726262,121.07639561181738,laguna,hospital
+240,4d4f6ee09ffc236a6a100fa7,biñan eye & ent clinic,14.33365413873629,121.08727062435112,laguna,doctor's office
+241,4d633a7d2f16b60c2233def4,emmanuel clinic,14.33277,121.083084,laguna,medical center
+242,4fc5acd9e4b058a77a240fe9,dr. pia dental clinic and laboratory,14.329952235448312,121.07411749931403,laguna,dentist's office
+244,56de471a38fa77619a36b7d4,biñan doctors eye center,14.326108,121.092103,laguna,eye doctor
+245,4d79ef4e7418a1432594c35b,asia-pacific eye center,14.328677177486837,121.08991828082675,laguna,doctor's office
+246,59c884e1e1f2283cca30d8cf,uphmc heart station,14.330356,121.08514,laguna,hospital
+247,520713a3498e39682cbb4e15,dog & cat edison cepeda,14.329823,121.077125,laguna,veterinarian
+249,4e2126013151306f89283a1e,lipa city hospital,13.941626986532164,121.16392135620117,batangas,hospital
+250,50f29eb3e0e2ac9a3ab682b8,the garden skin clinic,13.941373842471208,121.14761654854924,batangas,doctor's office
+251,4e3f83d26365a251c7044dba,dra. bernice leyesa-tsourous dental clinic,13.94102304434464,121.14737749099731,batangas,dentist's office
+252,50d79d01e4b0f535952efd7b,mediatrix heart institute - coronary care unit,13.94359815630907,121.15128973385579,batangas,hospital ward
+253,511eee50e4b00145d6f10ba3,mediatrix heart institute - cardiac catheterization laboratory,13.943628,121.151266,batangas,hospital
+254,569777bb498e9c1c5c6a31dc,heart station - mary mediatrix medical center,13.941208,121.146805,batangas,hospital
+256,538c5729498e3f763f5b1669,dr. edwin aguado dental clinic,13.75100244469556,121.04954808306042,batangas,dentist's office
+257,4dbbd8adf7b1ab37dd4ed4b9,dr. josephine mercado arago dental clinic,13.760018620554723,121.06296699876418,batangas,dentist's office
+258,4c3aa43117689c743c3caa08,pioneer clinical lab,13.760305896960615,121.05773844611204,batangas,dentist's office
+259,4d43ba8e1928a35deb98b170,batangas clinical laboratory,13.753706902368563,121.05573989218014,batangas,medical center
+260,4e0028b6b0fb2c93493aff0a,pioneer clinical laboratory,13.760294118876146,121.05764887577796,batangas,medical center
+261,4d561a92143ca0930697b7fc,divine mercy hospital,14.358783411109082,121.05832689567168,laguna,hospital
+262,563ff104cd10bd7b829f40ad,family care hospital,14.342259371984854,121.05849979125925,laguna,hospital
+263,4c025b63187ec9281213b47b,evangelista medical specialty hospital,14.341963,121.058184,laguna,hospital
+264,50346872e4b00dd3ac7a9906,divine mercy hospital opd,14.358769215776764,121.05842701582844,laguna,doctor's office
+265,555f2f5a498e3524559199f1,"dialysis unit, divine mercy hospital",14.358969,121.058207,laguna,hospital
+266,503ee52be4b0081697d02efe,room 220 new divine mercy hospital,14.35903720616151,121.05810792303515,laguna,hospital
+267,4e0de99fd22d8582bdb97ca6,divine mercy hospital,14.359351525494883,121.05861735147761,laguna,hospital
+268,50346872e4b0ab0c73766911,divine mercy hospital opd,14.359063846708366,121.0603975350282,laguna,doctor's office
+269,4cc1799c1da0a1cdf31d9ac6,dra. theresa pascual-barican ortho-dental clinic,14.349233,121.054619,laguna,dentist's office
+270,4f2a614ce4b0da710551670e,pet wonders veterinary clinic,14.359207574651217,121.0592282608311,laguna,veterinarian
+271,5e5f3ed086057500084229d1,laboratory,14.342149,121.05848,laguna,medical lab
+273,5160fe03e4b020ec56fca9c8,st. michael's veterinay clinic- san pedro laguna,14.3654837,121.0545994,laguna,veterinarian
+274,4e4926101850c7ee212eb2f6,pet house veterinary clinic,14.36212436357419,121.04940176010132,laguna,medical center
+275,5222132a11d2c4664bf3d43b,pet wonders veterinary clinic,14.35468190268716,121.04742062487674,laguna,veterinarian
+276,5029edd9e4b0c9030fec5e7c,veterinary hospital,14.344099044799805,121.06334686279297,laguna,veterinarian
+278,4e55957c1f6eee31235ae4c6,carrera-rubrico dental cate,14.361885872011,121.0567475705804,laguna,dentist's office
+279,51466ab7e4b02dd32efa2125,general trias medicare hospital,14.377748198164571,120.8809207873366,cavite,emergency room
+280,543fb3bc498ebd860eb81c50,alana's care laboratories & diagnostics center,14.385198593139648,120.87980651855469,cavite,medical lab
+281,4e1a9b196284ea72470d1aa0,"escuadro medical clinic, laboratory and diagnostic center",14.38478411095303,120.87785410339151,cavite,medical center
+282,51aacc8e498ed257d8806283,mateo dental clinic,14.277778,121.123023,laguna,dentist's office
+283,5721a60e498e24afa9c0f0ee,cataquiz-jimenez dental clinic,14.281803825075492,121.11614087072155,laguna,dentist's office
+284,4e65ce69aeb73603165775f9,jose b. lingad memorial general hospital,15.03509883596246,120.68511702988157,pampanga,hospital
+285,4c9c5d8b46978cfa7e668d7f,vl makabali memorial hospital,15.031848055829828,120.68921128429805,pampanga,hospital
+286,4e8fb7f67ee60278a59133d1,san fernandino hospital (emergency room),15.039829038320363,120.68193319222856,pampanga,emergency room
+287,4d18cf4cbb64224bfdfbc965,san fernandino hospital,15.043646,120.67499,pampanga,hospital
+288,51c3f420498e5d2707bfec5b,vl makabali memorial hospital,15.037508981489392,120.68209042067797,pampanga,hospital
+289,53c73722498e5a424a30753d,opd department v.lakabali hospital,15.031561799767466,120.68961469439729,pampanga,doctor's office
+290,53a78075498e0b9480193110,dr. richard s. lising clinic,15.0329257437415,120.68885105737291,pampanga,doctor's office
+291,503320ebe4b0f7e8edc5dcab,napao dental lab.,15.031621319065884,120.683494237376,pampanga,medical lab
+292,4fcc1255e4b0d6a68fa28d32,st. mary's laboratory,15.032148488178635,120.68932833105883,pampanga,medical lab
+293,508fd775e4b06dbf5f18a569,cabanatuan city general hospital,15.476362928619201,120.9582632514725,nueva ecija,hospital
+294,506cf212498e0db5b430081e,dental clinic -dr. ferrer,15.482967175902738,120.95877870333236,nueva ecija,dentist's office
+295,5ce4eb57a5a315002c5bff33,life lab,15.488423,120.9673,nueva ecija,medical lab
+296,4dbade42cda109aa6c725a8d,wughcc lab,15.482578614587318,120.976467088667,nueva ecija,hospital
+297,4ea51bebd3e32e6869162d50,dd laboratory,15.487846613687772,120.96593877596341,nueva ecija,dentist's office
+298,56d3dbbecd10af732d2ced10,dr. pjgmrmc laboratory,15.486154,120.973538,nueva ecija,medical lab
+299,51137471e4b09741d9cdf6c2,n.e. veterinary clinic and grooming services,15.483880859597967,120.97527761061707,nueva ecija,veterinarian
+300,5f8bd4513349812af8a4d7ff,louie goshen happy paws pet supplies and veterinary clinic,15.480649,120.976324,nueva ecija,veterinarian
+301,56001377498ecf307c08da0a,ortiz eye & dental center,15.483130697172104,120.96398352412702,nueva ecija,dentist's office
+302,58a6a2c2bf1a6d74d1c60dd6,dr. louie arenal eye clinic,15.488744,120.965654,nueva ecija,eye doctor
+303,5ac6e0e23ba7670ce88d62c5,nueva ecija eye and laser center,15.491581,120.97307,nueva ecija,eye doctor
+304,4f9b6efee4b0b045842d6929,heart and lung clinic,15.492724591911045,120.97583220387835,nueva ecija,doctor's office
+305,4f3c94ace4b0811223505c88,catbagan clinic,15.486204231122814,120.96286302178953,nueva ecija,doctor's office
+306,5940e85bf96b2c588ece05c5,united doctors hospital,7.218734,124.248561,north cotabato,hospital
+307,4f62c70ae4b0c65cc2c7ed91,david medical clinic,10.956842422485352,123.30886840820312,negros occidental,doctor's office
+308,534d1565498e90151d93c061,cadiz emergency clinic,10.960364284374283,123.30933069998567,negros occidental,emergency room
+309,50dd3ebee4b02a7dec538cf5,"pensader ortho-dental clinic, lucena city",13.939842321114394,121.61398904908555,quezon,dentist's office
+310,4f913b7ce4b04fef005ca649,flores vet clinic lucena city,13.931544113109005,121.61358789621075,quezon,veterinarian
+311,5858b4af2eb9792b4ea06137,vetfocus,13.940551,121.603131,quezon,veterinarian
+312,59f56c7b18d43b6fdf2217ec,heart station,13.940821,121.611262,quezon,hospital ward
+313,590994e6a6fe4d71fc1176e1,mcdgh heart room,13.937104,121.611722,quezon,medical center
+314,57fb2ae6498e90b31f640465,roxas heart clinic,13.938386,121.61311,quezon,medical center
+315,4fc97f65e4b03915d50d7227,quezon dog and cat bite tx center lucena,13.942292,121.613651,quezon,medical center
+317,4d7c8642ea35236a62f45a23,san pablo city community general hospital,14.073059562311109,121.31299405303432,laguna,hospital
+318,4ccbed7eee23a14376eb1aa8,san pablo doctors hospital,14.073146081552267,121.32432855813232,laguna,hospital
+319,4d81c1731ae92c0f1de7679a,laguna provincial hospital - san pablo city district hospital,14.07279168083008,121.32856522180403,laguna,hospital
+320,4edb3ba2f9f4181fa42e1e27,l. f. candido maternity clinic,14.072816667250747,121.32447302341461,laguna,doctor's office
+321,4ef29ede7ee5e5892a53664d,bma analyst clinical laboratory,14.070895,121.324174,laguna,medical center
+322,4e44cd281f6e0a1ba5e253d0,tagum doctors hospital,7.439196323374516,125.80366957211518,davao del norte,hospital
+323,504ee4aee4b0dde144eae957,bishop joseph regan memorial hospital,7.447288100616702,125.81237076639454,davao del norte,hospital
+324,5265def5498eee417c2a24a9,tagum doctors hospital or/dr,7.448180011055238,125.8046356459148,davao del norte,hospital
+325,5abadd688c812a5c01028a6a,bishop joseph regan memorial hospital - laboratory,7.446691,125.81295,davao del norte,medical lab
+326,4cddf9a6f8a4a1430300d4bc,sacred heart hospital,14.850959,120.822308,bulacan,hospital
+327,4dd36532e4cd6154147ebd03,santos eye clinic,14.851404760307345,120.81909018332166,bulacan,hospital
+328,4c2eb9393ffc9521bd648ff5,st. vincent's polyclinic & lab,14.848522197093715,120.81386001370251,bulacan,medical center
+331,5066b901e4b0e370b1940a89,dela cruz - lalu dental clinic,15.218079719831396,120.58084517094768,pampanga,dentist's office
+332,5024cec6e4b059829f501500,manabat dental clinic,15.221807441141042,120.58013145298031,pampanga,dentist's office
+333,532ba08a11d27d4bf484198b,"c.i.feliciano ob-gyn, medical & lying - in clinic",15.213151475807665,120.57785539640308,pampanga,hospital
+334,5b3b1f4ad48ec1002cc166cc,alphamed diagnostic laboratory,15.206202,120.579865,pampanga,medical lab
+335,5edd8f507271b1110e469335,ejgg animal clinic & veterinary supply,15.207217,120.579502,pampanga,veterinarian
+336,5f1955f614d64c33c2d35223,sacred heart medical clinic mabalacat,15.219607,120.5758,pampanga,medical center
+338,519efcc0454a5809d9a6a1c3,doc ann dental clinic,14.672486915788495,120.94537496566771,rizal,medical center
+339,5631b970498e2809b2370578,dr. leo g. garcia dental clinic,14.67367175869277,120.94514090455176,rizal,dentist's office
+341,4ef6e665e5fa4f286affb40c,divine word hospital,11.241344766889581,125.00059128264476,leyte,hospital
+342,511f29a3e4b027095551e0fb,bañez dental clinic,11.2450671497102,125.00179104075704,leyte,dentist's office
+343,5538c0f8498e322eb3c1fbd2,vetcare pet clinic,11.242896147673685,125.0008280075703,tacloban city,veterinarian
+344,5538bf6f498e27fbb3387491,vetcare veterinary clinic,11.243023485876211,125.00048368018616,tacloban city,veterinarian
+345,5ad06e09efa82a59ad7e60a5,sbfz eye clinic,14.82447,120.272035,zambales,eye doctor
+346,5ad06e4d22d49074513f0bf6,ubhmc eye clinic,14.824548,120.27197,zambales,eye doctor
+347,59dad3454420d823880703ac,quick care medical clinic,10.252703,123.828155,cebu,doctor's office
+348,5cab44f6a4b51b00394ac701,larida medical clinic,10.248859,123.839714,cebu,doctor's office
+349,5227042c11d2f1fba7175c62,dr. bas-bucao clinic,10.253821,123.839584,cebu,doctor's office
+350,5126eddfe4b059af4d4a47aa,talisay water lab,10.265146451673587,123.84133458137514,cebu,medical lab
+351,50a36002e4b06729d0cf44bb,tingzon felizardo vet,10.260159492492676,123.84369659423828,cebu,veterinarian
+352,4ef8204e6da1f7b661920423,aycardo veterinary center inc. - talisay branch,10.259962870040491,123.83293390274048,cebu,veterinarian
+353,583eb443474586397082ccda,vet spot clinic,11.00669,124.606429,leyte,veterinarian
+354,4e341270ae60795fcfdcb2df,st. francis of asissi maternity and general hospital,14.734019046055355,120.95750794510575,bulacan,hospital
+355,5f0519fde9360d1fab108f6e,dr. rosario veterinary & pet grooming center,14.740078,120.967111,bulacan,veterinarian
+356,53ae7a18498e513b90413795,figueroa eye clinic,14.739884,120.967066,bulacan,eye doctor
+357,4ff5385fe4b01992a9cb9ec8,darimbang's children specialist clinic,8.002953364903496,124.2838886066082,lanao del sur,doctor's office
+358,5c5922ade0c0c9002c304513,dr. abedin’s clinic,8.003303,124.298536,lanao del sur,doctor's office
+359,50a707c6e4b0e7faf4be983b,ilab clinical laboratory,8.001914024353027,124.29371643066406,lanao del sur,medical lab
+360,5216f7c4498e07ba12bdef77,ilab clinical laboratory,8.002029235240165,124.28906368562865,lanao del sur,medical lab
+361,5237d98911d2f0cb6d6b87ad,edding medical clinic,7.825694592889445,123.43871704110646,zamboanga del sur,doctor's office
+362,5456ea29498e75ddfe7d01ce,blancia eye clinic,7.833617687225342,123.43257904052734,zamboanga del sur,eye doctor
+363,555c08cb498e9137b65b6f22,poliquit dental care clinic,7.82812680756665,123.43029672165208,zamboanga del sur,dentist's office
+364,4f3b0194e4b0258ec1b3bf42,barcs veterinary clinic,7.824059887480968,123.43369121772359,zamboanga del sur,veterinarian
+366,4ceb6abef1c6236aebfe6ff0,university of santo tomas - legazpi hospital,13.146484247855415,123.73525609189487,legaspi city,hospital
+367,4caf106b562d224b89ba0a88,"estevez memorial hospital, inc.",13.13819329435457,123.7411231931133,legaspi city,hospital
+368,4c858d84dc018cfa306de96c,ago general hospital,13.140641170858482,123.72526353677398,legaspi city,hospital
+369,5c3723ca31fd14002cb2d84a,legazpi social hygiene clinic,13.138014,123.735071,legaspi city,doctor's office
+370,510a2765e4b0cb07aba3c989,jb legazpi medical clinic and diagnostic laboratory,13.146663,123.722574,albay,medical lab
+371,5d73617a48be00000801b88f,dr. noah's veterinary clinic,13.13919,123.743957,legaspi city,veterinarian
+372,5ca6e446345cbe002cee1397,bicol regional heart center,13.14177,123.72955,legaspi city,hospital
+373,56be92bacd10e13a7d59f9c0,bicol heart center,13.1375675,123.743576,legaspi city,hospital
+374,4e9dba21be7beb6ff0023e2e,ccu cathlab,13.147012,123.724954,albay,hospital
+375,4f5157f87b0c446ac3ca4fb1,santamaria / bismonte dental clinic,13.62325708017847,123.17319631576538,"naga, camarines sur",dentist's office
+376,4c7cdf602dc19521fd8fc077,malaybalay polymedic hospital,8.148738584756401,125.13179947988277,bukidnon,hospital
+377,54024e98498ec87c145534f2,redoble dental clinic,8.155827,125.127601,bukidnon,dentist's office
+378,4f9b9336e4b05e5ed7342c68,nalzaro-abarquez dental clinic,8.15576214030814,125.12893283242913,bukidnon,dentist's office
+379,4db24666cda118d4d66ed20c,nazareth general hospital,16.041091702731432,120.34036170681988,pangasinan,hospital
+380,4d476ee00bfd54812a433300,dra. rosemarie yambao-yumang dental clinic,16.04177308540279,120.33776547402118,pangasinan,dentist's office
+381,55d739cc498e9089cc3c03b5,beltran dental clinic,16.046885779394053,120.34140586853027,dagupan city,dentist's office
+382,4d7d875b73ca548189cb727c,cuison-ferrer dental clinic,16.03451202320711,120.33344684635546,dagupan city,dentist's office
+383,50c69b04e4b06508385a0c16,green bay drug screening laboratory,16.0424,120.33295,dagupan city,medical lab
+384,54190a09498ef0fd44058fbb,go eye & ob-gyn clinic,16.0398275840015,120.33411125992535,pangasinan,eye doctor
+385,521824b6498e9e5d8a12624d,dr. michael go eye clinic,16.039811781359358,120.33770353904269,pangasinan,doctor's office
+386,597027e12f97ec473394e3e3,"acupuncture for body conditions, stroke pt, hand, spine & sports therapy 09082998882",16.030202,120.331993,pangasinan,acupuncturist
+387,4ffbe3ebe4b044d6afbdb412,davao del sur provincial hospital (dsph),6.745089144292703,125.36128562310495,davao del sur,hospital
+388,534659fc498ed61210fcd9cc,tan veterinary clinic,6.756540390160191,125.35496967164813,davao del sur,veterinarian
+389,5168d034e4b0d275dc0c7cf6,digos veterinary clinic & supply,6.740542746474264,125.36334797861575,davao del sur,veterinarian
+390,4fb5aa21e4b06101e9e228f7,sorsogon veterinary clinic,12.97053914438651,123.99975743824517,sorsogon,veterinarian
+391,522d403111d2ce5ea1870886,metrohealth multi-specialty clinic and laboratory,12.976574107817907,124.01329579823185,sorsogon,medical lab
+393,4d9e88c77f1b721e3add8a0f,capiz emmanuel hospital,11.576296733612171,122.75208749545922,capiz,hospital
+394,4cb7cd9c43ec6dcb96839031,capiz doctors' hospital,11.577419439069311,122.75446630630817,capiz,hospital
+395,4d7448f5548bb60ce5ddb3ff,st. anthony college hospital icu,11.578288922579405,122.75637542344751,capiz,hospital
+396,4cb298b31463a1439ca4aea9,st. anthony college hospital,11.578212724381116,122.75645790490276,capiz,hospital
+397,50cfaf96e4b089ab7d2d6e22,dr. derecho veterinary clinic,11.577048,122.755206,capiz,veterinarian
+398,530d2342498e60883a2fde2d,st. catherine laboure ward,11.577006340026855,122.75386810302734,capiz,hospital
+399,4e82b2614901e260f5d6b992,satellite hospital administrator's office,14.279972,120.867645,cavite,doctor's office
+400,566d3090498e4931597e9daf,focus richman eye clinic -tower mall,14.281682,120.867357,cavite,eye doctor
+401,4d11b4e4b69f224b92ca7a55,caraga regional hospital,9.784369826518125,125.48960882138134,surigao del norte,hospital
+402,5af264ec9deb7d002cd209e9,saint paul university hospital,9.766469,125.483403,surigao del norte,hospital
+403,4ebcacf15c5c279832b20cfe,miranda hospital,9.782056401673508,125.48601541523564,surigao del norte,medical center
+404,58ce922c739d8523a656bdb0,caraga regional hospital laboratory,9.784327,125.490316,surigao del norte,medical lab
+405,4d6771c1ae912d43ec3d9109,st. paul hospital,17.613813204995722,121.70766853414334,cagayan,hospital
+406,4d534e3908a7b1f713463192,tuguegarao city people's general hospital,17.61317309573703,121.729554976097,cagayan,hospital
+407,4e001731d4c080823b64379e,holy infant hospital,17.615714001071645,121.7258885327797,cagayan,hospital
+408,55c86afa498e401792563321,versoza ent clinic,17.614481651435252,121.72197558671937,cagayan,doctor's office
+409,51566b43e4b0fa0f83522171,cabacungan dental clinic,17.615624341715055,121.722637966609,cagayan,dentist's office
+410,53e06d3a498ece002b2ced9a,cagayan valley heart and lung clinic,17.611248,121.728367,cagayan,medical center
+411,50a5f4ff498e538a8eba4dc5,immaculate heart clinic,17.61347852722313,121.72986266332546,cagayan,doctor's office
+412,506baaa8e4b019a5980f8302,sta. catalina mother and child clinic,17.623715,121.722789,cagayan,doctor's office
+413,51f77c2c498e4a3b8ec6afd7,ilagan provincial hospital,17.135957,121.872198,isabela,emergency room
+414,4f827b40e4b0bc1418fbfa72,olalia dental clinic,17.139207,121.882918,isabela,dentist's office
+415,4f05176f8231c7e150ab984b,dr. olalia dental clinic,17.143089,121.885345,isabela,dentist's office
+416,4f00396cd3e364d5fcbf5ebc,davao oriental provincial hospital (doph),6.9441219506271405,126.24297469673276,davao oriental,hospital
+417,4fa48145e4b08e1f882a0067,"surgery ward, doph",6.942355735162822,126.23583841449,davao oriental,hospital
+418,4f84dc1be4b0da7773afee95,"ecg/caramel club - opd dept, doph",6.9441219506271405,126.24297469673276,davao oriental,hospital
+419,4fa46bb5e4b0ddd49568930f,emergency room department davao oriental provincial medical center,6.9442608475520275,126.24352035401024,davao oriental,emergency room
+420,50ebbfb7e4b0e5ba389ab6a3,marinez-oliveros children's clinic,6.950581683371392,126.22231633756611,davao oriental,doctor's office
+421,50ebc0afe4b0000d012a039e,martinez-oliveros children's clinic,6.950594902038574,126.22199249267578,davao oriental,doctor's office
+422,4fe3a839e4b065cd6e59fffa,doph - laboratory,6.942741526810382,126.23580662555986,davao oriental,medical lab
+423,4d4191d400e8a35d0d7f05fb,kidapawan doctors hospital,7.009164699471853,125.08917922476478,north cotabato,hospital
+424,4ed5c71a02d570286d4e33c4,makiling dental clinic,7.014007681969266,125.09162743052492,north cotabato,dentist's office
+425,5314447511d2c75d54a3ff98,adult diseases heart lungs chest specialist,7.008886913511462,125.08878438087733,north cotabato,doctor's office
+426,52c90a7f11d217ba4007db0a,xeradent dental clinic,16.687299,121.548599,isabela,dentist's office
+427,4db60b164b226b343dad29bd,isabela eye specialist,16.687081,121.54808,isabela,doctor's office
+428,4db8b4aa0437609120f2643a,isabela eye specialist cataract and laser center,16.68518,121.542286,isabela,doctor's office
+429,5149852ce4b08b3e7fcc7068,sacred heart medical clinic,16.69100947980866,121.54733370471523,isabela,medical center
+431,4d545c29ba5b224bef520214,holy child hospital - hch,9.30636032284083,123.307253012062,negros oriental,hospital
+432,4da24f64b521224b019707ee,negros oriental provincial hospital,9.322019322925355,123.30017538194978,negros oriental,hospital
+433,4e41db7cb3add6fcb0d11b01,holy child hospital,9.306054571244182,123.30679478424955,negros oriental,hospital
+434,501c1fc4e4b03c7b5e0f3f70,emergency room- holy child hospital,9.306413135288876,123.30695149691998,negros oriental,emergency room
+435,5201a22b498e5dd14eb2c335,silliman university clinic,9.31599452473647,123.3037115204649,negros oriental,doctor's office
+436,4fdfe574e4b043a043ac60b2,sumc ultrasound laboratory,9.306184699610744,123.31007076275837,negros oriental,medical lab
+437,56027651498e5b82ecd355d5,crown medical laboratory,9.317108,123.303294,negros oriental,medical lab
+438,4e86bd637ee65ec4b38f5128,acuna veterinary clinic,9.319476647295154,123.30697942883997,negros oriental,veterinarian
+439,577b7b51498e8d2ebd15cddb,healthcheck medical clinic,8.58182,123.33951,zamboanga del norte,medical center
+442,4e1d62526284d5831b39e5f1,heavenly dental clinic & coffee shop,14.600902628363723,121.03598080182464,san juan,dentist's office
+443,5286b2bd11d297649172ba51,fast health diagnostic and medical clinic,14.607981507301291,121.02698391632285,san juan,medical lab
+444,4e2a6501fa76bbf847ce3c48,duñgo medical clinic,14.604788713557706,121.02406090406002,san juan,doctor's office
+445,50320ec3e4b00d67efd5162b,doc vilma t. manuel dental clinic,14.61152504999004,121.03189464155626,quezon city,dentist's office
+446,4dd9db82d22d38ef4323455c,prime laboratory,14.604787976873334,121.0424153513909,san juan,medical lab
+447,56cbea35498ed8fa25ebd4a7,csmc cardiac catheterization and interventional laboratory,14.597871,121.045958,san juan,hospital
+448,53490a2e498ea60ce64c67af,e-quantum intelligence ct scan lab corp.,14.607022632610668,121.04101562921211,san juan,medical center
+449,5e677eb413fee000081a6b22,csmc sleep lab,14.597541,121.045416,san juan,medical lab
+450,4bdfe0bce75c0f471285cc03,lowepro vet specialists,14.610027,121.03361,quezon city,veterinarian
+451,5a3e0db60531e86c93f939de,pet project veterinary clinic,14.60265,121.027265,san juan,veterinarian
+452,4d3ebd4305b8721e5e57a037,"aso, pusa atbp. animal shelter and veterinary services",14.604390339353873,121.0332441329956,san juan,veterinarian
+453,4e0d5f1b7d8bb178a89eb711,es veterinary clinic,14.5968323779784,121.03795298039664,san juan,veterinarian
+454,4fc2df85e4b09af80ba9d10c,dr. ferrer veterinary clinic,14.603256978838235,121.0273310893225,san juan,veterinarian
+455,4d4d40fff06a8eec98607883,broadway veterinary clinic,14.611003133014487,121.03296818383679,quezon city,medical center
+456,4cf75f80069c60fc6bbabbc8,pet society veterinary clinic,14.611657749288144,121.03659152984619,quezon city,pet store
+458,5b77ccf35455b2002cb33729,asian eye institute,14.604415,121.034065,san juan,eye doctor
+459,4f62a385e4b087553b3707b3,tzu chi eye clinic,14.601535418142326,121.02204499230639,city of manila,hospital
+460,53b65e99498ef0074d905922,eye can philippines,14.60359718836835,121.04483963174127,san juan,eye doctor
+461,5ad836b6db1d811e403ecf9c,mys & cathy’s eye clinic 111,14.597463,121.046406,san juan,eye doctor
+462,5110771be4b0c512bae8249b,santos medical & eye clinic,14.600009,121.01712,city of manila,doctor's office
+463,4c4156ae520fa5935891c9ac,bethany hospital,16.61399828664762,120.3174423853188,la union,hospital
+464,4f6378bfe4b02ac2c41c2b7a,gr medical laboratory,16.622544384416912,120.31596254428202,la union,medical lab
+465,4fa4a2b6e4b012fefcc80831,martinez eye clinic,16.617535675660832,120.31792225409397,la union,doctor's office
+466,5330eca2498e7ac9bfffc892,acupuncture & therapy4functiom clinic,16.614824634665286,120.31576544540357,la union,acupuncturist
+467,58aa2cbabf1a6d74d1326226,stroke pt & acupuncture home treatment,16.609955,120.319629,la union,physical therapist
+468,50e3c016e4b05f45b4118d68,m. c. catbagan dental clinic,16.617019422713344,120.31710008056918,la union,dentist's office
+469,5114ef42e4b0f8599e6ff4a5,bascom hospital,6.703746795654297,121.96412658691406,basilan,hospital
+470,50c68177e4b0a473e3085edd,basilan general hospital,6.693781885670138,121.96247224142273,basilan,hospital
+471,5134096fe4b0ca4ed6bcd89d,infante hospital management corporation,6.7051454348552255,121.97301913768354,basilan,hospital
+472,5439ea9a498e898649402766,madeline optical and medical clinic,6.707110173144465,121.97193061609329,basilan,eye doctor
+473,4e75510262e12635165ed72d,dr. suganob dental clinic,6.707762909990875,121.97253596872018,basilan,dentist's office
+474,4fa2739ae4b09588d3ba5a7d,ilocos prime lab & diagnostic center,18.19516063307164,120.59061764488102,ilocos norte,medical lab
+475,4ecf067677c8ea62fa780233,laoag veterinary clinic,18.197116661768888,120.59619756346231,ilocos norte,veterinarian
+476,4d6e32082e6ea093b1e61950,ramiro community hospital,9.6444701233358,123.85283174030877,bohol,hospital
+477,4f077d25e4b039f5abf77054,gov. celestino gallares memorial hospital,9.643889131856698,123.85703508300664,bohol,hospital
+478,4dad16f86a23fc68ff419c7c,borja family hospital,9.641720792047064,123.85453516705356,bohol,hospital
+479,4ff2779be4b0a148f8ad24ab,dr. sombrio - ramiro community hospital,9.65205870151787,123.85076881428954,bohol,doctor's office
+480,4f8ce915e4b041ba4471a42e,gcgmh - lab,9.64427712482657,123.85677528388067,bohol,medical lab
+481,4e967d380aafdb60e081bb4d,bohol eye and ear center,9.644462846030564,123.85283834089391,bohol,doctor's office
+482,537fbab4498e11151188fba3,eye center at borja family hospital,9.641001626998545,123.8545149564743,bohol,eye doctor
+483,5e5de6c79a3b05000859c5b3,cinco vet clinic,11.77683,124.882645,samar,veterinarian
+484,51de1439498e58b53a2b932e,catbalogan rural health unit (rhu),11.775485720641386,124.8805509992454,samar,medical center
+485,51be5b71498ed21d61ed62ee,"city health office, catbalogan city",11.775484873194447,124.88035812835096,samar,emergency room
+486,4f779da3e4b0e8caa60044c7,bataan general hospital and medical center,14.678471701553974,120.53061884770817,bataan,hospital
+487,4cf7e33d71538cfaa20bbe2e,bataan st. joseph hospital & medical center,14.681377192615212,120.54137147025149,bataan,hospital
+488,5262077511d2aab0a43ed693,bataan st. joseph hospital & medical center,14.681394402647975,120.54138532283214,bataan,hospital
+489,4dc0ddd58877c00d6acbdb1f,pizarro clinic facial & med-spa,14.680069366541103,120.53681689947555,bataan,medical center
+490,4e17c26a18a8166f73855399,gonzales-jimenez dental clinic & imaging centre,14.680105262217335,120.53692767395012,bataan,dentist's office
+491,502f6a58e4b0f9a2dd4f88cb,pet needs clinic,14.676750492667743,120.53583937119332,bataan,veterinarian
+492,5531b8c4498ef9bc6bbd6498,lab-tech diagnostic center,14.677724,120.538077,bataan,medical lab
+493,4e5f06e262e1624313df1718,rodriguez eye clinic,14.680134327964433,120.53743595278347,bataan,eye doctor
+494,516e5a45e4b0cc56cb05fd40,garcia eye physician and surgeon,14.678223,120.538773,bataan,doctor's office
+495,4f6be7fee4b058b4bf3ebbe9,isaac and catalina medical center (icmc),14.685190816297176,120.53828998100346,bataan,hospital
+496,4e04e10662e1cc813070f167,masbate provincial hospital,12.372100340215908,123.62386899836159,masbate,hospital
+497,4ff2547ce4b0c248154b4456,masbate city polyclinic diagnostic and drug-testing lab,12.38081,123.62674,masbate,medical lab
+498,4f4455fae4b0f94a358dd4a7,gc borres drug testing lab,10.132623,124.851442,southern leyte,medical center
+499,5008392ae4b0accd72818d62,cabadbaran district hospital,9.122943168067849,125.532182592021,agusan del norte,hospital
+500,511b7097e4b028f8d495ad8b,st. anne clinic (ramirez ancestral house),9.121969585747275,125.53249263706348,agusan del norte,doctor's office
+501,4f4dd354e4b0f920250ff50b,jongko medical clinic,9.121625316347776,125.53459877368945,agusan del norte,doctor's office
+502,4f615c99e4b071dd7317188b,udarbe medical clinic,9.121679784946137,125.53606341508797,agusan del norte,doctor's office
+503,511da55be4b0e4dca4c3f663,rodriguez medical clinic,9.121026,125.535529,agusan del norte,doctor's office
+504,53ec19de498ebe3ddec68c41,labmyx,8.481398,123.802181,misamis occidental,medical lab
+505,4d48edbb48a06dcb575069a2,smile essence dental clinic,11.604682250531358,125.43555840847917,silangang samar,dentist's office
+506,4f5c2708e4b053fd6867dd1f,tandag doctor's hospital,9.068293,126.1902,surigao del sur,hospital
+507,4f5c2809e4b035e3143c1c93,tandag doctor's hospital,9.074922182771997,126.19169744092781,surigao del sur,hospital
+508,512ed9ede4b0b9987bc11feb,new city women's clinic,9.072358,126.190798,surigao del sur,doctor's office
+509,4ca3eb4ad5a2a143e0c14d90,metro vigan cooperative hospital,17.580803669458216,120.38643412030534,ilocos sur,hospital
+510,5403ddfc498ee012564af400,unp hospital,17.561350606296244,120.38138289698409,ilocos sur,hospital
+511,4eae43ddb8f765aba1aaa7e5,vera cruz dental clinic,17.57328743543466,120.38769236151778,ilocos sur,dentist's office
+512,50346aece4b070220d67f5b7,ilocos clinical laboratories inc.,17.572809,120.384046,ilocos sur,medical lab
+513,50efc951e4b0faabbf660f6a,gabriela silang general hospital - laboratory,17.575948672376875,120.39961205567451,ilocos sur,medical lab
+514,56d6cf7fcd105c49e6fc5977,eye and ent clinic,17.572774,120.384169,ilocos sur,eye doctor
+515,5a9e7202e97dfb69360bd53f,sacred heart clinic,17.572255,120.386117,ilocos sur,doctor's office
+516,502de43be4b0adcbebed7544,northern samar provincial hospital,12.499928745887088,124.63624027651177,northern samar,hospital
+517,50fa0cb6e4b064cc7afd612a,st clare clinical and drugtesting laboratory,12.499505727862765,124.63608358680716,northern samar,medical lab
+518,50fa0c0be4b0fb419a39f7c8,st clare clinical and drugtesting laboratory,12.497328,124.632428,northern samar,medical lab
+519,50fa099ae4b03727a8207eac,st clare clinical and drugtesting laboratory,12.497531,124.632276,northern samar,medical lab
+520,4c862603c5a995210e359a05,benguet general hospital,16.450558076176076,120.58967920541086,benguet,hospital
+521,6049e8f42c739f6a1de594c5,cordillera hospital of the divine grace,16.45242,120.574684,benguet,hospital
+522,4e7fd0907ee63d00ea72d231,angel salazar memorial general hospital,10.753145523798407,121.94156984136818,antique,hospital
+523,4f1387abe4b0958ec360a643,asmgh critical care unit complex,10.75058352018601,121.94135852881405,antique,hospital
+524,5a77b247b54618564e069dc6,antique provincial veterinarian,10.748264,121.941325,antique,veterinarian
+525,4fa35689e4b089a958cf39c1,casalan eye clinic,10.753705,121.941252,antique,doctor's office
+526,56f64c87498eaaed05376669,dra. marilou king dental clinic,14.120489,122.95692,camarines norte,dentist's office
+527,4e82cf4761af29e4de3725d6,veterans regional hospital,16.483326177701294,121.1344495431111,nueva vizcaya,hospital
+528,4c0f25422466a593d6467a21,veterans hospital,16.488684,121.161951,nueva vizcaya,hospital
+531,4f955a52e4b008256717d405,argao community hospital - mham,9.876050940727332,123.60238774963877,cebu,hospital
+532,4f16cf51e4b0804e8fadb1c1,isidro c. kintanar memorial hospital,9.881676719496165,123.60856322136496,cebu,hospital
+533,564d70ea498e0fc59179672d,argao district hospital,9.882314,123.608794,cebu,hospital
+534,541f84c6498ead834ad944d7,holy nazarene clinic and hospital,6.629485,124.598208,sultan kudarat,hospital
+535,5643007c498edeae9f53d8c7,cataquiz dental clinic and orthodontics,6.630574431143767,124.60484806232891,sultan kudarat,dentist's office
+538,5146c835e4b01d537e799758,united candelaria doctors hospital,13.93023940045723,121.4418096483646,quezon,hospital
+539,5393b968498e7b5d5b8fbeb5,candelaria doctors clinical laboratory,13.92863976927065,121.42757993241182,quezon,medical lab
+540,4e45d66f227128e1e8c3c210,san juan (dra. carin macaraig-briones) dental clinic,13.82544755245574,121.39268461829006,batangas,dentist's office
+541,4f28d810e4b018a0a08c2aee,sjn divine care specialist clinic,13.826841485827842,121.39403552790377,batangas,doctor's office
+542,51f9c5c6498eceabc3d9bc2f,"liwag medical clinic, inc. general hospital",13.966095793724326,121.32420311318448,quezon,hospital
+543,4ec893cecc21b428e4687304,st. cecilia hospital,13.960258924437838,121.32290725057385,quezon,hospital
+544,545ed4a6498ef61c7e15f948,caraos dental clinic,13.964007,121.320969,quezon,dentist's office
+545,54d5e96e498e4468458019af,small island veterinary clinic,13.448101043701172,121.8388671875,marinduque,veterinarian
+546,4d57b1a61270236a9bf48c59,mamburao provincial hospital,13.229934479889518,120.5877236325528,mindoro occidental,medical center
+547,4d58b1df1d4a8cfaae5883ed,occidental mindoro provincial hospital,13.23039392099801,120.58615663592363,mindoro occidental,hospital
+548,509267d5e4b0d1ff2bdac2db,montero's medical clinic,6.411933662045453,125.61382233187905,davao del sur,doctor's office
+549,519605a4498ef1d8149b2fb4,seares hospital,17.598621299963778,120.61645290277566,abra,hospital
+550,4e0ac5c01495b12d823a0175,abra provincial hospital laboratory,17.6145886,120.6177826,abra,medical lab
+551,54f669fc498ec71694df9912,"or-dr complex, abra provincial hospital",17.615754656268816,120.61746417995691,abra,hospital
+552,51494443e4b011fbda252f67,hmc hospital,17.598678588867188,120.6197280883789,abra,hospital
+553,5140f7f7e4b0a81703b51fa0,bangued christian hospital,17.595805410929795,120.62072268465107,abra,hospital
+554,4e99c4af30f87c966bfde7fc,abra provincial hospital,17.59246150663119,120.61735372639475,abra,hospital
+556,54783f35498ee58962c9bede,"emergency room, camiguin general hospital",9.248265266418457,124.72134399414062,camiguin,emergency room
+557,4ed06db6490168f8cfe34536,camiguin general hospital,9.248414742297712,124.7217721216383,camiguin,hospital
+558,536c469c498ea6e59039487f,provincial veterinary office,9.243292,124.723428,camiguin,veterinarian
+559,4ec5f547e5fa232a735eb1bb,biliran provincial hospital,11.560314264336327,124.39660354452485,leyte,hospital
+560,50b59961e4b01cb8388ddbf9,sto. niño hospital,16.026426315307617,120.2281265258789,pangasinan,hospital
+561,4ecd2e7b0e611503514d0a58,urduja general hospital,16.021235,120.234256,pangasinan,hospital
+562,4d61c60d9f67f04dcd6b88fb,doc ken manuel dental clinic,16.02171888,120.2331352,pangasinan,dentist's office
+563,5cf88dd80d173f002c813b04,ace hospital,9.634879,123.869592,bohol,hospital
+564,4fead67664a45b9b7937be48,bohol veterinary clinic,9.636852652919716,123.85960578918457,bohol,veterinarian
+565,4f28c5e3e4b0f07a958e7126,magallano dental clinic,9.639402012330025,123.86908678149737,bohol,dentist's office
+567,518b39cd498ee91eb1cfcd55,lianga district hospital,8.619462077334775,126.08607336473142,surigao del sur,hospital
+568,51bd6cfb498e013b26bfd251,jka dental clinic,9.763484954833984,123.53385925292969,cebu,dentist's office
+569,4ebcf0477bebc23efa15009a,maribojoc community hospital,9.745349065895047,123.85177373886108,bohol,hospital
+570,4f4f09fee4b066791a729996,siquijor provincial hospital,9.220366080036383,123.51737123226127,siquijor,hospital
+571,5254c81a498e929c6059af2f,office of the chief of hospital,20.450699,121.970214,batanes,doctor's office
+572,513b1755e4b0a2c58af2ddc5,batanes general hospital,20.45073446912803,121.97030336723013,batanes,hospital
+573,505717aee4b0f42fb80834cc,batanes general hospital er,20.45024247798172,121.97042555057745,batanes,emergency room
+574,53cb46fa498ec6ddfb116c6d,kabugao district hospital,18.017732620239258,121.18222045898438,apayao,hospital
+575,50ef9fc1e4b0b696efac753e,rosales' dental clinic,8.381549368285315,126.3270025687509,surigao del sur,dentist's office
+576,50f3bef7e4b02fd6196bf76e,mho - laboratory,8.365903784025958,126.3378024873803,surigao del sur,medical lab
+577,58368174966e55479d16872e,razo medical hospital,6.8957477,126.01158,davao oriental,medical center
+578,4f0a7093e4b026657047a7fd,dr. andress j. luciano district hospital,15.216855152115253,120.66986756678406,pampanga,hospital
+579,4f08411b754a5b5397dc6368,mendoza medical clinic,15.213155798970096,120.66112518310547,pampanga,doctor's office
+580,5293aac111d2bb1124b8fbc4,padre burgos community hospital,10.0258,125.018,southern leyte,medical center

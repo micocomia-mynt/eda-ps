@@ -1,0 +1,1180 @@
+,id,name,lat,lng,cat
+0,4e4bf6d2fa7671a85cf09608,justice jose abad santos general hospital,14.597364347018953,120.97198185986456,Hospital
+1,4f8b7638e4b047d84bff23f4,american hospital,14.592835486874966,120.97325528443174,Hospital
+2,4efe49e793adc824574c65d1,justice jose abad santos general hospital,14.597477312747746,120.97210965805127,Hospital
+3,4d8bf9bd84f56ea895a94397,amosup seamen's hospital,14.587546946899721,120.97738980159278,Hospital
+4,4c9715daf6c8ef3bb36886cf,manila doctors hospital,14.58247709027629,120.98244818061826,Hospital
+5,4c1abb9455e4c9b6af454823,dr. jose fabella memorial hospital,14.606349985258458,120.98454547024983,Hospital
+6,516d76b6e4b0a04d11678807,labor room - dr. jose fabella memorial hospital,14.6065074489283,120.98441439395053,Hospital
+7,4d2478d3c5f2a1cdaf9853cf,mary johnston hospital,14.609052537789676,120.96648353834799,Hospital
+8,50c04e0ce4b08182cf4765a8,manila doctors hospital- department of pediatrics,14.583624872327514,120.9851534728927,Doctor's Office
+9,4f82eddee4b0b2237e755f8e,manila doctors hospital-department of radiology,14.581899842739228,120.98299284660126,Hospital
+10,53b64e4b498ea4c1b1d5eaba,ust hospital clinical division - department of dermatology,14.607560123364111,120.98872718292488,Hospital Ward
+11,4fc323c8e4b089f18ca5db2e,seamen's hospital icu,14.587512614388514,120.97735338603229,Hospital
+12,5b0629414acb19002ccaa0e4,amosup seamen's hospital - operating room,14.587504,120.9773,Hospital
+13,5677c1eb498eca1777041c81,seamen's hospital pediatrics ward,14.587415,120.97745,Hospital
+14,51664b51e4b0b6accefe3848,seamen's hospital eswl room,14.587349,120.977277,Hospital
+15,50de498ae4b03fabe1443900,amosup seamen's hospital outpatient clinic,14.587315559387207,120.97721099853516,Hospital Ward
+16,5561fa01498eb766398740cd,seamen's hospital male quarters,14.586572,120.97761,Hospital
+17,52dbf76f498e6bdc5e57f310,seamens hospital fmsw,14.587681,120.98347,Hospital
+18,5377babf498e6ee765eddca1,dr. jose fabella memorial hospital- ward 4,14.604940659021972,120.98403876749074,Hospital
+19,569ec4ad498edc2484ba76a5,dr.jose fabella memorial hospital-som pilot area,14.606146,120.98416,Hospital
+20,530ae60d11d2552107e4ddc9,the medical city-lucky chinatown clinic,14.603264265485791,120.9737930808329,Hospital
+22,4dd06ab0e4cd130e1698273c,st. lukes medical center (extension clinic),14.579337028722314,120.98178269506724,Hospital
+23,5379a00211d22e39cc290ead,djfmh - family planning clinic,14.60670280456543,120.98497772216797,Hospital
+24,4cc124ddf4448cfaa4f85498,st. luke's medical center ext clinic,14.582821048968889,120.9831145064981,Hospital
+25,5111f323e4b040523213556c,ob clinic opd (pnpgh),14.605024322863471,120.98891762846512,Hospital
+26,5cf64a1600b068002d3788bd,dr. tangco’s clinic room 223 mdh,14.581977,120.982937,Hospital
+27,52aa5dd211d2687e801b3330,arc angel animal bite clinic quiricada st. sta cruz,14.612637519836426,120.97974395751953,Hospital
+30,4e8945425c5cf273ffcf8189,"diagnostic area -eye referral center, 3rd floor",14.580343,120.978126,Hospital
+31,4e896e8bf790bfffec3b5485,"refraction - eye referral center, 2nd floor",14.580343,120.978126,Hospital
+32,4d8bd5b85ca68cfa327d139d,eye referral center,14.58028976358909,120.97813142806704,Hospital
+33,58c8886c7220e63ac006fb27,heart station,14.601772658108768,120.96480055054236,Hospital Ward
+34,50bdc259e4b0dabe7ffbfc2b,ust heart station,14.610293463979213,120.98669387806545,Hospital
+36,4cf63a07e308236a88d6e4ac,dr. jesus c. delgado memorial hospital,14.627869972184978,121.03483068442736,Hospital
+37,4c01baf9b58376b006ae443c,national children's hospital,14.620788508921432,121.02142555151038,Hospital
+38,4f51828fe4b0776d63a2de97,c.t scan dept. - chinese general hospital,14.6335495,121.0356604,Hospital
+39,4fa876f8e4b01128c13b9973,providence hospital,14.641055,121.031737,Hospital
+40,4c0213083f0a9c74b46ca0ec,our lady of lourdes hospital,14.630313555357082,121.03563494584083,Hospital
+41,4f98ea97e4b05c77b81a6c60,special care unit/ nursery dr jesus delgado hospital,14.62783760321703,121.03480492748008,Hospital
+42,4fac0395e4b0a765951b1f4c,icu- laguna doctors hospital,14.627816200256348,121.0370101928711,Hospital
+43,4ec9ea44f79041351f9629b1,providence hospital jobsite,14.63751240070718,121.04179947563492,Hospital
+44,5008d831e4b0375edd49666f,"acute stroke unit, ust hospital",14.631701225562962,121.02189939737683,Hospital
+45,50cae7bae4b05e3eea45213e,rm. 206 st. lukes medical hospital,14.622887,121.022708,Hospital
+46,560b4686498ea6af02b217fb,slmc hospital operations group office,14.622496,121.023001,Hospital
+47,553f972c498e87fd1de40ca1,mir dept. st. lukes hospital,14.622788,121.022656,Hospital
+48,553e3337498ee3ac133dce76,room 274 st. lukes hospital,14.622651,121.022654,Hospital
+49,51dcc012498ef2776101455e,philippine children's hospital,14.648670753144904,121.03493504742278,Hospital
+50,50706f2ce4b09a19d76ae438,national children's hospital - pharmacy,14.621586799621582,121.02131652832031,Hospital
+51,50721c37e4b07e6d89160fb4,national children's hospital - hema ward,14.624403110824105,121.01885306321724,Hospital
+52,4fafc9abe4b05b8b565c5511,national children's hospital - neonatology ward,14.621216709399523,121.02105942320242,Hospital
+53,5a3134135d891b70fd953ad6,afp medical center - hospital lobby,14.634188,121.0508,Hospital
+54,4f7b8b4ee4b01081e4116637,national children's hospital - radiology section,14.620756838801343,121.02150741015572,Hospital
+55,56624aac498e87cb7326f9be,pediatric icu national children's hospital,14.620515215427389,121.02156900823184,Hospital
+56,4ee81dbfe5fadaeb5d701a3a,humana clinic,14.63308943722153,121.0442125708304,Hospital
+57,4dad05d1fa8ca548ba1a440d,clinic of the holy spirit cubao,14.623041203260863,121.04246123672421,Hospital
+58,5114cfa5e4b0f7dc45b1c8c5,dra margaret lim clinic,14.621223,121.022039,Hospital
+59,4ffa6b85e4b04619c8ba9d26,"fracture clinic, 3b",14.63234,121.05033,Hospital
+60,5202ff81498e999ba36aaf03,nch - sub-specialty clinic,14.620656967163086,121.02099609375,Hospital
+61,4d4f6112e0275481375096b6,pre-flight evaluation clinic -mab bldg. phc,14.643967,121.047795,Hospital
+62,4e0a5511aeb7a6da8284df6b,minute healthcare,14.637857602535702,121.03645087608048,Hospital
+63,52aad5b0498ed1d48720c289,slmc clinical nutrition,14.623033,121.023302,Hospital
+64,50e795d6e4b0979c8b61fded,st.luke's clinical nutrition,14.62294930271962,121.02334973903312,Hospital
+65,500fb56fe4b0a081170eca3e,minute healthcare-cardio lab,14.637754776529643,121.03712991525776,Hospital
+66,4e76ac6d1838f9188a63ea0b,st. luke's medical center cath lab,14.62281015258063,121.02361852630726,Hospital
+67,5c7dc9e5364d97002c8fdbfe,labor and delivery room (2nd floor),14.641217,121.031676,Hospital
+68,4d7dd2fe95c1a143fd68c5f2,"heart institute, stress laboratory",14.6224062191025,121.0232993413526,Hospital
+69,51392b8ce4b0581d9bd10db1,st. luke's stress laboratory and cardiac rehabilitation,14.622373580932617,121.02326965332031,Hospital
+70,4f71c74ce4b0be642121815e,laboratory - east avenue medical center,14.641854412568053,121.04858197881933,Hospital
+71,4ed9e8ed6da1642c5c1d8e59,pulmonary laboratory philippine heart center,14.64366776071683,121.0480595661011,Hospital
+72,51c91274498e74c87a473732,nuclear medicine laboratory,14.643911,121.048323,Hospital
+73,4d744762d238a1cdf3ddd40e,veterans memorial medical center - macc opd,14.636528535438726,121.02835020429568,Hospital
+74,50d686c9e4b0275bd601fdf7,veterans memorial medical center oncology department,14.648110488487122,121.04211301277671,Hospital
+75,51314f6fe4b0b7da54521c1e,cmc eye center,14.634627232898648,121.02253777384253,Hospital
+76,51c29a88498e7f873e589ee5,st. luke's medical center- eye care unit,14.623247700030056,121.0232993413526,Hospital
+77,5510bc90498efc6dd185aa5c,st.lukes medical center - eye institute,14.622706965671407,121.0232993413526,Hospital
+78,51a23c93498e4edc600541f8,eye care unit slmc-qc,14.622616,121.023344,Hospital
+79,507e5708e4b01136c0c01114,"doh eye center, east avenue medical center",14.642561338552264,121.04763897099976,Hospital
+80,4d8ae9187d4c5481fdf87271,doh eye center,14.642578157242312,121.04768337378682,Hospital
+81,4bdd6499d33f2d7f72d98a3c,philippine heart center,14.644122321307513,121.04783340031355,Medical Center
+82,4cd56e3cfb718eec6b4e4b88,heart institute,14.622520688300527,121.0232825421211,Hospital Ward
+83,56d3fb3f498ec38d47973e9b,petal 2a - philippine heart center,14.643155741754592,121.04744301936911,Hospital
+84,4fcb26b0e4b08a365328ade7,phil. heart center for asia,14.634506225585938,121.04281616210938,Hospital
+85,56abfa47498e4972b7f69b07,st. luke's medical center - american heart association international training center,14.623411413808524,121.02314814818487,Hospital
+86,51d668e4498e7eba82e6ad3c,philippine heart center micu,14.640843292084943,121.0461497306121,Hospital
+88,55fb68be498e014e7b537e04,philippine heart center,14.639615,121.047379,Hospital
+89,4f8d0530e4b0b2abb3d69404,nuclear medicine philippine heart center,14.639271666363321,121.04797488733922,Hospital
+90,4fbc1d3ee4b0d314f18205e0,philippine heart center adult service ward,14.64235995357804,121.04714629200726,Hospital Ward
+91,52f83382498e4919db47d037,research room - philippine heart center,14.642621334019502,121.04777893625507,Hospital
+92,5369ce40498e739c25b542b1,philippine heart center medical library,14.642471380825244,121.04799728172854,Hospital
+93,4fb2034ce4b0a0d79a648fd5,dirty linen room - philippine heart center,14.642461346079116,121.04803647189983,Hospital
+94,51d12367498e0f0cbb945cd7,petal 446c - philippine heart center,14.642464,121.048035,Hospital
+95,51e64506498eb16d5c1bddbd,philippine heart center 3d briefing room,14.642461,121.048037,Hospital
+96,4f5d9c42e4b03690720c1fb9,"infirmary, philippine heart center",14.643305262402428,121.04803647189983,Hospital
+97,5320e1ad498e6b844ddfeffc,philippine heart center main pharmacy,14.643161615906855,121.0481540423372,Hospital
+98,4dbe523e6a23a3c473a281ad,coronary care unit- philippine heart center,14.64370302036159,121.04788624283326,Hospital
+99,4e435339483b132669c94d9c,philippine heart center petal 3d,14.644010332279752,121.04774794912132,Hospital
+100,50b2ec81e4b0f78dc0b1866f,philippine heart center petal 3d room 345,14.643538,121.04812,Hospital
+101,4c95d6c9f7cfa1cdd632c115,davao doctors hospital,7.070272184503862,125.60458660125732,Hospital
+102,4d87f78276e1236a6573e842,brokenshire memorial hospital,7.074390412976542,125.59757042760096,Hospital
+103,517dda7ee4b0f0347da21a0f,davao doctor's hospital - orthopedic center,7.070207225115549,125.60400642432957,Hospital
+104,4f95dbade4b0722f50eb39d1,brokenshire hospital obgyne wing,7.074225864016409,125.59718585384394,Hospital
+105,50063950e4b094abbf92df5b,davao mental  hospital,7.075352178647276,125.61334705163,Hospital
+106,502bd84de4b0fe00a37f04c6,"room 14, medicine ward, brokenshire hospital",7.066043424479166,125.59716216145834,Hospital
+107,54dd2a38498e3ef9552704c8,st. dominic ward san pedro hospital,7.063496397473798,125.60018227580817,Hospital
+108,51ae9ada498e4b9166a17015,davao doctor's hospital infusion unit,7.069834606218459,125.60346165448314,Hospital
+109,50a9d0f8e4b0b5a94a881326,davao doctors hospital executive offices,7.0700536142975485,125.60334105339093,Hospital
+110,52d735ac498e197706de8357,davao doctors hospital - oncology building,7.070049877769341,125.6033529544436,Hospital
+111,5177940ce4b0fdfc39534573,davao doctors hospital medical records,7.069881,125.603937,Hospital
+112,4ec0aee2be7b04923cd49a25,seamen's hospital,7.061832337607959,125.60136799490527,Hospital
+113,51734fc5e4b041839959b2ef,davao doctors hospital intensive care unit,7.070008,125.60407,Hospital
+114,522126f0498e569a05080626,chdc hospital,7.06602226221501,125.60527753964324,Hospital
+115,53ad0932498e345e4a1aabb7,brokenshire hospital neonatal icu,7.072066924217233,125.60094071075525,Hospital
+116,51833a92498e560f5005fe3e,brokenshire hospital,7.074610156048059,125.5977413486817,Hospital
+117,516de8e2e4b04f28cffb9d17,davao doctors hospital 5th flr,7.070374900320937,125.60412926408002,Hospital
+118,519eedea498eba1bee70c444,room 4211 davao doctor's hospital,7.070324897766113,125.60423278808594,Hospital
+119,4fcc6501e4b04675478bffd1,davao regional hospital,7.0717709840467675,125.59773066612476,Hospital
+120,55051e42498e2f599c5b6d6f,davao doctor's hospital - room 2006,7.069820818266267,125.60462596203033,Hospital
+121,5bea229ad1a402002cf26b4b,davao doctors college school clinic,7.0721016,125.60371,Hospital
+122,53d2056a498e46531fccb884,chiong medical clinic,7.068026,125.606605,Hospital
+123,53ec78d8498eeef7ec1024ac,brokenshire heart station,7.080885887145996,125.59867095947266,Hospital
+124,4dfcbd77e4cdbe059c39f53b,diosdado macapagal memorial hospital,14.648427157013737,120.97344160079956,Hospital
+125,4e042b01483b6f89f47d2709,"laboratory medicine, chinese general hospital and medical center",14.652600360881687,120.97132255895245,Hospital
+126,4d6af63f92f6b60c22909be0,our lady of grace hospital,14.648912199738243,120.98152563457732,Hospital
+127,4e25811d62e12f2b95e8452b,pres. diosdado macapagal memorial hospital,14.652810214660892,120.972868741797,Hospital
+128,53a36fa4498e199f4857d64f,caloocan city general hospital,14.643199,120.967985,Hospital
+129,50482301e4b0beb138eaf44e,tondo general hospital,14.659083850476051,120.96927775792943,Hospital
+130,50f60345e4b02d5a48e6e20a,"martinez memorial hospital, hemodialysis unit",14.638641811681627,120.97574817475926,Hospital
+131,4e46869d62e148603b72f115,martinez memorial hospital,14.638561482138826,120.97572317739237,Medical Center
+132,4fd33d55e4b00a1642cc22d2,calalang general hospital,14.661615169827543,120.95646475559063,Hospital
+133,53868e8f498e8a382396d5b4,"tondo medical center, hospital lobby",14.634807302453835,120.96293025222108,Hospital
+134,50f38bdbe4b05845b49ee7a8,"martinez memorial hospital inc, dialysis unit",14.6371,120.97585,Hospital
+135,5a1f443c08f5214bb99b35fb,malabon hospital,14.657695,120.950745,Hospital
+136,4d8413b740a7a35d384a04be,franco clinic,14.659967,120.959087,Hospital
+137,53031335498eaea260cc402b,tondo medical center tb dots clinic,14.634516,120.963043,Hospital
+139,4d5249f63626a093900e2dbd,st. vincent general hospital,10.302282796856037,123.89494702447044,Hospital
+140,4fdcd56be4b01d23393aabb6,pacu - chong hua hospital,10.3042113425512,123.89732780745395,Hospital
+141,4cfe02da34c1a0936f3e530e,chong hua hospital,10.309835907832746,123.89139655723919,Hospital
+142,514a6cebe4b0b5a9c0eab913,chong hua hospital billing dept.,10.298095151007926,123.89427690745346,Hospital
+143,4fa57ac4e4b063f12230d7f5,cebu velez general hospital - quarters/call room,10.307722400463458,123.89647247603675,Hospital
+144,4cd0c3287f56a143ca7cd0a6,cebu velez general hospital,10.307831383434852,123.8966449957293,Hospital
+145,52776db811d2c881eb8c2a7f,chong hua hospital swiss ray,10.307883517747923,123.89294755514628,Hospital
+146,4f78f6e6e4b06bb77fd4b04a,chong hua hospital - 6b,10.302868239908099,123.8896458840992,Hospital
+147,514a587ce4b07cc40a67b644,chong hua hospital - endoscopy unit,10.309686818501486,123.89172170098571,Hospital
+148,51ebacc7498e394af08454ca,room 1008 - chong hua hospital,10.309894,123.891929,Hospital
+149,4cd19b38f6378cfad57ebcd6,adventist hospital - cebu (formerly h.w. miller memorial sanitarium and hospital),10.29592368752513,123.88774750218737,Hospital
+150,5027f03de4b039d48c557174,chong hua hospital 7th floor,10.310113768659592,123.89198321790798,Hospital
+151,4f8d0b06e4b0c10a703fa107,chong hua hospital room 420,10.309101104736328,123.89080810546875,Hospital
+152,520921bb11d24bedd4ddb1de,room 1010 - chong hua hospital,10.309852633177353,123.89162063598633,Hospital
+153,52bbceb211d2bacb8347f6cb,chong hua hospital hema-onco unit,10.30974459801891,123.89147107989528,Hospital
+154,4f74491ae4b0da64df87d48e,chong hua hospital intermediate care unit,10.310074343123206,123.8917816320126,Hospital
+155,4f1a1b4de4b0065cb96d798f,chong hua hospital coronary care unit,10.310060666752937,123.8917162527086,Hospital
+156,4f46e134e4b0d125f47672d6,chong hua hospital laboratory,10.310509281707473,123.89222838934873,Medical Lab
+157,51e0af0b498ec9be23c92f05,chong hua hospital intensive care unit,10.31004914138565,123.89128583779988,Hospital
+158,4fee77b7e4b0369bc7c99ca9,chong hua hospital - ultrasound department,10.309429311565564,123.8905631918934,Hospital
+159,5be642e8bd4009002cc38b29,dr. raida varona clinic (rm401),10.3137045,123.8926,Hospital
+160,50ff96ece4b098a6a8d89b26,velez laboratory clinical chemistry department,10.307324294954698,123.89677211533487,Hospital
+161,5199e464498eb437f37e1e06,"oncology clinical research room, cebu cancer institute-psh",10.314731483285389,123.90008921118606,Hospital
+162,4f9e6816e4b07e720f162310,cvgh laboratory,10.307898307914838,123.8958350582887,Building
+163,50f8b621e4b00ae3de35b02a,cvgh lab(afb culture room),10.30696,123.896548,Hospital
+164,5d664658e4330c0008df68f0,vsmmc autopsy lab,10.308208,123.88966,Hospital
+165,53bb6575498e38fa524e63b4,perpetual succour hospital-cath lab.,10.315375,123.900111,Hospital
+166,538ff237498edf251c9a9687,perpetual succour hospital - labor room / nicu,10.300739586489772,123.89845007739655,Hospital
+167,4fb33eb4e4b040288997c5bf,labor room,10.298958445016344,123.89515132749382,Hospital
+169,4fcff7dbe4b05885b3f91632,ccmc labor/delivery room,10.297526541447892,123.89111890769853,Hospital
+170,53145e8f11d2dbb1f10859f9,labor & delivery,10.309022176002319,123.89246266367174,Hospital
+171,59ce9e41356b4920f929f582,chong hua hospital-labor room,10.309669,123.891426,Hospital
+173,59ce9ea69411f21e8cf7704f,chong hua hospital-labor room,10.309979,123.891193,Hospital
+174,4fd6a77de4b055412c005036,chh labor room,10.310238680161076,123.8904903821732,Hospital
+175,505a9343e4b0e0a79198d7bc,"cardiovascular laboratory, perpetual succour hospital",10.315046597678062,123.89945792952832,Hospital
+176,50ec4e37e4b0ef5a5c9b441c,cebu doctors' university hospital- laboratory department,10.3144634730453,123.89174894236642,Hospital
+177,4e9d080bdab4aec571c3d4ba,vsmmc eye referral center laser and eye bank,10.308781784252762,123.88836662855273,Optical Shop
+178,4fb0a0c1e4b01d7a90c70d41,chongua hospital - eye center,10.309841688439407,123.89162363194859,Hospital
+180,5306b9a1498e9edc01590485,sacred heart hospital- or/dr,10.303856857263943,123.89293665873667,Hospital
+181,4f384366e4b039c3c35d3a69,room 234 sacred heart hospital,10.3038,123.892721,Hospital
+182,514354c8e4b0e5b86f4b07ed,pediatric ward - sacred heart hospital,10.3046449001283,123.8932145167794,Hospital
+183,52d73b15498e6cee3b87d805,sacred heart hospital (shh),10.303889301962304,123.8925879729489,Hospital
+184,502710d4e4b043587a03dd57,sacred heart hospital surgery conference room,10.304018020629883,123.89264678955078,Hospital
+185,53d3dbc4498eabd7158d98e2,neonatal intensive care unit - sacred heart hospital,10.30401888068995,123.8926315587445,Hospital
+186,5018ba5ae4b09e61e50743ea,sacred heart hospital 3rd floor,10.303770026939544,123.89225563057968,Hospital
+187,50188eaae4b017130d28a128,sacred heart hospital opd,10.304358309377218,123.89183611473051,Hospital
+188,4feaa311e4b035271059952d,sacred heart hospital- icu,10.302158,123.890821,Hospital Ward
+189,537998a0498e8ecb5167a97f,sacred heart hospital - reproductive health unit,10.302645683288574,123.89005279541016,Hospital
+190,515eade6e4b0374e583c4895,perpetual succour hospital - cebu heart institue ( icu complex ),10.314748025395524,123.90012800889708,Hospital
+191,51f734e8498eb6c00c850902,sacred heart hospital iccu,10.31013794182906,123.88597358962328,Hospital
+192,4e7eeccf8b81177e8006ee82,zamboanga doctors' hospital,6.915365296645794,122.07979282343295,Hospital
+193,4e9d67378b81791d97b1183f,zamboanga childrens' hospital,6.9251214398567225,122.0799523607777,Hospital
+194,4d8d6f5dcb9b224b006b6d41,wmmc hospital,6.923204320603797,122.07918115691395,Hospital
+195,521c1dbe11d2d5199b2e8b31,334 wmmc hospital,6.924941109250108,122.08277636265028,Hospital
+196,4f5e00d9e4b070e0493aae7f,zamboanga puericulture maternity lying-in hospital,6.907368514463678,122.07579667225227,Hospital
+197,52d0e1f7498ef803bd791964,edwin andrews air base hospital,6.924087963614184,122.06897744731195,Hospital
+198,4e31444bcc3fa4395baa8868,brent hospital and colleges inc,6.907925383785167,122.06839874159714,Hospital
+199,4d2a5db3b818a35d1402a78a,zamboanga city medical center,6.907332267070464,122.08070295163259,Hospital
+200,51dd186e498e71d37e828450,cabato medical clinic,6.924116265039013,122.08304266944484,Hospital
+201,5224df9c11d2e1240cc7ed40,wmmc birthing clinic,6.909388,122.085291,Hospital
+202,5225fa8f11d2b2f23fdfb149,zcmc birthing clinic,6.906308,122.081099,Hospital
+203,4dec811545dd3993a8bff4c9,medicard (asian hospital satellite clinic),14.506696166692011,121.04351832101544,Hospital
+204,4deb4f2d1850bae7b8d203b3,taguig-pateros district hospital,14.510736319450206,121.03448711030379,Hospital
+205,53101176498e228cbaeec935,san juan de dios hospital (san lorenzo ruiz),14.514034840152009,121.04643526309047,Hospital
+206,5046f4fae4b0cb35a1232433,our lady of lourdes hospital dept of obstetrics delivery room,14.527539495072164,121.04841717575732,Hospital
+207,51f10bc6498e05fb7d2a72f1,taguig-pateros district hospital,14.506283295604458,121.05721781761274,Hospital
+208,4fc3fbe8e4b08ebeff62c6ad,army general hospital,14.52962349166027,121.04797488733922,Hospital
+209,53016494498ef831ff77df5a,army general hospital - tb dots,14.529020199663027,121.04426295977416,Hospital
+210,4cf83fe895153704aa375b89,fort bonifacio general hospital,14.534122242676796,121.04877177699493,Hospital
+211,51aaa5eb498e19d592785a77,army general hospital,14.530999657100358,121.04791330274712,Hospital
+212,5305ebd811d25fccd16537e2,army general hospital -icu,14.531056157474591,121.04743182212343,Hospital
+213,511e67cde4b00145d2cd442f,taguig pateros district hospital dr,14.51157662962955,121.03430793499042,Hospital
+214,5059d7d8e4b0e292f914eae6,army general hospital,14.532726965018513,121.04875868848794,Hospital
+215,4ccf6018b69c236af937c884,taguig city hospital,14.51137809828466,121.03403917152127,Hospital
+216,5181e3f8498e3e821a2d56a3,taguig-pateros district hospital e.r surgery,14.510066032409668,121.03422546386719,Hospital
+217,4f5839d0e4b0cd6f8cb89bba,taguig pateros district hospital - opd,14.510954104027347,121.033664021511,Hospital
+218,4d814c6d577eb1f78a02b9d3,santo nino hospital,14.512972057035096,121.03219140646114,Hospital
+220,4eca7b95be7ba4fc71ea2417,gallo medical clinic,14.518645754579643,121.05342499900817,Hospital
+221,50a4be07e4b0f3e340d117da,recuenco medical clinic,14.513465664573097,121.05955223102934,Hospital
+222,531e6c64498ecd0949655017,"recuenco medical, surgical, maternity, children and well baby clinic",14.51344108581543,121.05965423583984,Hospital
+223,4d6de3effbb8a1cd844a6c0f,antipolo doctors hospital,14.57446190846755,121.17684894243718,Hospital
+224,4fdebfcde4b09d4fcd0b6241,"clinica antipolo hospital and wellness center, inc.",14.589469323800138,121.17008032835605,Hospital
+225,56d3ca4d498e02f9067e0b75,rizal provincial hospital system- annex ii,14.578455956222971,121.18600718447529,Hospital
+226,4fc068cde4b0cec931cdfcc5,soriano-leyble medical and maternity hospital,14.588386181808602,121.177418048548,Hospital
+227,50dfa587e4b0454c60744013,clinica antipolo hospital & wellness center,14.581352922603024,121.175756352725,Hospital
+228,5080f0b6e4b0d50649f7a4bb,soriano-leyble medical and maternity hospital,14.587079488417743,121.17553264767888,Hospital
+229,52f6007411d2a5dedd152771,"billing - ug, clinica antipolo hospital and wellness center, inc.",14.589516639709473,121.16915130615234,Hospital
+230,4fbf8a13e4b060bd33031980,soriano-leyble hospital,14.574857805777242,121.17944183272745,Hospital
+231,51b84a4b498e9805f0c6b04f,"emergency room, antipolo doctors hospital",14.57432462949243,121.17964316066303,Hospital
+232,4d55f59158856dcb4a2c516d,the medical city - antipolo clinic,14.580983071845314,121.1770650188061,Hospital
+233,536b0e3e498ec262bb19dec6,clinica antipolo dental clinic,14.589365,121.169673,Dentist's Office
+234,51498567e4b00fe75a305854,la clinica cristina,14.581543836671067,121.17570601912634,Doctor's Office
+236,514b9600e4b0c9cfbc6d8c27,clinica antipolo 3rd floor,14.58793321392167,121.17412329620419,Hospital
+237,518c7dc3498ef31f1262f035,clinica caritas,14.58070604399827,121.1813544343365,Medical Center
+238,514bae06e4b0980153da8670,clinica antipolo dialysis unit,14.588383,121.171118,Hospital
+240,59367b641bc7041930b4a7e4,clinica antipolo dept. of pediatrics,14.589544,121.170044,Hospital
+241,4f31c8fce4b0f5735fedea10,clinica antipolo,14.589344538654178,121.16972176158406,Hospital
+243,4e1bb0d7aeb75875fbbdbf3e,clinica antipolo,14.571447617535718,121.1865160679585,Hospital
+244,519c9d50498e43340cefed8f,mother regina hospital,14.582469259882368,121.08524457731782,Hospital
+245,4c28f5dd97d00f47a5b040ea,pasig city general hospital,14.572603514747664,121.09923600209937,Medical Center
+246,52b0c84511d25660d8528023,pasig city general hospital pay ward,14.569070816040039,121.09960174560547,Hospital Ward
+247,54350049498e442d0bc93bce,mcpc st. therese doctors hospital,14.576683,121.085399,Hospital
+248,4c6739e59cb82d7fd53493d2,st. therese of lisieux doctors hospital,14.576775165234118,121.08534990001299,Hospital
+249,5289a4de498ea03705035b90,ardi hospital,14.576621,121.085559,Hospital
+250,4d7f9f279df3f04d8175d994,st. therese hospital,14.574281,121.079046,Hospital
+251,50dd4aade4b0cc838f9734c1,our lady of lourdes hospital,14.580154530815491,121.08367184871065,Hospital
+252,510343ade4b026c3ba6237e3,pasig gen. hospital- surgery ward,14.581274224207492,121.0830673781389,Hospital
+253,52ddfb04498ed384ad0b5999,pasig city childrens hospital,14.561885066146358,121.07426592007813,Hospital
+254,513a79fee4b0946e1eba0122,javillonar hospital,14.565332,121.078408,Hospital
+255,4cf2039194feb1f79f311bba,mary immaculate hospital,14.586652706500548,121.07857852919601,Hospital
+256,50bcd38fe4b03821388b8ddd,javillonar clinic and hospital,14.56311321258545,121.07738494873047,Hospital
+257,50b02174e4b0af521a4a615b,pasig city general hospital - avr,14.574146483506151,121.09803832195493,Hospital
+258,4eea57262c5bbde2185621e4,mary immaculate hospital,14.566812516532076,121.07054972636608,Hospital
+259,4e858e4ff5b9d67fa9b8e60d,alfonso specialist hospital,14.590184530137833,121.08485951680251,Hospital
+260,5a105801bd400971f5e2d33c,opd-or pasig city general hospital,14.57258,121.09917,Hospital
+261,5386e336498ecc2c32cfb461,tricity medical center,14.575865869971283,121.08488026004964,Hospital
+262,4f85ca2ce4b0be4a1237e41d,echo base,14.5725,121.0992,Hospital
+263,4f3f3eede4b00b5257b894f0,"immaculate conception clinic, pasig city",14.5637117826062,121.08186962190045,Hospital
+265,4d115dfec5556dcbbdd5c890,polymedic general hospital,8.482394524038906,124.64582299897849,Hospital
+266,4fa057f0e4b0f5a96d751d4f,maria reyna-xavier university hospital,8.475791646626092,124.6540524295217,Hospital
+267,4c46633ef9652d7fcb07152b,madonna and child hospital,8.476860310259829,124.63531318761282,Hospital
+268,4c86e894e0febfb76bf265ef,sabal hospital incorporated,8.48613711596189,124.64810236266175,Hospital
+269,513d792de4b0cb85ed41d020,nursing office sabal hospital inc.,8.486038,124.648148,Hospital
+270,51184af4e4b00c1967dd6c13,"icu, sabal hospital inc.",8.48616533977406,124.64796418591504,Hospital
+271,51271448e4b088ac5fdcbf64,carina lecture hall. sabal hospital inc.,8.486265127235518,124.64792636940084,Hospital
+272,4e8fe5c9775bfdaabc1eb582,german doctor's hospital,8.475887720906258,124.6491580988085,Hospital
+273,53472dde498e4240ca88647c,cardiovascular laboratory - maria reyna  xavier university hospital,8.475309,124.654918,Hospital
+274,510ddd30e4b0898fb4a2ffe2,polymedic general hospital-billing office,8.4744333,124.6535663,Hospital
+275,4d67700db2cfa090bbd1e2bf,maternity hospital,8.475839058065029,124.64219234599648,Hospital
+276,4eb9f8f229c2dcd4419117f1,mindanao sanitarium hospital,8.480894589868473,124.63702912382959,Hospital
+277,4ea8c3b86c253859bb1ca32b,medina general hospital,8.479426,124.637119,Hospital
+278,514c25c9e4b04176d8d76a22,"dr. imperio, madonna & child hospital",8.471124649047852,124.64347076416016,Hospital
+279,528c7055498e6ce83eb51ac1,cumc hospital,8.477495222495302,124.63695348124703,Hospital
+280,52eb3d59498ef2c3afaeb334,"operating room, madonna hospital",8.47649147409857,124.63715339364352,Hospital
+281,5024bd74e4b0bb3db3b822d9,"oro doctors general hospital, inc.",8.468859905838782,124.64462546438436,Hospital
+282,4fd5c4b8e4b054c59a5151d9,cdo - maternity & childrens hospital and puericulture center,8.496609758066423,124.64195115294966,Hospital
+283,52bbea09498e15ad54a1999f,madonna and child hospital - intensive care unit,8.473814964294434,124.63680267333984,Hospital
+284,4da2a3d6b521224b63940dee,st. ignatius medical clinic inc.,8.481805759524654,124.64565382170963,Hospital
+285,50445a7ce4b04fbe53fbc168,van dave maternity clinic,8.48961067199707,124.638427734375,Hospital
+286,4ec4b78961af4438d0f91319,polymedic polyclinic,8.481541246054817,124.65646167841822,Doctor's Office
+288,52dc9ea0498ec2360fc8c4e8,unihealth-parañaque hospital and medical center,14.464753412134117,121.01965321879958,Hospital
+289,4e2a8495b0fbc2edac17a09b,dr. jesus delgado mem. hospital / or-dr,14.465699,121.025758,Hospital
+290,4fc9ddc0e4b0e16321a18423,ust hospital junior interns' room,14.326372300777653,120.9399745029093,Hospital
+291,541c0c20498e0b63fb6ba235,st. paul hospital,14.341866693296422,120.93347976752787,Hospital
+292,5056a26de4b0d070fd83d46b,gmf medical and lying-in clinic,14.32854774509278,120.9377554605441,Hospital
+293,4fde9eabe4b044e823439c53,dlsumc industrial clinic,14.326955764163586,120.9427594559633,Hospital
+294,508e269ce4b0c9eb73017bd9,dr. bernardo's clinic,14.326821,120.942797,Hospital
+295,50360dd8e4b08267304aefdf,center clinic dasma,14.335516,120.932455,Hospital
+296,4df74dc1b61c40d585ec2196,valenzuela general hospital,14.68977758521622,120.97781896591187,Hospital
+297,50497918e4b01b346623b806,acebedo general hospital,14.709033966064453,120.99372100830078,Hospital
+298,4ec732aed3e3e131f1f1c110,meycauayan doctor's hospital,14.687244609341487,120.97632517353891,Hospital
+299,52a866e3498e66930091421d,valenzuela city emergency hospital,14.684906959533691,120.97784423828125,Hospital
+300,4da039f131a6b60c633e6e18,valenzuela medical center,14.689678601646285,120.97812961544079,Hospital
+301,5a43517e8ad62e547b7b5183,the medical city clinic,14.685646,120.97692,Hospital
+302,4d4e07d74aa3a09381e449ae,fumc-department of laboratories,14.694399753165152,120.98017362921006,Hospital
+303,4e49d5f7483b16676e3824f2,heart center,14.71451053771933,120.98967940763372,Hospital
+304,4ed23e9493ad987b4f3a9ce5,las piñas general hospital and satellite trauma center,14.47134277342685,120.97362991409399,Hospital
+305,50808f2ce4b05bd7ed69a8eb,a zarate general hospital,14.468639299578971,120.98043270933056,Hospital
+306,4fadb826e4b02f54b7e54a54,christ the king hospital,14.461210207687497,120.96629172638113,Hospital
+307,4d95eff0c19fb60c7ab07165,st domimic hospital,14.460068628889845,120.95968073882963,Hospital
+308,522d983511d255e77bb3a8cf,san juan de dios hospital intesive care unit,14.468554,120.963181,Hospital
+309,4daa46d2f7b145b3700da527,christ the king general hospital,14.459030475551389,120.97037644713237,Hospital
+310,4fe1a214e4b046c60da6cce6,"manila doctors hospital, ct scan reading room",14.457704874561882,120.9774343479542,Hospital
+311,4faeb9bee4b03b805513fe4a,airforce general hospital,14.472268015429158,120.9742244366413,Hospital
+312,4bf277f4af659c74fafad747,our lady of perpetual help hospital,14.453576388323249,120.97749036659513,Hospital
+313,4de9811c45dd3993a8738f61,st. dominic medical center,14.459315309111737,120.95978718978228,Hospital
+314,50f8d200e4b02deb16338660,pamplona medical clinic,14.463091989118222,120.96890800941166,Hospital
+316,4f519894e4b0061513b1771d,cardiovascular catheterization laboratory,14.462278838076184,120.96940100718525,Hospital
+317,4da0849abcc4a093400012c9,general santos doctors' hospital,6.119449288171438,125.17819468478483,Hospital
+318,4d2aa32cc406721e3da685b6,st. elizabeth hospital,6.1186237798956515,125.18001179479457,Hospital
+319,50076939e4b0a59281ca29d0,diagan cooperative hospital,6.11440836033127,125.16788073072482,Hospital
+320,4faa072ae4b096d470b0a240,quijano clinic and hospital,6.117079257965088,125.17019653320312,Hospital
+321,4f46e93ce4b0f85d065d5fea,auguis clinic & hospital,6.112861670344435,125.1675585668573,Hospital
+322,57e7199b498eabc468fa1cf9,st. elizabeth hospital general santos city,6.113095,125.171565,Hospital
+323,56e77bd8498e802e6b022459,general santos district hospital,6.118982143950764,125.17987507777069,Hospital
+326,4d79b22918db6ea837fb5653,the medical plaza,6.117977810973385,125.17974596900773,Doctor's Office
+327,52c2f97b498e894a0b217323,gsdh laboratory,6.1209214367214875,125.17844164562646,Hospital
+328,4e45f5cb483b03d090da8c90,perpetual help hospital las piñas,14.448277912633358,120.98593533039092,Hospital
+329,4da90fe0f7b145b36feee0db,las piñas doctors hospital,14.455776200758192,120.99451361921062,Hospital
+330,51627e62e4b0f06434964df7,rehabilitation medicine department - las piñas doctors hospital,14.455761776738454,120.99374028195595,Hospital
+331,5618e59a498eb9e9e0f84d53,las piñas doctors hospital - recovery room,14.455750300998858,120.994440418945,Hospital
+332,50bf4bf1e4b0c38f1561168e,suite room 317 - perpetual hospital,14.448309925613128,120.98390432996594,Hospital
+333,5460a457498e36ee54a4b842,perpetual help hospital,14.444027473390978,120.98424042349849,Hospital
+334,50c1b19be4b05f48f7283b25,university of perpetual help hospital,14.451157776317649,120.98983064263433,Medical Center
+335,52842202498e3f72bb679921,las pinas doctors hospital,14.455464590357732,120.99370107416489,Hospital
+337,542a20dc498eb1712e187eed,e. zarate hospital,14.445304830613052,120.9883686963903,Hospital
+339,50665d0ee4b0f6898e8e766b,las pinas doctors hospital,14.450173192524355,120.99412675807424,Hospital
+340,4daac67ca86e771ea72ae410,e. zarate hospital,14.44673859304288,120.99406572344297,Hospital
+341,59283a08c8b2fb4f25008d09,las piñas doctor's hospital,14.455671,120.993256,Hospital
+342,5034b090e4b0808b40e583fc,icu laspinas doctors hospital,14.45512556224247,120.99370667527869,Hospital
+343,560ceb35498ec5326861967d,"eye center, las piñas doctors hospital",14.455805078119818,120.99365066412922,Hospital
+344,5043632ee4b05e5c102d0b77,room 331 las pinas doctors hospital,14.454220633451463,120.99444602002463,Hospital
+345,561cb8ee498e263f8a9de4a0,"diabetes center, las piñas doctors hospital",14.455860137939453,120.99394989013672,Hospital
+346,560e39e1498e78507d54e6da,"3rd floor, las piñas doctors hospital",14.455758938126147,120.99435640271999,Hospital
+347,51d6fb76498e82e787be1b23,las piñas doctors hospital - delivery room,14.456036887012813,120.99424438099597,Hospital
+348,5119e396e4b0446bf0389051,nemis medical clinic,14.448487342427164,120.98421241573969,Hospital
+349,4fe3fc3be4b077d44dbc32bf,alabang medical clinic (talon branch),14.442772725437363,120.99683765734568,Hospital
+350,4f168ccfe4b0d3f8aa805c13,updhmc - laboratory,14.444266692054603,120.99364506301283,Hospital
+352,52db865211d2b1e991fca4fb,heart and vascular institute-university of perpetual help,14.448778940633376,120.9846381329754,Hospital
+353,4f4971cde4b092e0c9fd4227,pacu philippine general hospital,14.548967,121.0209294,Hospital
+354,5289cb49498efe66c337ae50,mission hospital,14.552328259123517,121.02051623679297,Hospital
+355,4b9510ebf964a520b58d34e3,makati dog and cat hospital,14.563068771422923,121.0337434291877,Hospital
+356,4d8d7334d00a6ea81806a34f,dog and cat hospital,14.563091397285461,121.03381276130676,Hospital
+357,52670b59498e2d107c809293,st. lukes hospital rm 859,14.554243087768555,121.04634857177734,Hospital
+358,4fb89d75e4b046114b29aae4,mt. sinai hospital,14.554938353329923,121.0187634639908,Hospital
+359,500575b8e4b0f953a33239f6,beaumont hospital,14.557864172430579,121.0484283729114,Hospital
+360,4f8ff5cee4b072703fb26ec7,lucena doctors hospital,14.559220097344946,121.01753146788965,Hospital
+361,4bee8a9935dc0f47aceb3f5b,st. luke's medical center,14.555112771988426,121.0478181264974,Hospital
+362,4fb4c0f5e4b0ccfe26b3e2db,humana clinic,14.560343,121.030066,Hospital
+363,4d6746b9fd1b8cfa40d91bf0,guadalupe nuevo lying-in clinic,14.559948,121.041139,Hospital
+364,5268ed0a498e6b55557ae8bf,st.luke's medical center global city-employees' health clinic,14.554720878601074,121.04779052734375,Hospital
+365,59f1ad6f6f0aa252bb6abb48,dr. romulo madrid's clinic,14.555449,121.048187,Hospital
+366,5019d322e4b009d6ef9e713e,dr c teh liver gallbladder pancreas clinic,14.554803584158275,121.04854034439477,Hospital
+367,50187f36e4b0deb6b21319e4,928 hepatobiliary pancreatic surgery clinic slmc mab,14.555548,121.049282,Hospital
+368,509c97a9e4b0b72b97faabc2,wpi clinic,14.545683,121.015253,Hospital
+369,4e77e6bbb61ce1c89844eaae,"st. luke's medical center- department of clinical advancement, division of nursing",14.554234196643812,121.04803087330473,Hospital
+370,53437eb4498ef2135d753c15,tokyo healthclinic,14.54059886932373,121.01805877685547,Hospital
+371,5fbcbb249a4df41493876bad,st. luke’s advance surgical training and simulation laboratory,14.555237,121.047648,Hospital
+372,4f69db7ae4b039c9e60e6b10,cardiac catheterization laboratory - st. luke's medical center (global city),14.555208388685276,121.04823242256502,Hospital
+373,4d703849b246a0939eb11b5f,"international eye institute, st. luke's global city",14.554505573221192,121.04841157717992,Eye Doctor
+374,57fd9de2cd105a3c99b767b1,tan eng gee eye institute,14.554397,121.048189,Hospital
+375,4d09ad10d4018cfae9aa4328,slmc heart institute,14.554863919489655,121.04737393444388,Hospital
+376,4fe2909be4b019c9a5bc2ff4,philippine heart center  9th floor,14.541180710509083,121.01931225820978,Hospital
+377,505be59ee4b08887c544575f,kairos maternity and general hospital,14.809034777934997,121.04650887519536,Hospital
+378,571ad0c7498e8b42afdffe9e,kairos hospital,14.804703,121.032755,Hospital
+379,4e41ff676365c15e6fa7fbfb,dr. pablo o. torre memorial hospital,10.683083154241412,122.95789550130392,Hospital
+380,4df354066284fefe8fc1d2cd,riverside hospital,10.679307097544033,122.9576674245382,Hospital
+381,4c578629a7d976b0ddcddcee,corazon locsin montelibano memorial regional hospital,10.672152470601887,122.95135504307784,Hospital
+382,4f73d581e4b0dd96b6613f03,negros provincial hospital,10.680166819697403,122.95399779235849,Hospital
+383,50e7d21ee4b06202f3abed51,bacolod our lady specialty hospital - station 5,10.671179760432079,122.94972280361185,Hospital
+384,5072f958e4b0b205b2bcfded,vicente gustilo district hospital,10.6804103851318,122.95481967926,Hospital
+385,535cffeb498ef4f4b69e4bee,cprazon locsin montelibano memorial hospital aka bacolod provincial hospital,10.672159571909427,122.95436641217198,Hospital
+386,51af437f498ece7803864153,the doctor's hospital-admitting,10.678336,122.959871,Hospital
+387,4f13ec1be4b0725fee3e914c,the doctors' hospital inc - dialysis unit,10.677266074876346,122.96012110642317,Hospital
+388,56c3ccc3cd104c234cc4d7b6,the doctor's hospital - radiology department,10.677947,122.960097,Hospital
+389,4f66b162e4b08ac7270d4c41,the doctors' hospital bacolod,10.678015845766604,122.96014175940435,Hospital
+390,5172661fe4b0e47cf52e1567,room 522 riverside hospital,10.683121478450948,122.95743085561175,Hospital
+391,538bf2fe498ed1082719de3f,p.o.w.e.r  the doctors hospital - bacolod,10.678023,122.960229,Hospital
+392,50f14485e4b0dbfd19433a73,dr. pablo o. torre memorial hospital,10.683051446343166,122.95764541815005,Hospital
+393,4ee7fd61722e12349404b38c,the doctor's hospital (bs aquino drive),10.678049383695473,122.96031365738477,Hospital
+394,50e99109e4b09c38491fc4f4,the doctors' hospital inc. - station 6,10.678507074736908,122.96032466028566,Hospital
+395,5020aa20e4b01a304148933d,riverside hospital operating room,10.682801,122.958166,Hospital
+396,506908a5e4b0913fe32de6fe,the doctors hospital,10.678395525976779,122.9605282137335,Hospital
+397,50299bb8e4b05bb92f2e0832,riverside hospital - icu,10.683109268571675,122.95814056071116,Hospital
+398,4d9ebaa6640b5481f104d12d,st. anthony college hospital,10.671155,122.959288,Hospital
+399,5ac41cbf5d891b089dd304c6,room 7 family medicine clinic,10.671672,122.950909,Hospital
+400,5ac41c6bee628b41fc2e0646,room 7 family medicine clinic,10.671538,122.951053,Hospital
+401,50c6f541e4b0207290168bbc,eye center - clmmrh,10.67150425282555,122.95118083189348,Hospital
+402,4f514937e4b050039c547085,muntinlupa doctor's hospital,14.39110910658742,121.04419577451112,Hospital
+403,4d5885a97a7eba7a55a7ddce,beato cauilan hospital,14.371098102441563,121.04942651499488,Hospital
+404,53ea8196498e7d4c36f3cb4f,university of perpetual help hospital binan - operating room,14.396529604355322,121.0431599969653,Hospital
+405,4f3533b7e4b03ada5a326bc3,"alabang medical clinic, muntinlupa branch",14.390885152618015,121.0444888277542,Hospital
+406,4f5f8870e4b080c3669521ff,dela merced childrens and maternity clinic,14.387508635378625,121.04555067007571,Hospital
+407,4fb46c44e4b0292fd31e774e,de la merced maternity and childrens clinic,14.388475222116275,121.04538830736118,Hospital
+408,4ce9a0f0e888f04d710f496b,muntinlupa doctors clinic,14.38787089054949,121.0419898375683,Hospital
+409,51a21c4a498efd44d4cf1a91,mother of jesus maternity clinic & family planning center,14.391736,121.044682,Hospital
+410,512c3f62e4b0674c45d5183d,gamez hospital,14.213092545385953,121.16430211330648,Hospital
+411,52f3562c498e85fd63a9caa1,calamba medical center hospital,14.206212806827905,121.15400466080935,Hospital
+412,4e5c5989b61cd44cf3f45194,calamba doctors' hospital,14.206275047737963,121.15352360648919,Hospital
+413,4eacb110722eefae84262a7a,calamba eye center,14.20663904533703,121.15464792808476,Hospital
+414,4ce485684303f04d651c94b8,st. vincent general hospital,14.651305191491456,121.10723090040058,Hospital
+415,51499913e4b0017f77daf46b,st. vincent general hospital,14.651458435808282,121.10728859080827,Hospital
+416,5137435ee4b0ae37b6269f23,antipolo hospital,14.63906818177133,121.0932142443937,Hospital
+417,4ea2b0620cd6fc5af3be320a,vt maternity hospital,14.637088900140144,121.09937746109979,Hospital
+418,50ba1b03e4b049f72e99aecc,maternity hospital,14.650465307850485,121.10003617191106,Hospital
+419,4fe3d470e4b02e2334b72e0d,p. gonzales memorial hospital,14.649160934054047,121.09842738336258,Hospital
+420,4dc17812b0fb1c18ee63ef8b,st. victoria hospital,14.64234405626749,121.09454120059885,Hospital
+421,57b166f7498ef651b1fea8be,operating room - st. victoria hospital,14.64231,121.094493,Hospital
+422,4cd4d6a1fb595481b8f4da50,st. victoria hospital,14.640437388753991,121.0944454659398,Hospital
+423,4d820bbacf26dcb38c1f1253,garcia general hospital,14.651074767287101,121.1112244906155,Hospital
+424,540969a2498ea7138fa77037,marikina orthopedic st. vincent hospital,14.65151078886566,121.10734454912254,Hospital
+425,519b0662498e13d1eb6b514a,marikina st. vincent general hospital-intensive care unit,14.65133004782926,121.10743967819683,Hospital
+426,5090d42ce4b0850280542369,marikina st. vincent general hospital,14.654635007847038,121.10641004184414,Hospital
+427,50c7e4a3e4b0a802869f597f,emergency room - st. victoria hospital,14.642066665695204,121.09422160841761,Hospital
+428,54dead98498e7eda5dcbc290,garcia general hospital physical therapy department,14.651097740159486,121.11079153083371,Hospital
+429,4f333643e4b0d59eed86b90c,st. victoria hospital lamuan. marikina city,14.65089441236009,121.11093701813752,Hospital
+430,554722f3498e2f65fd812063,room 304 st. vincent hospital,14.651865,121.110918,Hospital
+431,56f901a8498e9afb16fef9cc,garcia general hospital-or complex,14.650836649435554,121.11105452698452,Hospital
+432,4cbc5b90352ebfb7fed38ef2,garcia general hospital,14.650827882718076,121.11271082988185,Hospital
+433,51fc71b8498eb7972bca7144,marikina central field hospital,14.63671,121.097818,Hospital
+434,4ec706699adf9c7bf28600f2,marikina ob-gyn ultrasound clinic,14.636131372511835,121.10022233771359,Hospital
+435,4f42e232e4b0f9c0eb1fbcd7,rehabilitation clinic @ mvmc,14.635119282647318,121.10416607541386,Hospital
+436,4d6c5477369ba093ef59c64c,marikina veterinary clinic,14.636126,121.092097,Hospital
+438,504df856e4b08bf9eae90459,laboratory rm-pgmh,14.64919662475586,121.09848022460938,Hospital
+440,4bcbb701511f9521ca13b2c7,st. paul's hospital,10.70152565212573,122.56674328461082,Hospital
+441,5178ca13498ee4f33785c8df,iloilo mission hospital,10.714906045304721,122.56831148777258,Hospital
+442,4c87323b110176b04611b640,iloilo mission hospital,10.714779552987343,122.56086314905289,Hospital
+443,519859e2498e7777a6e51591,wvsumc hospital,10.719957629398179,122.56425427248342,Hospital
+444,50384c57e4b0df99d5c20357,mission hospital,10.715274826716422,122.56268023062168,Hospital
+445,51dd206c498e8fe89cb0c371,department f-iloilo mission hospital,10.715533515153961,122.56199537687233,Hospital
+446,4ece8d3330f81894ac35a829,don benito hospital,10.716432959871744,122.56170817879159,Hospital
+447,51676184e4b07e1442649619,west visayas state university hospital nso,10.716711,122.560971,Hospital
+448,52fef1af498e4252344d202c,iloilo mission hospital cb4 421,10.714812,122.560553,Hospital
+449,52ce40a211d2fad78eb2d215,iloilo mission hospital-cb-assessor,10.714796,122.560476,Hospital
+450,52d2b66c11d28feb2df2afc2,department b- iloilo mission hospital,10.714307331716197,122.56042682381047,Hospital
+451,52dd5c02498e558a5feb4a7a,picu- iloilo mission hospital,10.714357,122.560273,Hospital
+452,4f37c513e4b0f4cfdeea67d6,coronary care unit st. paul's hospital iloilo,10.715917442125418,122.55981375612541,Hospital
+453,51ec30cc498e284faf1eaf27,or dept-iloilo mission hospital,10.714156041169986,122.56024456082348,Hospital
+454,51e30e73498ef75e31eb4b0f,department g-iloilo mission hospital,10.714365030074289,122.55989108017745,Hospital
+455,53046359498eeacc65515534,iloilo mission hospital- dialysis room,10.714308,122.559878,Hospital
+456,522e75a311d2c1d994bba0c9,surgical icu - st. paul's hospital iloilo,10.706170361822338,122.56773364857288,Hospital
+457,51d07dee498e7a1157f97231,nicu-iloilo mission hospital,10.71635913848877,122.55561065673828,Hospital
+458,5046dd8fe4b0852ff27a3d6d,nso iloilo mission hospital,10.712976024831338,122.55621260065878,Hospital
+459,4fb9ba6fe4b0b2367c1658dc,iloilo doctor's hospital,10.709771344874394,122.57576246795018,Hospital
+460,4f96038fe4b00200cd35adcb,maternity clinic,10.710948944091797,122.56980895996094,Hospital
+461,539fc3e9498ee8946e540c57,la paz maternity clinic,10.71078,122.570096,Hospital
+462,51919d14498ebf7831c71544,st pauls hospital industrial health clinic,10.706011,122.571314,Hospital
+463,4fce91cae4b01830c2fc65ca,labor room,10.702566,122.567982,Hospital
+464,531d6fb7498e8d21671b6619,st. paul's hospital labor room,10.701720237731934,122.56664276123047,Hospital
+465,4f82dd09e4b06d09fb6819b9,imh heart station,10.717082379572599,122.56227705113984,Hospital
+466,501fed0be4b0d43ab6d0754e,sacred heart annex (sha),10.702258459111752,122.56825830625438,Hospital
+467,4cd4cae2aeb1224bdce31eff,pasay city general hospital,14.549246988763326,121.00044219242903,Hospital
+468,4bd3bab69854d13a8992fe4d,san juan de dios hospital,14.538700646260892,120.99314277512894,Hospital
+469,4f861860e4b0eb2053e3c73f,opd (pasay city general hospital),14.549597346407637,121.00063505469525,Hospital
+470,510c83aae4b045d336c8d53f,"pedia ward, pasay city general hospital",14.54983550705415,121.0010103072589,Hospital
+471,5336559e498e9dabf868c02c,ob ward pasay city general hospital,14.551678558102797,121.00243289596541,Hospital
+472,5118809de4b07949c9311440,pasay city general hospital operating room,14.55465795077967,121.00420270739308,Hospital
+473,4f2f2a94e4b007725c44dd43,5thlcbii philippine general hospital,14.55550328145509,120.99693287377907,Hospital
+474,52fafe32498e115b2fc6e0e8,manila sanitarium & hospital,14.55592337145206,120.99567265021733,Hospital
+475,4d4a21de94ab2c0f6e231f0c,st. claire's hospital,14.55891548739596,121.00164319327553,Hospital
+476,527c427511d204ce8e57ae54,sta. teresita general hospital,14.53800888452262,120.99802505692494,Hospital
+477,5110460de4b0ed5bb0df6417,esu san juan de dios hospital,14.538966002657542,120.99342661927238,Hospital
+478,4dbe40541e72b351cadd3daf,san juan unit sjdefi (hospital),14.538561,120.993933,Hospital
+479,57369a20498efe90af7deb6d,san juan de dios hospital,14.537175,121.001777,Hospital
+480,503b41d1e4b0c6f193f16599,operating - delivery unit (san juan de dios hospital),14.538810345149534,120.9931801694513,Hospital
+481,52842ca4498e70e4b2df798d,san juan de dios hospital (st. louise de marillac unit - 3c),14.538491249084473,120.99324035644531,Hospital
+482,4d7f4773b25d6dcb0a6ac942,rm 303 st. clare hospital,14.563547437874469,121.00244409738492,Hospital
+483,4ef5cb038231c111551bb12a,catarman national hospital,14.546458375946923,121.01399220922255,Hospital
+484,4cc3f9218062468805bb332f,pediatrics department sanjuandedios hospital,14.537746063607647,120.99239040642007,Hospital
+485,4ff594a4e4b021ccc6e9c933,st. mungo's hospital for magical maladies and injuries,14.5552159,121.0146483,Hospital
+486,5387d409498e1afc1632b4eb,philippine general hospital department of emergency medicine pediatric e.r.,14.565573869654148,120.99488290343525,Hospital
+487,4f597e66e4b0357e5ccbea03,breast clinic makati medical center,14.55951585088406,121.01445142268554,Medical Lab
+488,573a8110498eddadd4838f8e,st. claire family clinic,14.55027,121.001304,Hospital
+489,526a42e0498eeafeca2bfa5d,st. eymard clinic,14.546784,121.004111,Hospital
+490,4c86eb51e0febfb78bfe65ef,comprehensive pulmonary clinic,14.556313910294639,121.00579887588006,Hospital
+491,552b1a1a498ecaf910a5943a,intellecare clinic,14.55791,121.012106,Hospital
+492,5afa6e1f492814002cd6bdbf,jose guitterez clinic,14.563512,120.994607,Hospital
+494,528dcc0711d2527890d63b0c,"employee health clinic, makati medical center",14.559464662585036,121.01435061987968,Hospital
+495,4b582782f964a520604c28e3,makati medical center,14.559496957214884,121.01469581661588,Hospital
+496,4d3948740333a093ea6f4934,maxicare,14.559521560702237,121.01469010897802,Doctor's Office
+497,50fbd298e4b09cad23723e3a,clinical pathology and laboratory medicine- ommc,14.56062981255922,120.98975222450942,Hospital
+498,5c19b711c876c8002cd98ed9,labor room,14.55581,120.995434,Hospital
+500,4dec0eacfa76cc1b8b0f9cb7,"victory a.r.t. laboratory philippines, inc.",14.558486058412823,121.01426101731502,Hospital
+501,52b7a435498ee8a091e4dc6f,cellular therapeutics laboratory,14.561342,121.012102,Hospital
+502,4e03f0e88877fc58724cd7e0,"pathology & laboratory, makati medical center",14.559515822692259,121.01458510050051,Hospital
+504,4d841d4e02eb5481afa328f5,heart station,14.559504072864264,121.01461767710248,Hospital
+505,4d2504a93b62f04d7a471d78,physical medicine & rehabilitation division philippine heart center,14.539042,121.004078,Hospital
+506,50fa2b47e4b04512980e24a2,immaculate heart of mary unit,14.538603937064693,120.99340981589141,Hospital
+507,52e8b75d11d249b274cae6fb,heart station echo 1 room makati medical center,14.559068604975403,121.01400900974586,Hospital
+509,5337c180498eee10c4434b90,neurosciences and cardiovascular icu-makati medical center,14.558771383524759,121.01509290267256,Hospital
+510,4e8fcb9b02d5ee38b6885dde,st catherine hospital,15.135267638866537,120.58491946820962,Hospital
+511,4ed5c9134690ad261c2fe457,"st. luke's hospital, qc",15.141864662550766,120.5833684408316,Hospital
+512,53ef0a78498eddd220e4a6b4,auf medical hospital,15.145094903408006,120.59528607221604,Hospital
+513,4f366a68e4b0d26b9fdf9487,dr. amando l. garcia medical center,15.142101206084003,120.58944922413916,Hospital
+514,4d304d97d902236aabe851e4,angeles university foundation medical center (aufmc),15.144992394315231,120.59497978189896,Hospital
+515,4e1ee55cfa76920758b1aff7,holy family medical center,15.139911265386136,120.5944496007315,Hospital
+516,4d36593948cdb1f7ebc0f237,clinica henson,15.151046036673906,120.59253188997066,Hospital
+517,4d2ca1e3ebacb1f77f541650,mactan benito ebuen air base hospital,10.314168691948042,123.95966172445561,Hospital
+518,565ef42c498e31f0c06763b2,lapu-lapu city hospital,10.320778020389923,123.97291965620633,Hospital
+519,4ce67da3678aa0934c7cdcea,tojong maternity and general hospital inc.,10.316734,123.961649,Hospital
+520,51672623e4b080e1ef91e8bb,mactan doctors' hospital or/dr,10.302483295303288,123.96519505565452,Hospital
+521,50e1486de4b09f5e93c1723e,mactan doctors' hospital room 309,10.313716335282043,123.95904321652795,Hospital
+522,5366e50f498e95b5eeda76cd,cebu doctors university hospital radiology department,10.309906237680448,123.9934065594558,Hospital
+523,5603e43c498e65e4465f5f11,gentri medical center and hospital,14.422973008673935,120.94259695542146,Hospital
+524,4eede5f293add02fcca6f884,imus family hospital,14.431023629304,120.9496347112604,Hospital
+525,4d8e0e5ec1b1721e02ac2646,medical center imus,14.4249949275237,120.92685391011486,Hospital
+526,4c7866fe566db60c0baf410e,our lady of the pillar medical center,14.419387378259223,120.93937419872687,Hospital
+527,52418975498e5ed649a3cae5,primarosa birthing home ( maternity and lying-in clinic,14.424415,120.945807,Hospital
+528,4b88e232f964a520d21132e3,our lady of lourdes hospital,14.59499,121.02244,Hospital
+529,4dd0ed4552b1f8915bd19e1d,our lady of lourdes hospital mab bldg,14.595212295624524,121.02200031280516,Hospital
+530,4d256e47002f548125f8a0f3,sta. ana hospital,14.583443726045928,121.01604330015768,Hospital
+531,4b9ca62df964a5207f7436e3,vets in practice animal hospital,14.57801170555831,121.0329092247171,Hospital
+532,526d8b9f498eb8f7896d19bc,sta. ana hospital - ob ward,14.582745054818705,121.0161930578902,Hospital Ward
+533,5227a36e11d27e46e7136a85,divine mercy psychiatric hospital,14.58398431344469,121.03724189723953,Hospital
+534,50da9c3de4b0275bee2c8c59,"baypointe hospital, smba",14.589172155009452,121.02588277882798,Hospital
+535,4ea2336b7ee52a35dccea531,lourdes hospital,14.574603609827571,121.03910638195401,Hospital
+536,516cfbba498e148f6991c227,manila doctor's hospital,14.580104120871441,121.0228457612816,Hospital
+537,4fb369b9e4b0e9ebc0f18e1f,our lady of lourdes hospital mother josepha unit,14.589931817352186,121.02382011637026,Hospital
+538,4c413ce7d691c9b656938c0a,st. martin de porres charity hospital,14.59908318259388,121.03153927570588,Hospital
+539,5505a937498e066081d4aa3a,dr. jesus delgado memorial hospital kamuning rd. quezon city,14.571029,121.035879,Hospital
+540,4f17c78ae4b0926438170e79,mother & child hospital,14.574648735597895,121.02300815434228,Hospital
+541,4c473f3831e41b8d0a2e4c35,unciano general hospital,14.573855016283918,121.0439456956469,Hospital
+542,5199bc18498ec1fda0530d65,pulmonary care unit - our lady of lourdes hospital,14.594817577135778,121.02327694237675,Hospital
+543,5b357b25d1a402002cf2f81c,heart station (our lady of lourdes hospital),14.594641,121.02301,Hospital
+544,52e1150611d2ac933e155230,st. martin hospital,14.598362922668457,121.0347671508789,Hospital
+545,4d89c7281508a143a5c0141e,our lady of lourdes hospital - dept of ob-gyn library,14.59499905752889,121.02307376886101,Hospital
+546,57515a0f498e66ad7735fe8e,"sta. ana hospital, nursing department office",14.584362,121.017477,Hospital
+547,51a24855498e210b6f1a76c1,"hemodialysis unit - our lady of lourdes hospital (sta. mesa, manila)",14.595053471604333,121.02307535140699,Hospital
+548,4cff1769c00a594195b88f87,dr. victor r. potenciano medical center,14.576928598073176,121.0500251711853,Hospital
+550,502c6cc0e4b07730f317ae96,santa ana hospital laboratory,14.583653947043569,121.01623225839377,Hospital
+553,5715dd24498e23619e9fe93a,"sta. ana hospital, heart station dept.",14.581417,121.016522,Hospital
+554,5556abe7498e3f02f74089c0,navotas city hospital,14.66020228729693,120.94599341176038,Hospital
+556,4f924469e4b09555c4024c16,mcu hospital,14.667853716864128,120.95279484505458,Hospital
+559,4d34396d72a8b1f75882aed0,amisola maternity hospital,14.672047433895195,120.94618872717828,Hospital
+562,503e1edee4b043607fddcfc9,v.m.i. medical clinic,14.664251871301007,120.94997650273808,Hospital
+564,577ed6f2498e67b9aa43a1a3,chong hua hospital mandaue,10.32269232021597,123.9316472297945,Hospital
+565,53e2f7d1498e2fc1a96e8d14,chong hua hospital and cancer center,10.32271738683728,123.93170658580807,Hospital
+566,4f97a14de4b0e2aaa45f2e15,mandaue city hospital,10.323655641210324,123.94279593670582,Hospital
+567,5090a8bde4b05af79e218a5f,cebu velez general hospital,10.348286795856138,123.92337619776136,Hospital
+568,57f61bc6498e5c14ca8062af,uc medical hospital,10.332882,123.935074,Hospital
+569,50a9c91de4b0b5a94a84dfd4,cebu doctors' universty hospital:  centre for women,10.334597712533727,123.9360872252537,Hospital
+570,4f7d3b0ce4b01b2a5285590e,north general hospital rm 312,10.330689413349889,123.9376283314061,Hospital
+571,535cebfa498e5f7e73024ac2,perpetual soccour hospital guest house,10.331304129652251,123.9393491119528,Hospital
+572,5335437e498ec71f6c2d7c90,perpetual sucour hospital section of pulmonology,10.328076362609863,123.92911529541016,Hospital
+573,5c4e3628bd4009002c74d9d3,chong hua hospital mandaue - billing,10.322433,123.931274,Hospital
+574,59f67540e57ca6630cf392ca,"general radiology, chong hua hospital and cancer center",10.325004,123.932262,Hospital
+575,570ee2bd498ed39e604db9a1,7d nurse's station - chong hua hospital mandaue and cancer center,10.324234008789062,123.93193054199219,Hospital
+576,56da0218498ec09ad02fadc9,7a nurse's station - chong hua hospital mandaue and cancer center,10.324078802636407,123.93309206865811,Hospital
+577,597166169deb7d61edcb510f,chong hua hospital mandaue - canteen,10.323016,123.931524,Hospital
+578,502a2242e4b0b12f246074fa,dr. ignacio m. cortes general hospital,10.329046996648797,123.9431191059552,Hospital
+579,4da3dbfa0f578cfa0c74c218,cortes general hospital,10.3290814055113,123.94318514385952,Hospital
+580,56f149c8498ed68166a85f6e,dr. ignacio m. cortes general hospital - delivery room,10.329294,123.94334,Hospital
+581,56d94aea498e9f168a9bec96,dr. ignacio m. cortes general hospital - outpatient department,10.329259028958473,123.94332965474474,Hospital
+582,57234325498eb236f54fb69d,6b nurse's station - chong hua hospital mandaue and cancer center,10.322737372163354,123.93173604746491,Hospital
+583,56bbf0e0498e3ac25d23cc3d,dr. ignacio m. cortes general hospital - outpatient department,10.329087,123.94361,Hospital
+584,51a848c4498ee4d8bac32ff9,goodnews clinic,10.326693,123.932889,Hospital
+585,50874f62e4b089a9eff19f33,angel's medical clinic,10.340902,123.921159,Hospital
+586,4c940cc1f244b1f7769f1e1d,new sinai mdi hospital,14.317552050817975,121.09840247361345,Hospital
+587,56b0548f498ef991ea09839a,city medic hospital,14.318643,121.11195,Hospital
+588,4d76cd366675236a2ceca4b2,sta rosa community hospital,14.318529650731104,121.11056685447693,Hospital
+589,4cea753575c62c0f379ee857,santa rosa community hospital,14.318718988166633,121.11057143430422,Hospital
+590,4e6ca022b993061ea8e12882,marian hospital of sta rosa,14.320097331807679,121.1000653308828,Hospital
+591,5004cd08e4b07b9577970ac9,marian hospital sta. rosa laguna,14.317506774899073,121.10309164268163,Hospital
+592,528cacfd11d2546f016de122,citymedic clinic,14.315309146495302,121.11671719745654,Hospital
+593,4f40d951e4b0f6acbb9e4a9c,citymedic emergency clinic and diagnostic center,14.318300879693714,121.1109146354869,Hospital
+594,4bcfe995b221c9b60aefd2d0,notre dame de chartres hospital,16.415622212224516,120.59876874962042,Hospital
+595,4c6ccc68d68a9c74bb856b6b,slu hospital of the sacred heart,16.416931841527216,120.5977596718168,Hospital
+596,4dabf0d443a11281971ad0d4,baguio general hospital and medical center,16.400929946923117,120.59563636779785,Hospital
+597,5767f479498ebf269e4ae9a8,notre dame de chartres hospital,16.412728,120.601555,Hospital
+598,50cc2777e4b0a8af81e0158d,filipino-chinese general hospital,16.42168880254807,120.60015336877798,Hospital
+599,4dc3f55915207638d24691ca,pines city doctors hospital,16.426619763723775,120.59442104597336,Hospital
+600,525ec7a911d24f5e69a7c1bb,baguio general hospital suites,16.40230018775198,120.59992861042686,Hospital
+601,51cd628c498e190195c3ecac,cabato medical clinic,16.416898427099806,120.5965852828029,Hospital
+602,4fd96c32e4b071d9bd455cae,msb clinic,16.409399693249696,120.59901833502069,Hospital
+603,52007863498e036ad5bb2408,c.u.b.s therapy clinic,16.41027733104178,120.5809126086581,Hospital
+605,4e12bfcf1838f8ad8167a78d,gregorio t. lluch memorial hospital,8.226090959553126,124.25445914268492,Hospital
+606,4e37a29322713b80b9fe5506,st. mary's maternity and children's hospital school inc.,8.228439875076443,124.24211626379345,Hospital
+607,4ee9801e99111dae86f90a2b,iligan medical center hospital (imch),8.23057396939126,124.24944485912435,Hospital
+608,4c77184707818cfa16a9d3e3,mindanao sanitarium and hospital,8.24114318358048,124.24728562142347,Hospital
+609,4f5d8d89e4b02628c2fe1cbd,@ob-ward gregorio t. lluch memorial hospital,8.2244166,124.255043,Hospital
+610,53441581498e1d2c775c2bd8,e and r hospital and pharmacy,8.222698,124.243404,Hospital
+611,4fa1e7d2e4b0b509029ae782,dr. uy hospital,8.234621379872237,124.23523146446628,Hospital
+612,4cbb0c8df50e224b0149f7fb,central luzon doctors hospital,15.478000495304375,120.58731655488647,Hospital
+613,4eafaf1530f8614931782321,tarlac provincial hospital (tph),15.475024717599428,120.5865594948654,Hospital
+614,4dba31024b22153e34adf0c7,ramos general hospital,15.484927813567937,120.59306610635424,Hospital
+615,528a716f498e3986452d84c2,holy trinity hospital,15.484111651900681,120.59565812588184,Hospital
+616,54253a87498e59b463aaefc6,salvador general hospital,15.483319562643759,120.5943095218704,Hospital
+617,586b49b82c55ec0737cc61fc,loving mother general hospital and diagnostic center,15.492757,120.593503,Hospital
+618,51034c2fe4b0f083aa9bbba3,cldh hospital,15.477950577015008,120.5872684517796,Hospital
+619,5698cb91498e581e5575ce5f,central luzon doctors' hospital,15.477958,120.58714,Hospital
+620,4f7bcdb0e4b02e00903ea983,talon general hospital,15.490901068332182,120.59154659642878,Hospital
+621,51481c15e4b0a3bcecd42046,tarlac provincial hospital annex building,15.474023479426277,120.5866896392981,Hospital
+622,4f555e14e4b09c27a409e0f1,talon general hospital,15.492642812328231,120.5934104445459,Hospital
+623,4bd9a6e05f50b713ee1de0d1,jecsons medical center,15.491106400686373,120.59735248022082,Hospital
+624,6029d8f696e9217c3b5c1c95,"angeles medical, obstetric and surgical clinic",15.485412,120.590066,Hospital
+625,5141c8c5e4b086e8d6757f93,holy infant clinic,15.48638,120.586937,Hospital
+626,5747acaa498e30f604a828ae,eye center,15.474918,120.587286,Hospital
+627,4d54ba2696ed5481da1b0170,m.j. santos hospital,8.947038216891453,125.54137966693077,Hospital
+628,53d9a566498e94b10d7eec1a,mj santos hospital,8.950683668166327,125.53615963147863,Hospital
+629,4e32d5b31850ad3b6cb7031f,butuan doctors' hospital,8.943726927819574,125.52238277523483,Hospital
+630,51889185498ee05ee33a82a1,caraga hospital,8.941875566176533,125.5333318909644,Hospital
+631,5497f96e498e361ed6015c94,mj santos hospital critical care unit,8.946564674377441,125.53956604003906,Hospital
+632,518e118a498ebdadcda0c3e6,mj santos hospital,8.947139901525963,125.54066563768426,Hospital
+633,53916d0d498e4609d3cb3c99,mj santos hospital radiology,8.945356,125.540084,Hospital
+634,53e49b3f498ee825db921179,holy child hospital,8.941622,125.537807,Hospital
+635,5684d2fa498e3d43ed32dc80,butuan doctors' hospital,8.94585266630925,125.54364812302914,Hospital
+636,4ebb8f77b8f7074b347c9940,maternity hospital,8.947905980639332,125.5451306392198,Hospital
+637,57a9839e498ee2951b497ed0,opd laboratory,8.943927,125.522385,Hospital
+638,51f07a47498e26c8e8cad12c,intensive care unit - university of perpetual help hospital medical center,14.330447141160823,121.08512704315248,Hospital Ward
+639,4c9a0beb78fc236acaf23197,biñan doctors' hospital,14.325960716636152,121.0922371915302,Hospital
+640,5215637111d281c3ca9ced90,biñan doctors hospital physical rehab department,14.31711335887155,121.07850576592283,Physical Therapist
+641,5913c35d5c6838779b79f83f,"tamayo towers, university of perpetual help hospital",14.329976,121.085106,Hospital
+642,59d5ccdf3fcee8606d506cc9,"room 400 tamayo towers, university of perpetual help binan hospital",14.330021,121.08532,Hospital
+643,4dfdc61a18a8eee4fe41651f,our lady of piat hospital,14.320848848726262,121.07639561181738,Hospital
+644,4e0e943dfa76d62f444ac834,alabang medical clinic (biñan branch),14.334851,121.08011672307705,Hospital
+645,59c884e1e1f2283cca30d8cf,uphmc heart station,14.330356,121.08514,Hospital
+646,4e2126013151306f89283a1e,lipa city hospital,13.941626986532164,121.16392135620117,Hospital
+647,5072c180e4b09822b9c9e7d3,n. l. villa memorial hospital,13.938790771246001,121.15995614885003,Hospital
+648,4f989b3ae4b0fc88e72898a5,divine love general hospital,13.936689295525223,121.15859128570025,Hospital
+649,4f3ebe9ae4b0250ce8f5f2df,lipa city district hospital,13.933730637677696,121.15900279941673,Hospital
+650,4d7c2cc218a1ba7a2a124115,san antonio medical center,13.94220793467416,121.1653136530355,Hospital
+651,507b6328e4b0109f36900a66,our lady of fiat clinic,13.94073,121.160447,Hospital
+652,543b4f22498eb1650ccc883b,dra mendoza memorial medical clinic,13.941198866086733,121.1598051279267,Hospital
+653,4c7604d9d8948cfa4a7569da,mary mediatrix medical center,13.94359085760441,121.15188359761476,Hospital
+654,511eee50e4b00145d6f10ba3,mediatrix heart institute - cardiac catheterization laboratory,13.943628,121.151266,Hospital
+655,4db7ba3cfa8c377d83af12d4,mary mediatrix medical center ( laboratory dept. ),13.940871713812868,121.1440811238064,Hospital
+656,50d79d01e4b0f535952efd7b,mediatrix heart institute - coronary care unit,13.94359815630907,121.15128973385579,Hospital Ward
+658,569777bb498e9c1c5c6a31dc,heart station - mary mediatrix medical center,13.941208,121.146805,Hospital
+659,4cf72375c28df04d0d13cf15,saint patrick's hospital,13.755423068859317,121.06032314480456,Hospital
+660,4d8f48366174a0931371dae3,golden gate general hospital,13.757542687983628,121.06167011697633,Hospital
+661,5248d3c2498e31dd603a8ec2,golden gate hospital,13.767413,121.054559,Hospital
+662,5046d047e4b023513fb99c02,jmm childrens clinic,13.758150702258375,121.0607558077783,Hospital
+663,4d561a92143ca0930697b7fc,divine mercy hospital,14.358783411109082,121.05832689567168,Hospital
+664,563ff104cd10bd7b829f40ad,family care hospital,14.342259371984854,121.05849979125925,Hospital
+665,4c025b63187ec9281213b47b,evangelista medical specialty hospital,14.341963,121.058184,Hospital
+666,555f2f5a498e3524559199f1,"dialysis unit, divine mercy hospital",14.358969,121.058207,Hospital
+667,503ee52be4b0081697d02efe,room 220 new divine mercy hospital,14.35903720616151,121.05810792303515,Hospital
+668,4e0de99fd22d8582bdb97ca6,divine mercy hospital,14.359351525494883,121.05861735147761,Hospital
+669,4f2158d6e4b0467cd79b7aaf,room 216 divine mercy hospital,14.357452392578125,121.0560073852539,Hospital
+670,4f79bfdae4b076482673aa74,new divine mercy hospital,14.356671539750936,121.05323745432723,Hospital
+671,4d0832dce554721e12cec0f8,christiana hospital,14.364291,121.0541,Hospital
+672,506174a6e4b039dfd7dcc565,san pedro doctors hospital inc.,14.348307627707872,121.05393724643912,Hospital
+673,52c7c089498e69531bf008db,san pedro doctors hospital,14.347939642629228,121.06244983407787,Hospital
+674,4ec11dec4fc6a7630f5fee21,san pedro doctors hospital,14.348912571343059,121.06487265716375,Hospital
+675,4f9c91c6e4b0d296c7a97be5,associated doctors hospital,14.348617647789482,121.06520613812394,Hospital
+676,4f570744e4b06eed111af4a8,jose l. amante emergency hospital,14.350786825122638,121.04749340696173,Hospital
+678,4c0135bede3376b0426ff9a4,family care hospital,14.342392802528808,121.0581862967821,Hospital
+679,4cf72fd86658548192c0cd98,doctors clinic san pedro,14.34883735,121.06548552,Hospital
+681,587052240bc55b0a67633faa,mama rachel's hospital of mercy,14.383511,120.890117,Hospital
+682,4f576379e4b03d89eba337d4,general trias medicare hospital,14.378706692882123,120.87527511421874,Hospital
+683,4f0d1056e4b023b3787c015f,dra.escuadro medical clinic,14.378911113373047,120.89308585268716,Hospital
+684,50330bfde4b0717d12f0b14d,holy rosary hospital cabuyao,14.272063290405502,121.12401214130026,Hospital
+685,5ba3440e8496ca002ca3f0b8,first cabuyao hospital and medical center,14.26688,121.12681,Hospital
+686,530d700411d249de2e2def2a,"st. james hospital inc., 3f",14.279392023126492,121.11973307554808,Hospital
+687,537059d6498e234eba24e815,st. james hospital dermatology center spa & wellness center,14.280661,121.120133,Hospital
+688,52ef1785498e1d1b1e8a776a,"st. james hospital, inc. 2f",14.28074,121.120198,Hospital
+689,4bde399117fdef3b89984e36,st. james hospital,14.280821225125276,121.11972333094911,Hospital
+690,50c446e7e4b09b1d12efbbd7,st. james hospital (werk),14.280783894453805,121.11964914676032,Hospital
+691,4fbac594e4b04df08eec244d,"st. james hospital, inc. - med-surg ward (4th flr)",14.28247433775339,121.1130297774687,Hospital
+692,4d377d256eef54819f313848,"st. james hospital, inc.",14.282501414430813,121.11301895937612,Hospital
+693,4fbbeda6e4b0c7f68aad2a1f,"icu - st. james hospital, inc.",14.288947188317401,121.11981140903016,Hospital
+694,5674183a498eff76ad89c2a8,st. james hospital radiology department,14.292454,121.121601,Hospital
+695,5045a8b4e4b0bf16052d8104,cabuyao medical clinic,14.27567367337832,121.12636885846182,Hospital
+696,52a299f811d282859c94d1cd,green pasture specialist clinic,14.288506,121.11312,Hospital
+697,4e65ce69aeb73603165775f9,jose b. lingad memorial general hospital,15.03509883596246,120.68511702988157,Hospital
+698,4c9c5d8b46978cfa7e668d7f,vl makabali memorial hospital,15.031848055829828,120.68921128429805,Hospital
+699,4d18cf4cbb64224bfdfbc965,san fernandino hospital,15.043646,120.67499,Hospital
+700,51c3f420498e5d2707bfec5b,vl makabali memorial hospital,15.037508981489392,120.68209042067797,Hospital
+701,5185aa82498e3b8c7aa03c16,vl makabali memorial hospital,15.030117271752703,120.68917672667337,Hospital
+702,59994aad4ce0661480491ebc,rodriguez hospital,15.033028,120.674102,Hospital
+703,50b29713e4b04a092f324328,rm 301 san fernandino hospital,15.044252211484546,120.67753633108089,Hospital
+704,52e3398a11d22801ae486aff,san fernando hospital,15.043592,120.674917,Hospital
+705,51d4e443498eea4296dc3c20,jimenez child clinic,15.027638,120.691392,Hospital
+706,4e30f2bb1fc7328ef5aa4b06,divine mercy clinic***,15.0418709085496,120.67362427711487,Hospital
+707,4e647b5aae60e9edf69fc998,angeles pet care branch,15.037050581187742,120.67718383224805,Pet Store
+708,508fd775e4b06dbf5f18a569,cabanatuan city general hospital,15.476362928619201,120.9582632514725,Hospital
+709,564c3fbd498ef866db51e5a8,hospital of infant jesus,15.484683,120.966045,Hospital
+710,4dae781ecda1ea0bb03f07fe,elj memorial hospital,15.48583125994404,120.96585473999859,Hospital
+711,50242f9be4b0a4cedd41ce2c,gapan district hospital,15.482705289969628,120.96215710001314,Hospital
+712,55f5294e498ec37de82839c6,nursing office good samaritan hospital,15.489042,120.968104,Hospital
+713,4e5f7158fa768fe5f2d4a7f7,manuel v gallego cabanatuan city general hospital,15.476751686899847,120.96525528176335,Hospital
+714,4fb5ef04e4b003aff95e8875,good samaritan hospital,15.486069857370408,120.9731096308298,Hospital
+715,524b557711d2c3fd9228cb6c,wesleyan university philippines medical hospital,15.485889502094498,120.97487426847188,Hospital
+716,51542c05e4b092fc5434a819,pjg hospital,15.489903231143222,120.97248780002542,Hospital
+717,523bf230498e1418830c33bf,wesleyan university general hospital - or complex,15.475248336791992,120.9707260131836,Hospital
+718,4c8ba0b69ef0224b86d9657b,wesleyan university general hospital,15.482469370765706,120.97641394829422,Hospital
+719,4e2d25371f6ebe544264e6f2,nueva ecija good samaritan hospital,15.482507130873737,120.9764625678303,Hospital
+720,508e3eefe4b0306b59172dc7,hemotek renal center - wesleyan university general hospital,15.482643710896019,120.97669489947029,Hospital
+721,53d51c39498e6d8d498a3c4a,doctor's hospital nueva ecija,15.478042124240888,120.95743964450979,Hospital
+722,4c8208fc51ada1cda5a71810,nueva ecija good samaritan hospital,15.491718334615287,120.97313081607034,Hospital
+723,4fab2110e4b0d7ffaeee2062,"female medical ward, cabanatuan city general hospital",15.476521,120.957917,Hospital
+724,50693e50e4b08d6e205439b4,cabanatuan city general hospital,15.47657866053154,120.95757971411476,Hospital
+725,58c267a026a40712f7759215,m.v. gallego cabanatuan city general hospital - dialysis unit,15.476095,120.95754,Hospital
+726,58dee8fb04ab1a256a95bc48,m.v. gallego cabanatuan city general hospital - intensive care unit,15.473078,120.96092,Hospital
+727,50e53c0fe4b0efc68b692332,operating room- cabanatuan city general hospital,15.472711981160936,120.95235781016416,Hospital
+728,5591ec53498e888b3bb74ba1,internal medicine-gastroentorology clinic,15.489734,120.972799,Hospital
+729,4dbade42cda109aa6c725a8d,wughcc lab,15.482578614587318,120.976467088667,Hospital
+730,55b6e9c1498e43673bc964aa,2-d-echo laboratory good samaritan,15.491705747621753,120.973204865897,Hospital
+731,5940e85bf96b2c588ece05c5,united doctors hospital,7.218734,124.248561,Hospital
+732,51063286e4b0e616dfdca4b1,cotabato medical specialist hospital,7.220843025910776,124.25012530806363,Hospital
+733,51d649cf498e9b704292cc75,"operating room, cotabato medical specialist hospital",7.22127103805542,124.24711608886719,Hospital
+734,533cf42a498e1ad9261879a3,"cotabato puericulture center and general hospital foundation, inc.",7.224347,124.246835,Hospital
+735,4e5906defa76d2b00c070eb2,medical specialist hospital,7.207219875500567,124.24962462371977,Hospital
+736,51302f7ae4b01d3a5c591715,dr. p. ocampo hospital,7.217284202575684,124.23922729492188,Hospital
+737,5538e5e2498e98287c880ba1,"suite room 1, notre dame hospital",7.205322,124.236274,Hospital
+738,52608bc911d25aba0ec08007,quezon memorial hospital annex,13.9378785610406,121.61130352644646,Hospital
+739,4d608ae99be02c0fc1d6e674,mt. carmel diocesan general hospital,13.94067411434919,121.61173920076033,Hospital
+740,564d7266498e0eb14f4e0ead,lucena united doctors hospital and medical center,13.934714150181788,121.61251257665434,Hospital
+741,51384a34e4b08e910e74c09a,"st. anne general hospital, inc.",13.937225362254855,121.61880277304925,Hospital
+742,4e6b26c2c65b5bef28b43305,st. anne general hospital,13.937701006036539,121.62098113891706,Hospital
+743,525b79ed11d240f3a9a5be77,mount carmel diocesan general hospital,13.937430697503926,121.61198327054332,Hospital
+744,517b754ce4b08d47fe203cd9,quezon memorial hospital,13.940367816436243,121.61329260221699,Hospital
+745,50dea542e4b0a2f202f307f6,mt carmel diocesan general hospital ns5,13.941125820312735,121.62622910184446,Hospital
+746,4d25c744903c8cfa795dd125,lucena mmg general hospital,13.944643719482357,121.63087174467198,Hospital
+747,59f56c7b18d43b6fdf2217ec,heart station,13.940821,121.611262,Hospital Ward
+748,4f1af572e4b0e2eeead3bc64,operating room,13.94126168996348,121.6116609895617,Hospital Ward
+749,4f962e82e4b087cfaa390689,ultrasound section,13.941211,121.611366,Hospital Ward
+750,5420e5ed498e3a898b1bac1b,cotta lying-in clinic,13.925617,121.613649,Hospital
+752,4d7c8642ea35236a62f45a23,san pablo city community general hospital,14.073059562311109,121.31299405303432,Hospital
+753,4ccbed7eee23a14376eb1aa8,san pablo doctors hospital,14.073146081552267,121.32432855813232,Hospital
+754,4d81c1731ae92c0f1de7679a,laguna provincial hospital - san pablo city district hospital,14.07279168083008,121.32856522180403,Hospital
+755,4f8799efe4b0e67b83707f2f,immaculate conception hospital,14.06895877808904,121.3223039992905,Hospital
+756,4d4910e25241236a04b47104,community hospital san pablo,14.073515151848783,121.31281152237534,Hospital
+757,56df7e51cd10ce074f550e90,san pablo doctors hospital business office,14.0731,121.323975,Hospital
+758,520994d311d211ff09013c22,"admitting section, san pablo doctors hospital",14.073143005371094,121.3242416381836,Hospital
+759,561bda04498ee5be325099c5,heartstation san pablo doctors hospital,14.075857,121.321162,Hospital
+760,4f1e165de4b0ab77840ec0bc,ilocos norte provincial hospital,14.07158,121.328069,Hospital
+761,4f2781cde4b0ca643f2e2cf6,st. francis and paul general hospital,14.057084048825919,121.32934732271666,Hospital
+762,53bee297498e08299c9c580b,medical ward @ lph- san pablo city district hospital,14.077904752965527,121.32787836956787,Hospital
+763,52049dfa498e1858a5b34fdc,intensive care unit (icu),14.073144626726314,121.3243204103848,Hospital
+764,4f8c2ee7e4b09efba40ad2ed,birthing home clinic,14.063932,121.330213,Hospital
+765,4ec36bc00e612db287ea4eb0,philippine heart center,14.058099785831162,121.31399780670438,Hospital
+766,5fed3f55e19b661242655037,hb calleja national heart institutes,14.074154,121.31147,Hospital
+768,4e44cd281f6e0a1ba5e253d0,tagum doctors hospital,7.439196323374516,125.80366957211518,Hospital
+769,504ee4aee4b0dde144eae957,bishop joseph regan memorial hospital,7.447288100616702,125.81237076639454,Hospital
+770,5265def5498eee417c2a24a9,tagum doctors hospital or/dr,7.448180011055238,125.8046356459148,Hospital
+771,522826a411d27fcd300efc26,united doctors hospital of tagum inc.,7.448451293872251,125.80252060911775,Hospital
+772,500706b7e4b0d5e2f4fd1f23,nurse station 5a tagum doctor's hospital,7.442948860842925,125.80471023056646,Hospital
+773,55504b2f498e5e644f4330d4,aquino medical specialist hospital inc.,7.447403130612143,125.79816249666972,Hospital
+774,5221c451498ec6d1e9109f12,united doctors hospital,7.446079254150391,125.79090118408203,Hospital
+775,5215e38e498edb48d48f6d60,"room 217, palawan adventist hospital",9.75844669342041,118.7476806640625,Hospital
+776,4cddf9a6f8a4a1430300d4bc,sacred heart hospital,14.850959,120.822308,Hospital
+777,54c6eab7498ef58b707ee77d,sacred heart hospital malolos,14.849473745937683,120.80268242635263,Hospital
+778,4da7ef791e72d9bb473a9afa,malolos maternity hospital,14.850279944530635,120.82223685787906,Hospital
+779,517b83f5e4b072698b06a515,santos general hospital,14.842139541349505,120.81240954421285,Hospital
+780,4f4869a4e4b0a644ecc03961,santos general hospital,14.841275703427346,120.81172519302042,Hospital
+781,4d5b7c82342f6dcb3b048fe7,san roque hospital,14.845248917350904,120.81305623054504,Hospital
+782,4f5c56f5e4b082b23df09c60,sacred heart hospital surgery suite,14.85198308145731,120.81780148193675,Hospital
+783,5103da89e4b0c047e1e9dbb0,san vicente hospital,14.845537007442495,120.81700918336017,Hospital
+784,5143ffece4b0df5d4e7c7c83,malolos san vicente hospital,14.845457198051108,120.81705966625408,Hospital
+785,4e6d600b45dd2932736fa5f8,mary immaculate maternity hospital,14.837740480884644,120.8137697794446,Hospital
+786,510f0b3de4b01d20f5558866,ob-gyne sacred heart hospital,14.850000178071367,120.81614536175503,Hospital
+787,530dd4c6498e88c2abb29456,bulacan provincial hospital,14.854925700108955,120.81699235572425,Hospital
+788,4dcba94b8877502200d99ac5,bulacan medical center,14.858662598833048,120.816796033136,Hospital
+789,4dd36532e4cd6154147ebd03,santos eye clinic,14.851404760307345,120.81909018332166,Hospital
+791,4fd03497e4b09df89b8b238c,bartimaeus eye center,14.851499944031424,120.81762619509283,Hospital
+792,4f39b9dce4b0ae43d0e61ada,malolos eye center,14.850095607460698,120.82232660143139,Hospital
+797,532ba08a11d27d4bf484198b,"c.i.feliciano ob-gyn, medical & lying - in clinic",15.213151475807665,120.57785539640308,Hospital
+804,4ef6e665e5fa4f286affb40c,divine word hospital,11.241344766889581,125.00059128264476,Hospital
+805,52b77742498e67f75042f0b3,maternity hospital (birthing institution),11.245363208977038,125.00410980737935,Hospital
+806,50ea3b9ce4b0aa6e0aec43a4,andrew hall 1- bethany hospital,11.24309727001466,125.00098941054763,Hospital
+807,5c901081ecb3ed0026c557f7,divine word hospital pathology department,11.241582,125.00018,Hospital
+808,5c2d71ad27cbd10025349dfb,divine word hospital cashier & billing,11.241543,125.000206,Hospital
+809,4ff4789de4b0a7f73f722046,2a station-divine word hospital,11.241109242452463,125.00024477312218,Hospital
+810,5c1066cd8496ca002c43fd22,dr.balverde clinic rm74 divine word hospital,11.240704,125.000175,Hospital
+811,546f3460498e5bf0183ea6d1,mother of mercy hospital,11.249170303344727,125.00089263916016,Hospital
+812,50ea9bfce4b06559e0a9f9e5,room 139. ortiz wing- bethany hospital,11.23518,125.00323,Hospital
+813,50c7b206e4b0dae47f4fd4fc,intensive care unit - bethany hospital,11.2350061359691,125.0036632749138,Hospital
+814,51c47291498e960495bd43cb,operating room - bethany hospital,11.232856,125.00271,Hospital
+815,51f0881f498eeec0f5ff0a1d,betany hospital delivery room,11.232796,125.00327,Hospital
+816,51c827b9498eb080ca94ff98,betany hospital ob ward,11.232673869182236,125.0030338215177,Hospital
+817,5177c5f2498ee6e7b5832722,bethany hospital - social hall,11.232588086048887,125.00348573725229,Hospital
+818,502ca35fe4b0adcbeb59e676,mother of mercy hospital,11.230301566078674,124.99926727370799,Hospital
+819,50718e02e4b01a3599802b78,emergency room (er),11.241505508517312,125.00218378297727,Hospital
+820,51a6f538498e3b544524472c,out patient dept. (opd),11.240837219148121,125.00169957997737,Hospital
+821,50501c7ee4b030e87a9b1125,neonatal intensive care unit (nicu),11.241404674470148,125.00029563903807,Hospital
+822,5052702ae4b0c75089cb3998,3a station,11.241188952922977,125.0004458427429,Hospital
+823,506105c6e4b03bd4e0074d69,room 315,11.241110030365393,125.00046193599702,Hospital
+824,5fb489b4b6360c39bdee6375,"dr. sherrywin simon clinic, rm #13",11.240838,125.000244,Hospital
+826,50adfd85e4b0823456075608,mother and child general hospital,14.83010182335022,120.28710973894997,Hospital
+827,4c12fa9277cea593ce27ce60,james l. gordon memorial hospital,14.8270744731312,120.27995046541825,Hospital
+828,4d727f1ebce5721e74e6ce15,unihealth-baypointe hospital and medical center,14.824048460447262,120.27240773962423,Hospital
+829,5105d5a9e4b026c3cc4c5124,spr extension james l. gordon memorial hospital,14.829709272925182,120.28017014996244,Hospital
+830,56774417498e4101049cced3,zmmg hospital,14.838679099401705,120.28250216320843,Hospital
+831,5b9775b04c954c002c752c47,alferos hospital,14.835609,120.290153,Hospital
+832,5c9b19a13c858d002cc6a6e3,james l. gordon memorial hospital — emergency room,14.826607,120.279881,Emergency Room
+833,536b04ab498e2c057a20643d,james l. gordon memorial hospital - pr left wing,14.827238319598681,120.29061319058431,Hospital
+834,5029fc6ae4b0f8083ed6abeb,james l. gordon memorial hospital - cctv room,14.822735123773882,120.2778718934462,Hospital
+835,4d68c22f1b63a1cdd7bf362d,baypointe hospital,14.825837009584928,120.27126418174326,Hospital
+836,4f0e4c76e4b0b306076640ac,unihealth baypointe hospital and medical center,14.823609662786358,120.27225986626961,Hospital
+837,50a45365e4b0828c85217a34,nicu - unihealth baypointe hospital and medical center,14.821430143957976,120.27368648466974,Hospital
+838,50ecd11ae4b002cab1967a19,or-dr-nicu complex - unihealth baypointe hospital and medical center,14.822532148993144,120.27215424243103,Hospital
+839,4d0cb197be6d6ea8757b00b5,totalmed subic hospital,14.82423643821393,120.29638072680487,Hospital
+840,4f2e1e7de4b0fed2af2f1a18,afable medical center,14.838984657964021,120.28443421040397,Hospital
+841,4d98ddbfc162530c8e7f0ca4,tuliao veterinary clinic,14.838383390376356,120.2868390083313,Hospital
+842,508f39cce4b0784a92e1015e,baypointe satellite clinic,14.824306,120.277928,Hospital
+843,4f79ba98e4b00562b7ea9c9f,jlgmh lab. dept.,14.829734000131825,120.2781310126162,Hospital
+845,5134b6c4e4b08725163c1ff9,chong hua hospital,10.258197827397105,123.82358766424365,Hospital
+846,4d54a73fc0432d4341a1e8b1,talisay district hospital,10.253823581537782,123.8386388626379,Hospital
+847,500bedd7e4b01eff3194342a,chong hua hospital-intensive care unit,10.261080741882324,123.8427734375,Hospital
+848,4febb564e4b08668cf351420,cebu doctors university hospital receivable/billing section,10.245638335513087,123.8202944201455,Hospital
+849,4d64b65d36a96dcb86f652f4,clinica gatchalian and hospital,11.011122264439967,124.60924001744318,Hospital
+850,56565ccd498e1bd85d65c397,nephrocare clinica gatchalian & hospital,11.011506080627441,124.60958099365234,Hospital
+851,56695ca8498e001760b29cf4,ormoc doctors' hospital,11.004955291748047,124.61181640625,Hospital
+852,508610d9e4b021c8acd0df75,ormoc doctors' hospital,11.004951775908909,124.61164389904039,Hospital
+853,5376a7a7498e4a4600d08917,ormoc doctors' hospital - pulmonary unit,11.003378,124.614153,Hospital
+854,4f4f8d72e4b09d63cc8cfec3,ormoc maternity and childrens hospital,11.004153771238931,124.6096422017723,Hospital
+855,512132f8e4b0d6061b6532cb,ormoc doctors' hospital - pharmacy,11.011641192330577,124.60294546700224,Hospital
+856,4edf049cf9aba0b1020dadd8,ormoc district hospital,11.023134732246469,124.60309681133577,Hospital
+857,5510ce7c498e7a0677a7ffb9,ormoc district hospital,11.022763286168278,124.60279412240541,Hospital
+858,53f1f9b4498e96ff1069aaa6,ormoc doctors' hospital- 2b station,11.011752,124.600476,Hospital
+861,4caabacda643b713b2e4e9a6,clinica gatchalian,11.02183455939951,124.60088607686897,Hospital
+862,4e341270ae60795fcfdcb2df,st. francis of asissi maternity and general hospital,14.734019046055355,120.95750794510575,Hospital
+863,4e34ff4614952ff6cbc3d6e0,lord's hospital,14.741751452022035,120.95706652726749,Hospital
+864,528f15ae11d24f3b0c828246,meycauayan doctors hospital,14.72670515925707,120.9596695334608,Hospital
+865,528f123711d29d5c38bf4a82,meycauayan doctors hospital,14.726538,120.959616,Hospital
+866,5000f804e4b0c123dd464d9f,meycauayan doctors hospital,14.726640745170839,120.95994800730239,Hospital
+867,4c8c7f4a8018a1cdc980edd2,meycauayan doctors hospital,14.726627574142102,120.95997657182981,Hospital
+868,5bbaf83a2b9844002cddc8cb,meycauayan doctors hospital and medical center opd,14.726453,120.96043,Hospital
+869,51e30a3d498e328af2f3628c,chinese general hospital medical center annex up,14.745801,120.959077,Hospital
+870,50fa1f36e4b022d512309f76,jap lying-in clinic,14.716216009526054,120.95481751173078,Hospital
+871,5215884611d26bc161f578aa,smd general hospital,8.004563331604004,124.2977294921875,Hospital
+872,4ff64bfde4b083d14bd42064,smd general hospital,8.00297801461979,124.29290954048108,Hospital
+873,55ed7104498e7940722e8e02,mapandi memorial hospital,8.006946,124.292095,Hospital
+874,4f4f0287e4b0f022a014e2ff,mindalano specialist hospital,8.008335892716635,124.28820119330217,Hospital
+875,515e0375e4b01311adc7a4ef,mindalano specialist hospital foundation,8.008024204865412,124.28692642522401,Hospital
+876,55ef8993498e153ceca47425,dra. jamela usman-pasagi clinic (al-shiekhospital),8.000993,124.293314,Hospital
+877,508a291de4b06da58135c0ac,salih clinic,7.998053,124.296801,Hospital
+879,57a643a7498ea267a80f2a2e,ranao family medical clinic (family clinic),8.00601692112069,124.28894434756481,Hospital
+880,579d6d02498e9c3e379060c1,ranao family medical clinic (family clinic),8.006035,124.288925,Hospital
+881,50fd0d0ae4b028b4b3c8a223,abdullah clinic,8.003715,124.28406,Hospital
+882,50cc3483e4b0aceb5201ba32,"borbon general hospital, inc.",7.830273,123.426883,Hospital
+883,5224480111d2087431a08a28,pagadian doctors hospital,7.827661,123.439329,Hospital
+884,5147027ae4b0238f3d6541f0,borbon general hospital,7.82614803258682,123.43849805647416,Hospital
+885,55d2a5cb498ec893cbfc326f,aisah medical hospital,7.824362,123.443483,Hospital
+886,51274b87e4b039de336aa564,hofilena hospital,7.824931645178821,123.43734837894202,Hospital
+887,4ef5da10b63446a507697532,pagadian doctors' hospital,7.824306991859464,123.43766591030614,Hospital
+888,5003a711e4b0d5040f67f261,borbon hospital,7.8232320421350074,123.43360909423768,Hospital
+889,5038ce5fe4b06e698fb7bb0c,metro pagadian hospital,7.8283247257000035,123.4434250896102,Hospital
+890,4f850952e4b013f9e5d4c7ad,j. cabahug hospital,7.82513524073496,123.44135029210572,Hospital
+891,537da44d498eb067a88174eb,metro pagadian specialist hospital inc,7.828222,123.443705,Hospital
+892,516bbea2498ec7d1887ec853,pagadian doctors hospital,7.830018,123.446505,Hospital
+893,5050ac70e4b0269baa0555ac,jamelarin hospital,7.8251853467718435,123.41914878923347,Hospital
+894,4ceb6abef1c6236aebfe6ff0,university of santo tomas - legazpi hospital,13.146484247855415,123.73525609189487,Hospital
+895,4caf106b562d224b89ba0a88,"estevez memorial hospital, inc.",13.13819329435457,123.7411231931133,Hospital
+896,4c858d84dc018cfa306de96c,ago general hospital,13.140641170858482,123.72526353677398,Hospital
+897,4ee1a837490152e4bc7432ae,jaime b. berces memorial hospital,13.140821780640902,123.73366310736539,Hospital
+898,4e6441ebd4c06542abbe00dd,ago general hospital,13.139689724728157,123.73110723139861,Hospital
+899,538bd9e3498ef93b52feded9,lumbis-rances general hospital,13.141863255931199,123.7345308562226,Hospital
+900,51a74d71498eb7588cb019da,estevez memorial hospital icu,13.144437,123.733657,Hospital
+901,51aab710498e83fce6580a1a,estevez memorial hospital medical arts building,13.140437629508435,123.74381908417564,Hospital
+902,535152b0498e4b55444c8615,aquinas hospital icu,13.146691000683829,123.73527307526358,Hospital
+903,59340ba6419a9e4bed7f8fcf,aquinas hospital private suite room 310,13.146826,123.735052,Hospital
+904,5b9feeed1a29250025b31c23,legazpi city hospital,13.145358,123.74465,Hospital
+905,56316768498ebde73b9dbc21,maternity lying-in clinic legazpi-albay district,13.14225653745468,123.7349237964496,Hospital
+906,5ca6e446345cbe002cee1397,bicol regional heart center,13.14177,123.72955,Hospital
+907,56be92bacd10e13a7d59f9c0,bicol heart center,13.1375675,123.743576,Hospital
+908,4c7cdf602dc19521fd8fc077,malaybalay polymedic hospital,8.148738584756401,125.13179947988277,Hospital
+909,524157b6498e0abf2d0e5ebf,st. jude thaddeus general hospital,8.154953150415414,125.12959357307601,Hospital
+910,4d7a48a854f18cfaf03db156,malaybalay medical hospital,8.152392534212636,125.12949150778911,Hospital
+911,5781c724498e1df4c524000f,st. jude thaddeus general hospital,8.158461,125.122142,Hospital
+912,4c7cd5742dc19521c264c077,bethel baptist hospital,8.159872521526573,125.12192221331662,Hospital
+913,5236730611d24d50681f0bcd,bethel baptist hospital,8.160389556923677,125.11987532388608,Hospital
+914,575146de498e02e2ff41c005,malaybalay polymedic general hospital,8.148684,125.13192,Hospital
+915,5752c5e1498e2b5233741f2e,malaybalay polymedic general hospital,8.148679,125.13197,Hospital
+916,4db24666cda118d4d66ed20c,nazareth general hospital,16.041091702731432,120.34036170681988,Hospital
+917,4d4ab5a19526b60c8fe484ee,specialist group hospital and trauma center,16.03081896640979,120.32910455243612,Hospital
+918,4ea3e24402d529c11737db4b,cuison hospital inc.,16.04084865527398,120.3336833329295,Hospital
+919,50444152e4b02607d1aa8b11,dagupan doctor's villaflor memorial hospital medical arts building,16.037631679935938,120.34695548996001,Hospital
+920,4ccaf7eec9b846888cbbb2c3,dagupan doctor's villaflor memorial hospital,16.036595670205685,120.34651633332221,Hospital
+921,56d69118cd1024d764a6b015,dagupan doctor's villaflor memorial hospital physical medicine & rehabilitation unit,16.037632,120.346989,Hospital
+922,5150000ee4b0eeb90cccc451,"icu, dagupan doctors villaflor memorial hospital",16.039463543126562,120.34651490141138,Hospital
+923,51fb5180498e6fdfa06cc6b5,amosup clinic,16.037368,120.34712,Hospital
+925,4ffbe3ebe4b044d6afbdb412,davao del sur provincial hospital (dsph),6.745089144292703,125.36128562310495,Hospital
+926,4fb0981ee4b097c37f052a66,dominican hospital inc.,6.757639634596997,125.35201761774044,Hospital
+927,51854513498e51ca63e5d408,south davao medical specialist hospital,6.752544952517961,125.34662801381408,Hospital
+928,51d5ca48498e2a0387412ece,"st. joseph's ward, dominican hospital inc.",6.757349515112312,125.35214635377501,Hospital
+929,5211089c11d27d27084a3d4d,dominican hospital,6.757377857318345,125.35214635377501,Hospital
+930,51d5c88a498eda53b7dd6922,"st. mary's ward, dominican hospital inc.",6.757601988294969,125.35201241787682,Hospital
+931,51d5c98f498e0485c2405d18,"nicu, dominican hospital inc.",6.757618601884175,125.35207670713523,Hospital
+932,51d5ca08498e7947603461a7,"st. martin's ward, dominican hospital inc.",6.757624322775687,125.35206063482535,Hospital
+933,513a0afee4b055cc50fb2988,icu dominican hospital inc.,6.757754917559729,125.35216778349843,Hospital
+934,50704da1e4b0a3c911c6633b,gonzales maranan hospital,6.757095911904213,125.35435894318647,Hospital
+935,4e918f780aafb4070c5a82e3,"gonzales maranan clinic and hospital, inc.",6.7562081559662746,125.35562861041748,Hospital
+936,51f65846498e558fe8559496,sunga hospital,6.743135721707149,125.35520539018967,Hospital
+937,5269399111d269e6c0822338,dominican hospital inc.-nicu,6.758203,125.353958,Hospital
+938,519cb4b9498e27f73d4d97b1,digos city regional hospital,6.743207,125.357466,Hospital
+939,4da673ac43a1a8b3179cd515,digos provincial hospital,6.747659713001259,125.36042316815174,Hospital
+940,500cbd50e4b02f47f7dc38e8,llanos medical clinic and hospital,6.759852211092485,125.35643754427366,Hospital
+941,4da4245bbf22a143dd99d6f8,digos doctors hospital,6.763975088186845,125.35498038614197,Hospital
+942,4f89623ae4b0e67b85035fec,digos doctor's hospital,6.7640758335312725,125.3549595575042,Hospital
+943,51dcee09498e0b7112a5c998,dominican hospital:function room,6.757626,125.35206,Hospital
+946,4ecee1a70aafd1868d269351,sorsogon medical mission group hospital,12.978518210137858,123.98701237865377,Hospital
+947,4f138c38e4b0804e8c87f654,sts. peter & paul hospital.,12.976420769256494,124.01288771785445,Hospital
+948,4ecdc215be7b9eecdcff9d4f,sorsogon mmg hospital,12.97829257648318,123.98685386209702,Hospital
+949,4d9e88c77f1b721e3add8a0f,capiz emmanuel hospital,11.576296733612171,122.75208749545922,Hospital
+950,4cb7cd9c43ec6dcb96839031,capiz doctors' hospital,11.577419439069311,122.75446630630817,Hospital
+951,4d7448f5548bb60ce5ddb3ff,st. anthony college hospital icu,11.578288922579405,122.75637542344751,Hospital
+952,4cb298b31463a1439ca4aea9,st. anthony college hospital,11.578212724381116,122.75645790490276,Hospital
+953,5019b066e4b01fa1fcc0c252,or/dr/pacu st anthony college hospital,11.578290014559002,122.75683933486646,Hospital
+954,4fadbf08e4b0c8d287f69e21,capiz doctors' hospital operating room,11.5786124978634,122.75089205080997,Hospital
+955,4f80c55de4b0c0cb03ca5dae,"private ward, roxas memorial procincial hospital",11.58802375363463,122.75274436327435,Hospital
+956,4cb7c024f50e224bc4bce1fb,roxas memorial provincial hospital,11.588505660779484,122.75232727674053,Hospital
+957,53d050c4498e713d024b4e2c,icu roxas memorial provincial hospital,11.588182339623296,122.75298141273494,Hospital
+958,4f66e23de4b08383b3c93609,capiz doctors' hospital - icu,11.577106500185248,122.75397777557373,Hospital
+959,4e1e3f2ed4c0fc6e3437dc21,ihm ward st anthony hospital,11.579146515625347,122.756448887103,Hospital
+960,4fadbf08e4b0815907a6d8ea,capiz doctors' hospital operating room,11.577191845127935,122.75496599121627,Hospital
+961,536f1d83498ea7adb3453ae8,capiz emmanuel hospital icu,11.583658218383789,122.75836181640625,Hospital Ward
+962,4f5ed123e4b0028cf9c49fe5,st. joseph ward st. anthony college hospital,11.578298148087677,122.75673554106514,Hospital
+963,504dc366e4b02739383e4f9f,"ihm ward st. anthony college hospital, inc.",11.57709301618928,122.75559443300304,Hospital
+964,4fca1b59e4b07c8e3dd8cf6e,"rosalie rendu ward,st.anthony hospital",11.578270486220166,122.75692848077736,Hospital
+965,50330ed1e4b012c9cf7421ba,ob ward roxas memorial provincial hospital,11.586472511291504,122.75837707519531,Hospital
+966,4feacef5e4b0c16970a60de0,st. anthony college hospital admitting section,11.58381930189176,122.73739561469921,Hospital
+967,508de6c2e4b09bdc37c0c4ac,department of rehabmed,11.576393127441406,122.75142669677734,Hospital Ward
+968,536f1df9498e666a1bc38ddc,c2 department,11.583658218383789,122.75836181640625,Hospital Ward
+969,53894e3b498e46ffbbc0aa8d,ceh labor room,11.576301574707031,122.75186157226562,Hospital
+970,530d2342498e60883a2fde2d,st. catherine laboure ward,11.577006340026855,122.75386810302734,Hospital
+971,4f80f27be4b0a6d0b6a0d3b6,sacred heart chapel rmph,11.588308,122.752786,Hospital
+972,51c812f3498ea67ebebc2cd2,suite room 205 immaculate heart of mary ward,11.581786719686658,122.75824046112034,Hospital
+973,4d2265150901721ed2b1a2a5,korean philippine friendship hospital,14.276475294826641,120.8696291813304,Hospital
+974,4d8c476efdd3b1f7d1276ada,gen. emilio aguinaldo memorial hospital,14.27602743391325,120.86979177885839,Hospital
+975,52cee97b498e856d9402c8a3,korea philippines friendship hospital- nicu,14.275497436523438,120.87041473388672,Hospital
+976,50ecde5ce4b0e1334467dc66,"rm 216, korea-philippines friendship hospital",14.275317,120.870808,Hospital
+977,515313aee4b0daa1a61a2819,icu - korea philippines friendship hospital,14.283909219398753,120.88515907619824,Hospital
+978,50b5f098e4b0bcc63e5e2a50,icu medical- surgery ward gen emilio aguinaldo mem.hospital,14.279729807264184,120.86987027413964,Hospital
+979,4d11b4e4b69f224b92ca7a55,caraga regional hospital,9.784369826518125,125.48960882138134,Hospital
+980,5af264ec9deb7d002cd209e9,saint paul university hospital,9.766469,125.483403,Hospital
+981,502ed7c2e4b07730f43b4ff1,miranda family hospital,9.781854593260222,125.48612361693132,Hospital
+982,51738cc1e4b0f0aa5cc18590,caraga regional hospital dialysis unit,9.784470399785604,125.48970055666487,Hospital
+983,51b189d2498e6a6143566ae9,caraga regional hospital,9.787185165478506,125.49233728241342,Hospital
+984,4f8d693ce4b01946688f10dc,miranda family hospital or,9.78866558277977,125.49320369288108,Hospital
+985,4d6771c1ae912d43ec3d9109,st. paul hospital,17.613813204995722,121.70766853414334,Hospital
+986,4d534e3908a7b1f713463192,tuguegarao city people's general hospital,17.61317309573703,121.729554976097,Hospital
+987,4e001731d4c080823b64379e,holy infant hospital,17.615714001071645,121.7258885327797,Hospital
+988,52031680498e8acc92a29184,de leon hospital,17.610348,121.728108,Hospital
+989,51df90a6498e56e0e6733fb9,peoples emergency hospital,17.613165,121.729622,Hospital
+990,4d687015342b8cfa1d6eba2c,divine mercy wellness center,17.615867926683265,121.729301624921,Hospital
+991,4d521e099b27721e62efbe46,clinica de leon,17.610304803180643,121.72822058200836,Hospital
+992,4cbe4aa4575d236a7058b88e,gov. faustino n. dy sr memorial hospital,17.132062132740725,121.86840289530986,Hospital
+993,4f00396cd3e364d5fcbf5ebc,davao oriental provincial hospital (doph),6.9441219506271405,126.24297469673276,Hospital
+994,4fa48145e4b08e1f882a0067,"surgery ward, doph",6.942355735162822,126.23583841449,Hospital
+995,4f84dc1be4b0da7773afee95,"ecg/caramel club - opd dept, doph",6.9441219506271405,126.24297469673276,Hospital
+996,4d4191d400e8a35d0d7f05fb,kidapawan doctors hospital,7.009164699471853,125.08917922476478,Hospital
+997,50d2aae0e4b04d6ae8464812,midway hospital,7.009464538265783,125.0913479667844,Hospital
+998,543b6f5d498e0160fa2db04b,dizon hospital,7.007119,125.09215,Hospital
+999,5162ac81e4b0e047f042121d,manuel hospital,7.006229400634766,125.09171295166016,Hospital
+1000,50e3b36fe4b0f6f2e36d0c4f,ns3 - cotabato provincial hospital,7.015118,125.0840585,Hospital
+1001,4ef0830e29c22c6c76be854f,madonna general hospital,7.021188292140477,125.08996626867935,Hospital
+1002,58aa1f432603272edfc2d839,kidapawan city hospital,7.002102,125.076469,Hospital
+1003,4fd1514de4b0087426feb177,midway hospital,7.022189471773449,125.0930569804546,Hospital
+1004,4e958a964690d749b3c49809,university hospital -usm,6.996139898100931,125.08163602253775,Hospital
+1005,4eb776c061af0dda91382ae8,southern isabela general hospital,16.680814407241222,121.54626333469591,Hospital
+1006,5177ba41498ee83485bc1d82,corado medical clinic and hospital,16.688260520056943,121.55026044657711,Hospital
+1007,4f19119fe4b0338aedd77251,corado hospital,16.68879369969101,121.54949113883245,Hospital
+1008,5184e1c3498eaef7c8a0c128,callang general hospital,16.685527993411856,121.54334764054916,Hospital
+1009,4f8fa49ce4b072703f767416,renmar specialists' hospital,16.687292122656217,121.542873763542,Hospital
+1010,4d663499e07aa35d3441a68f,callang general hospital,16.69250701910107,121.5503886640312,Hospital
+1011,4e8f871f8b81c6df65558b76,callang general hospital and medical center,16.69251890642087,121.55049458268911,Hospital
+1012,4fb762a2e4b08bf863542b9e,"de vera medical center, inc.",16.694730558558227,121.5541422273294,Hospital
+1014,506bc159e4b0befefa30cf95,samson dental clinic,16.68917172755233,121.55109107014053,Hospital
+1015,506bc0fee4b07af6df041226,samson denta clinic,16.695148240478854,121.5538449064216,Hospital
+1016,4d545c29ba5b224bef520214,holy child hospital - hch,9.30636032284083,123.307253012062,Hospital
+1017,4da24f64b521224b019707ee,negros oriental provincial hospital,9.322019322925355,123.30017538194978,Hospital
+1018,4e41db7cb3add6fcb0d11b01,holy child hospital,9.306054571244182,123.30679478424955,Hospital
+1019,507123ebe4b008c20dd5ed69,intensive care unit - holy child hospital,9.305939674377441,123.30671691894531,Hospital
+1020,52fb4904498e68c606f2ed6f,siliman hospital,9.306393445754571,123.30508208209949,Hospital
+1021,522f7cfa498e5f18ac556a37,"negros oriental provincial hospital, pacu",9.322500036562293,123.30080038325737,Hospital
+1022,531c2c37498efc5a7b22e7d0,negros oriental provincial hospital radiology dep't,9.322271888743863,123.29961068432135,Hospital
+1023,51919400498ebe08dc49084d,noph laboratory,9.322665214538574,123.30040740966797,Hospital
+1024,507d02c9e4b0e1188199e2e9,dipolog medical hospital,8.574405,123.344092,Hospital
+1025,4ef945039911b01ddd1da501,dipolog medical center hospital (dmc),8.571873060440641,123.34638170607244,Hospital
+1028,50940e62e4b07b04aa4c8b8c,uerm hospital - critical care unit,14.606540862427707,121.02068983271518,Hospital Ward
+1029,4d2c05478292236a3a0d39bb,"orthopaedics surgery department, uerm hospital",14.606927149531424,121.0207066323073,Hospital Ward
+1032,4eab648c61af01ea2ac93c73,rehab department - our lady of lourdes hospital,14.598169812120078,121.02804783042116,Hospital
+1033,4f27555de4b01133cb916b7c,257 st josaph lourdes hospital,14.598821451503456,121.02663674232475,Hospital
+1034,4f8d5b69e4b02aede0411601,"room 146 st. arnold, our lady of lourdes hospital",14.598235130310059,121.02533721923828,Hospital
+1035,4ddb89e37d8b771c0b006de0,mental hospital,14.606946766920165,121.04116679999039,Hospital
+1036,585bc4789526bc19718a1fb3,dr. lorenzo hocson memorial hospital,14.606433,121.024363,Hospital
+1038,4f67c017e4b037b43e483e04,our lady of lourdes hospital icu department,14.595188174746065,121.02306975165304,Hospital
+1039,5387fdf2498e3f763f495ebc,rm. 226 our lady of lourdes hospital,14.595121524266046,121.02305295238958,Hospital
+1042,524f7b0311d280deb5e6f7fe,our lady of lourdes hospital - department of internal medicine,14.595052719116211,121.02300262451172,Hospital
+1044,4ff0ee3be4b0c8e6f60fc555,"department of anesthesiology, uerm memorial hospital",14.606588800478992,121.02215138849003,Hospital Ward
+1046,4f62a385e4b087553b3707b3,tzu chi eye clinic,14.601535418142326,121.02204499230639,Hospital
+1047,52cf7e92498e3469fd772660,uermmc | infirmary clinic,14.607028944293946,121.02091382708485,Hospital
+1048,4f863329e4b0b12f94261745,"pediatrics out-patient clinic, uermmmci",14.60690689086914,121.02062225341797,Hospital
+1049,4fe92e33e4b0fb7f8c4f3a5b,uermmmc ent-hns out-patient clinic,14.606954635496589,121.02062263432329,Hospital
+1050,52d5f332498e43a4f71e55e8,ue clinic,14.607667,121.019867,Hospital
+1051,4fdfee6ae4b0b6c4da86320b,uermmmci ob-gyn out-patient clinic,14.606691023530155,121.01739146753786,Hospital
+1052,4b512061f964a520c84327e3,cardinal santos medical center (csmc),14.597843762689061,121.04598018546477,Hospital
+1053,52aaced6498e993434f6ae43,st. lukes medical center clinical nutrition,14.610616012197603,121.02635116296499,Hospital
+1054,4e6b30a3c65b5bef28b7d6b4,clinical pathology department- the medical city,14.597626040409736,121.04624490818007,Hospital
+1055,51386a44e4b0ccb4c96e09a8,department of clinical neurosciences - uerm hospital,14.606833816846303,121.02051623679297,Hospital Ward
+1056,56cbea35498ed8fa25ebd4a7,csmc cardiac catheterization and interventional laboratory,14.597871,121.045958,Hospital
+1057,50ef65f0e4b0aef77526e831,uerm pathology lab,14.60657787322998,121.02100372314453,Hospital
+1060,50a6fea4e4b044e8ab7cd7f8,philippine heart center,14.601723415372174,121.0485123515337,Hospital
+1061,4c4156ae520fa5935891c9ac,bethany hospital,16.61399828664762,120.3174423853188,Hospital
+1062,4fa4a168e4b0d6f4bc17da47,martinez maternity & lying in hospital,16.617583,120.317941,Hospital
+1063,4fc2ed0ae4b074b879bfb1cb,lumed hospital,16.61491861297925,120.31592875592399,Hospital
+1064,4d58f6f84d9a721ecdc03b0e,la union medical diagnostic center and hospital,16.61487710646593,120.31576216040798,Hospital
+1065,4f6010a2e4b0b0441b318acd,bacnotan district hospital,16.61411027243615,120.31793351670906,Hospital
+1066,4e2a37418877b69d49d362a5,bethany hospital o.r.,16.613889519532908,120.31776457738076,Hospital
+1067,4f43899be4b0561bff81aad3,bethany hospital inc. nursery/nicu,16.613933350711015,120.31794477932318,Hospital
+1068,4e5fa18318a8bc94706bd6c6,bethany hospital icu,16.61386903013689,120.31778710263715,Hospital
+1069,5316eaad11d2771160c7ad5a,padilla clinic,16.614372,120.319162,Hospital
+1070,5316ebbe11d258002d34a04b,pabrua clinic,16.608644,120.317986,Hospital
+1071,5316eca1498ee0e6810140d7,dumlao clinic,16.608516,120.318055,Hospital
+1072,5316ec1a498e4be6b21c765c,zubiri clinic,16.608463,120.318146,Hospital
+1073,5114ef42e4b0f8599e6ff4a5,bascom hospital,6.703746795654297,121.96412658691406,Hospital
+1074,50c68177e4b0a473e3085edd,basilan general hospital,6.693781885670138,121.96247224142273,Hospital
+1075,5134096fe4b0ca4ed6bcd89d,infante hospital management corporation,6.7051454348552255,121.97301913768354,Hospital
+1076,4f97b22ae4b08f113330a2ce,karmelli clinic and hospital,18.191769949886567,120.61023537663657,Hospital
+1077,51d3f2dc498eddc3c7b44eac,provincial hospital,18.199228,120.60113,Hospital
+1078,58a26d10730a9270e3c41f71,duquez childrens hospital,18.200261,120.598607,Hospital
+1079,4c9fde722fb1a1439dcdf740,governor roque b. ablan sr. memorial hospital,18.1997507801356,120.60187166054908,Hospital
+1080,5239180711d2a8ba800eb5cb,gov. roque b. ablan sr. memorial hospital,18.199673894940144,120.60201884767677,Hospital
+1081,518b2e23498ea0172d9317ab,ilocos norte provincial hospital,18.19762165230091,120.59858005193333,Hospital
+1082,51c8d11a498e548f5f187de0,mariano marcos memorial hospital & medical center hemodialysis room,18.201473022221293,120.59731576528917,Hospital
+1083,50376635e4b0c09de96e9153,provincial hospital,18.19796512387807,120.60297967095092,Hospital
+1084,538a8be6498e279098dfada8,room 201 ranada hospital,18.197036,120.598053,Hospital
+1085,51fb791f498e580121a6501e,aj taylan hospital,18.19397,120.59958,Hospital
+1086,4e5f139d45dd21543f5dbfcd,northern doctors general hospital,18.194018817067658,120.5978327195772,Hospital
+1087,5198ca0b498e9da48e02379c,fatimas hospital,18.20197,120.592395,Hospital
+1088,50592e39e4b046bed11b3c0f,st camillus de lellis general hospital,18.201159982842274,120.59166999658501,Hospital
+1089,4f0f9d90e4b0380200d8e7b9,ranada general hospital,18.196699671221772,120.59217982210532,Hospital
+1090,4c99998278fc236a3e882e97,new ranada hospital,18.196553166583623,120.59222477656029,Hospital
+1091,52ddbe58498e48f0fab32911,icu-ranada general hospital,18.196453094482422,120.59221649169922,Hospital
+1092,50c32158e4b025007f2149f4,dr. antonio ranada clinic & lying-in hospital,18.196776216564928,120.59118520070624,Hospital
+1093,5389c508498ebf727015e5f9,room 208 ranada hospital,18.194431,120.590252,Hospital
+1096,4d6e32082e6ea093b1e61950,ramiro community hospital,9.6444701233358,123.85283174030877,Hospital
+1097,4f077d25e4b039f5abf77054,gov. celestino gallares memorial hospital,9.643889131856698,123.85703508300664,Hospital
+1098,4dad16f86a23fc68ff419c7c,borja family hospital,9.641720792047064,123.85453516705356,Hospital
+1099,4f056432d3e321b78f50fc22,cong. simeon g. toribio memorial hospital,9.64820447397347,123.85436620228444,Hospital
+1100,50602e18e4b0a05447641cee,"suite 358, ramiro community hospital",9.644409,123.853066,Hospital
+1101,51750c29e4b09098cd2abd6b,ramiro community hospital -  tb dots center,9.645044326782227,123.85433197021484,Hospital
+1102,503ae137e4b0f3363d730449,bohol st. jude hospital,9.654429911322161,123.85545511128456,Hospital
+1103,4f4f6217e4b0dff6fa7fd381,st jude hospital,9.65397343994581,123.85620844679943,Hospital
+1104,52ce58d3498e7a609975c108,borja hospital room 303,9.642171,123.853574,Hospital
+1105,55222f5f498e84ea4207bf4c,dr. aida ramiro clinic - ramiro community hospital,9.642258644104004,123.85511779785156,Hospital
+1106,4bba931ab35776b00324cb01,gcgmh hospital,9.643879384265073,123.85702277345655,Hospital
+1107,4f38e15fe4b0ea2d7f5a700d,gcgmh hospital - delivery room,9.6439010322112,123.85711320433325,Hospital
+1108,5463f78a498e6eb5e4a3519b,"discovery suite room 2, borja family hospital",9.640907287597656,123.85449981689453,Hospital
+1109,5163adbce4b00dc601e4af21,ramiro community hospital - south station,9.6414155960083,123.85581970214844,Hospital
+1110,4dbbf65fb3dcc563f2d3af2a,tagbilaran community hospital corporation,9.64267831313691,123.85842010394015,Hospital
+1111,509a6f55e4b03a271c71a734,puericultural hospital maternity,9.640548706054688,123.85903930664062,Hospital
+1112,4f006b812c5b66f33cc4948d,mmg hospital & health services,9.652048376746178,123.8648414348712,Hospital
+1113,56f0a5b7498e6f85e6ed07c1,governor celestino gallares memorial hospital,9.638929729938583,123.86222546304113,Hospital
+1114,54792a68498e1e48fdad8c8e,hnu medical hospital icu,9.650885581970215,123.86788940429688,Hospital
+1115,51ee40df498e00a558e73df7,imap lying - in clinic,9.653332710266113,123.85808563232422,Hospital
+1117,519b0d9c498ef838db1b9ac4,samar provincial hospital,11.781141098066382,124.88290541273565,Hospital
+1118,4ff2a6eae4b015c75aad8581,provincial hospital,11.776587768626348,124.8816123790649,Hospital
+1119,4f268729e4b03bdcfedba695,samar provincial hospital,11.773689641430177,124.8858146666576,Hospital
+1120,4f7ece88e4b074f70d6ba69f,provincial hospital of samar,11.772263035882762,124.88516278692624,Hospital
+1121,4ff2a510e4b0732bdb60607c,centro clinic,11.780527723309822,124.88369199860733,Hospital
+1122,4f779da3e4b0e8caa60044c7,bataan general hospital and medical center,14.678471701553974,120.53061884770817,Hospital
+1123,4cf7e33d71538cfaa20bbe2e,bataan st. joseph hospital & medical center,14.681377192615212,120.54137147025149,Hospital
+1124,5262077511d2aab0a43ed693,bataan st. joseph hospital & medical center,14.681394402647975,120.54138532283214,Hospital
+1125,4f624f92e4b0bedb2ad6557e,womens hospital,14.67877322952509,120.53596305076391,Hospital
+1126,4d15305ee190721ea5630d21,women's hospital,14.677290498306295,120.53545708812514,Hospital
+1127,514e5d84e4b02a09bdabda4d,bataan women's hospital,14.677361097867772,120.53569575824602,Hospital
+1128,56ce63dacd1018c22ebc8f91,women's hospital,14.675013108942535,120.54010062536959,Hospital
+1129,4cf50cf27bf3b60c5f5a737f,bataan doctors medical center,14.682949101888394,120.5424742669826,Hospital
+1130,4f6be7fee4b058b4bf3ebbe9,isaac and catalina medical center (icmc),14.685190816297176,120.53828998100346,Hospital
+1131,4e04e10662e1cc813070f167,masbate provincial hospital,12.372100340215908,123.62386899836159,Hospital
+1132,515c26fce4b0dc80ef0ec9e7,salvacion oppus yñiguez memorial provincial hospital,10.133651332558907,124.84776023976703,Hospital
+1133,4f3516f5e4b0e4d04f0c83b7,maasin maternity & children's hospital,10.133632758946721,124.84359380575465,Hospital
+1134,5008392ae4b0accd72818d62,cabadbaran district hospital,9.122943168067849,125.532182592021,Hospital
+1135,4f5b82ebe4b086681b1f6826,misamis occidental provincial hospital,8.482241326824147,123.80286379678972,Hospital
+1136,5051ad7ae4b04fcf95bb7784,st.therese hospital,8.484111126034618,123.8045135785925,Hospital
+1137,527db27a498e6c7e1614bd80,st. therese hospital,8.48081368634577,123.8039355147959,Hospital
+1138,50fbd83fe4b0b74eb14ac592,misamis occidental provincial hospital,8.484093827553696,123.80491167703914,Hospital
+1139,4f8aa820e4b060b7f88862dc,oroquieta community hospital,8.486698596375296,123.80360830727832,Hospital
+1140,5035a901e4b02de9369aa6b1,st. therese hospital,8.486833572387695,123.80347442626953,Hospital
+1141,4efab2189911b01dde65b52b,mancao hospital,8.485673904418945,123.80443572998047,Hospital
+1142,504b3ae0e4b086b59847186a,st. therese hospital,8.484922153106739,123.80860900298207,Hospital
+1143,50c3392fe4b0f9a0d7941a85,tamola-tan medical hospital,8.49378486731252,123.7963112801503,Hospital
+1144,513f1606e4b05551e558d063,borongan doctors hospital,11.60611405659641,125.43400984902232,Hospital
+1145,4d21475f6e8c37040e6701a0,eastern samar provincial hospital,11.609083327229454,125.42541693777967,Hospital
+1146,4f5c2708e4b053fd6867dd1f,tandag doctor's hospital,9.068293,126.1902,Hospital
+1147,4f5c2809e4b035e3143c1c93,tandag doctor's hospital,9.074922182771997,126.19169744092781,Hospital
+1148,4ca3eb4ad5a2a143e0c14d90,metro vigan cooperative hospital,17.580803669458216,120.38643412030534,Hospital
+1149,5403ddfc498ee012564af400,unp hospital,17.561350606296244,120.38138289698409,Hospital
+1150,543fab42498e959fe89e74e6,st. james hospital,17.575560126785174,120.38801317354108,Hospital
+1151,4f5d6a28e4b053fd6989a33c,rabara clinic and hospital,17.573307537316275,120.38430971622897,Hospital
+1152,4f653613e4b0777dfd256cbc,st. james hospital-chapel,17.570287474002647,120.38880675776446,Hospital
+1153,4d997eb40caaa1430d05c6b3,lahoz hospital,17.569560435231544,120.38595883719256,Hospital
+1154,526e737d498e4733ab1326dc,gabriela silang general hospital - delivery room,17.58046896418762,120.3840114088305,Hospital
+1155,4f654b2ee4b09ff9bd5c1ddf,st. james hospital-nurses' station,17.57922376966531,120.37924965440497,Hospital
+1156,4e7a6f14b9939836202fe8ef,st. james hospital,17.579129377528268,120.37895696403099,Medical Center
+1157,50eff98ce4b0578a28484ec7,figuerres clinic & hospital,17.56490890953731,120.38765296349523,Hospital
+1158,512aca1fe4b069189c311dd0,metro vigan cooperative hospital,17.572181715254235,120.39780738305085,Hospital
+1159,525a941711d27d7ca1abbec2,ilocos sur cooperative medical mission group hospital,17.561884,120.384308,Hospital
+1161,4f2f2952e4b03caf54a68772,vigan poly clinic,17.56674165080429,120.38859851272949,Hospital
+1163,570cb7fe498e4ef23d6dd549,palayan city emergency  hospital - integrated city health office,15.546047,121.088823,Hospital
+1164,502de43be4b0adcbebed7544,northern samar provincial hospital,12.499928745887088,124.63624027651177,Hospital
+1165,50a43289e4b0969a02a9e5b5,catarman doctors' hospital,12.497823614290946,124.64784533395776,Hospital
+1166,53ec0790498e04e71a203258,our lady of peace medical clinic,12.498255,124.639517,Hospital
+1167,4c862603c5a995210e359a05,benguet general hospital,16.450558076176076,120.58967920541086,Hospital
+1168,6049e8f42c739f6a1de594c5,cordillera hospital of the divine grace,16.45242,120.574684,Hospital
+1169,4d2d1276853ff04d2bf3c5da,dr. rafael s. tumbokon memorial hospital,11.702800251634176,122.36745536327362,Hospital
+1170,4cb52dce52edb1f780ca65fe,st. gabriel hospital,11.70902175943108,122.36489693146359,Hospital
+1171,4c73b6484bc4236a5a7ece7a,st. jude hospital,11.708353202556623,122.36217401237543,Hospital
+1172,4cd8f5b6a99d3704cd6a08ce,aklan cooperative mission hospital,11.708767320626425,122.36839358948849,Hospital
+1173,51c88d96498efc7a4c5eb55c,aklan cooperative mission hospital,11.701757297743097,122.37763374322199,Hospital
+1174,515d35c2e4b0e917e616d5a2,alkan cooperative mission hospital,11.701151471083165,122.3776005465141,Hospital
+1175,4f17ceaae4b02d2c5a8e2287,mission hospital,11.701220838519893,122.37796570972596,Hospital
+1176,52639875498ea08a5eaba6ad,panay health care hospital,11.691573677458699,122.36762283486448,Hospital
+1177,4e7fd0907ee63d00ea72d231,angel salazar memorial general hospital,10.753145523798407,121.94156984136818,Hospital
+1178,4f1387abe4b0958ec360a643,asmgh critical care unit complex,10.75058352018601,121.94135852881405,Hospital
+1179,5186aa4d498e8375002d98c0,leon hernandez hospital,14.11476025794653,122.95701273241882,Hospital
+1180,4f8e3c64e4b0342ed08984fe,our lady of lourdes hospital,14.110202418863574,122.95270486137359,Hospital
+1181,4d1b13381683a14340f67951,leon d. hernandez memorial hospital,14.115392269900697,122.94812679290771,Hospital
+1182,57037e92498eca491f8a77ac,lourdes hospital,14.112353,122.9474,Hospital
+1183,4f7f8f42e4b007a6647ad238,sto. niño hospital,14.115183538043846,122.9635924682266,Hospital
+1184,501ba093e4b07d0ab5f54d30,our lady of lourdes hospital,14.121235889889254,122.9470212686203,Hospital
+1185,4fbdbe2be4b0f1c2f5c1eb4a,camarines norte provincial hospital,14.121625500140949,122.95696871934939,Hospital
+1186,500e69d3e4b0fe0c6f804985,santissima trinidad hospital,14.110820770263672,122.94068908691406,Hospital
+1187,500e6aace4b0e6ec4752dc8f,santissima trinidad hospital,14.100260734558105,122.94318389892578,Hospital
+1188,51f89432498e4196d51099e0,"immaculate heart of mary hospital, inc",13.584429,124.236965,Hospital
+1189,545c2d00498e6039ee7efb70,dr. a.p. zantua memorial hospital,13.584854,124.234646,Hospital
+1190,5191f52d498ee7d83a67821b,zantua memorial hospital,13.586621,124.239548,Hospital
+1191,545c2d63498ee931998e8b49,dr. a.p. zantua memorial hospital,13.587879,124.237373,Hospital
+1193,4e82cf4761af29e4de3725d6,veterans regional hospital,16.483326177701294,121.1344495431111,Hospital
+1194,4c0f25422466a593d6467a21,veterans hospital,16.488684,121.161951,Hospital
+1197,52a131a0498ece5d4648f141,sulu provincial hospital,6.047031879425049,120.99849700927734,Hospital
+1198,5eac4cd6087e750007d6d386,sulu provincial hospital dorm,6.047004,121.002329,Hospital
+1199,523ac843498e3f32ee047578,holy family hospital,5.03070592880249,119.7693099975586,Hospital
+1200,4ce71d11948f224bcc16e85d,datu halun sakilan memorial hospital,5.026285284427029,119.7767552312302,Hospital
+1201,4f955a52e4b008256717d405,argao community hospital - mham,9.876050940727332,123.60238774963877,Hospital
+1202,4f16cf51e4b0804e8fadb1c1,isidro c. kintanar memorial hospital,9.881676719496165,123.60856322136496,Hospital
+1203,564d70ea498e0fc59179672d,argao district hospital,9.882314,123.608794,Hospital
+1204,541f84c6498ead834ad944d7,holy nazarene clinic and hospital,6.629485,124.598208,Hospital
+1205,549778fd498e5586ee225991,galinato family clinic and hospital,6.631553032493883,124.59922123241596,Hospital
+1206,54220915498ef2e2f6aebd08,matias clinic and hospital,6.643823,124.60655,Hospital
+1207,4eab79786c250fcc74a18cbb,sultan kudarat provincial hospital,6.644369295968942,124.60793879011491,Hospital
+1211,5146c835e4b01d537e799758,united candelaria doctors hospital,13.93023940045723,121.4418096483646,Hospital
+1212,51ea5c73498ee269f02ccc63,duque general hospital,13.816158294677734,121.39817810058594,Hospital
+1213,50174367e4b02848f6f73c11,san juan doctors hospital,13.826881,121.40988,Hospital
+1214,4f28b04de4b022d416f44a9f,aranas medical & childrens clinic,13.820628967221063,121.39717270366418,Hospital
+1215,51f9c5c6498eceabc3d9bc2f,"liwag medical clinic, inc. general hospital",13.966095793724326,121.32420311318448,Hospital
+1216,4ec893cecc21b428e4687304,st. cecilia hospital,13.960258924437838,121.32290725057385,Hospital
+1217,53ee9d61498eeae48454fd84,tiaong lying in hospital,13.958977,121.322131,Hospital
+1219,4e24f72d52b17b2b5dca8a3a,dr. damian reyes memorial hospital (formerly marinduque provincial hospital),13.44263755726106,121.82875737205482,Hospital
+1220,4e24f63552b17b2b5dca81b4,dr damian reyes memorial hospital tb - dots,13.449018862986035,121.83904459366016,Hospital
+1221,517518ac498e1d915f07861e,tubod community hospital,8.046771951545535,123.79518777064871,Hospital
+1222,4d58b1df1d4a8cfaae5883ed,occidental mindoro provincial hospital,13.23039392099801,120.58615663592363,Hospital
+1223,5befead02aff31002c9f7459,emergency room - occidental mindoro provincial hospital,13.230901,120.586101,Hospital Ward
+1224,51580ef8e4b0210cd88dcb49,nabunturan doctors hospital,7.601712739561545,125.96731315042709,Hospital
+1225,5044c269e4b0711881d6c4bc,badian district hospital,9.863497268171894,123.39857975550103,Hospital
+1226,519605a4498ef1d8149b2fb4,seares hospital,17.598621299963778,120.61645290277566,Hospital
+1227,54f669fc498ec71694df9912,"or-dr complex, abra provincial hospital",17.615754656268816,120.61746417995691,Hospital
+1228,51494443e4b011fbda252f67,hmc hospital,17.598678588867188,120.6197280883789,Hospital
+1229,5140f7f7e4b0a81703b51fa0,bangued christian hospital,17.595805410929795,120.62072268465107,Hospital
+1230,4e99c4af30f87c966bfde7fc,abra provincial hospital,17.59246150663119,120.61735372639475,Hospital
+1231,4ed06db6490168f8cfe34536,camiguin general hospital,9.248414742297712,124.7217721216383,Hospital
+1232,4ec5f547e5fa232a735eb1bb,biliran provincial hospital,11.560314264336327,124.39660354452485,Hospital
+1233,518efec1498ed099ee2c4cff,naval general hospital,11.543521235195954,124.3934936207803,Hospital
+1234,4f424fd7e4b08cc3738af474,ramon magsaysay memorial hospital,15.316094960774432,119.99177180037775,Hospital
+1235,50b59961e4b01cb8388ddbf9,sto. niño hospital,16.026426315307617,120.2281265258789,Hospital
+1236,4ecd2e7b0e611503514d0a58,urduja general hospital,16.021235,120.234256,Hospital
+1237,51088d9fe4b0f42b04df9738,sto. niño de casipit general hospital,16.020915,120.228872,Hospital
+1238,4e3623fd52b17fb1c60fdd20,don mariano versoza memorial hospital (ldh),16.018635074963733,120.22970529923077,Hospital
+1239,4fec10b2e4b07d3697138d1b,lingayen district hospital,16.017786859933537,120.23045575340994,Hospital
+1240,4ff81f41e4b0e8d00de812b8,jesus nazarene general hospital,16.014657545562173,120.23205610116857,Hospital
+1241,5347588b498eae8a33ca9939,jesus nazarene general hospital,16.01457336257064,120.23518912014018,Hospital
+1242,5cf88dd80d173f002c813b04,ace hospital,9.634879,123.869592,Hospital
+1243,4ff7856ce4b0463f7162b2a3,englewood hospital,9.627312276731098,123.87899909668559,Hospital
+1246,518b39cd498ee91eb1cfcd55,lianga district hospital,8.619462077334775,126.08607336473142,Hospital
+1247,515e504ae4b0fd9ec72422dc,dr. ildefonso alcantara memorial hospital,9.763938259591686,123.53373636680263,Hospital
+1248,4f77c508e4b08e5a67fc9d8c,julio cardinal rosales memorial hospital,9.763606098642496,123.5349341052363,Hospital
+1249,4ffa4a9ae4b0f331640c2d77,seamen's hospital,9.76429,123.53170666666666,Hospital
+1250,51a2c671498e25e7a6c7f4ba,wesleyan -hospital,15.761961936950684,121.56785583496094,Hospital
+1251,4dc7abd0e4cd169dc6819f44,premiere general hospital,15.75359458995817,121.5437323157349,Hospital
+1252,4ebcf0477bebc23efa15009a,maribojoc community hospital,9.745349065895047,123.85177373886108,Hospital
+1253,4f4f09fee4b066791a729996,siquijor provincial hospital,9.220366080036383,123.51737123226127,Hospital
+1254,50e7d037e4b004b19e48cf62,dr.henry m. de villa memorial hospital,7.7828748722369925,122.58605643296657,Hospital
+1255,56625eb0498e05208e8a8632,ipil doctors hospital,7.793407,122.601357,Hospital
+1256,513b1755e4b0a2c58af2ddc5,batanes general hospital,20.45073446912803,121.97030336723013,Hospital
+1257,573b0bbecd10b4da041d40ae,codilla-ramos hospital,6.8735175,124.433334,Hospital
+1258,4f3d0ffde4b0f8d7e6f95923,maguindanao provincial hospital,6.851698269943417,124.43038846693243,Hospital
+1259,5399082a498ee5525aa95cd2,bontoc general hospital,17.09345,120.977388,Hospital
+1260,53cb46fa498ec6ddfb116c6d,kabugao district hospital,18.017732620239258,121.18222045898438,Hospital
+1261,50727424e4b0ec75e7186d7b,lupon district hospital,6.894880640270911,126.00954670274874,Hospital
+1262,53a80cdb498e6acf6f779a38,davao oriental provincial hospital lupon,6.8951191902160645,126.02210998535156,Hospital
+1263,516e1213e4b005f4f375bdf0,evangelista medical clinic & hospital,6.79290771484375,124.63716888427734,Hospital
+1265,4f0a7093e4b026657047a7fd,dr. andress j. luciano district hospital,15.216855152115253,120.66986756678406,Hospital
+1266,5158e1cde4b06ee01a654a80,kabasalan general hospital,7.795887,122.762276,Hospital
